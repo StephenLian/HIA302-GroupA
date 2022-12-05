@@ -14,7 +14,7 @@ To describe daily Covid-19 cases reported by each state in Malaysia.
 Data Collection Steps
 
 Hypothesis
-A.	Focus area: Number of covid cases will coincide with the number of people attending public events (mass gathering)/ public holidays = plot daily case
+- The increase in Covid 19 cases nationwide will be reflected inversely after periods of increased mass gatherings as well as interstate travels during holidays and long weekends
 
 Variable requirements:
 Daily Covid-19 Cases
