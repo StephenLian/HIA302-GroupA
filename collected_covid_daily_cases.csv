@@ -1,0 +1,1953 @@
+date,holiday,malaysia_cases_new,state,state_cases_new,admitted_covid,icu_covid
+2022-08-01,non-holiday,3213,Johor,114,41,4
+2022-08-01,non-holiday,3213,Kedah,130,26,8
+2022-08-01,non-holiday,3213,Kelantan,42,6,2
+2022-08-01,non-holiday,3213,Melaka,90,14,2
+2022-08-01,non-holiday,3213,Negeri Sembilan,153,14,2
+2022-08-01,non-holiday,3213,Pahang,34,7,0
+2022-08-01,non-holiday,3213,Perak,224,45,3
+2022-08-01,non-holiday,3213,Perlis,6,7,2
+2022-08-01,non-holiday,3213,Pulau Pinang,171,29,6
+2022-08-01,non-holiday,3213,Sabah,241,14,7
+2022-08-01,non-holiday,3213,Sarawak,52,20,4
+2022-08-01,non-holiday,3213,Selangor,865,64,12
+2022-08-01,non-holiday,3213,Terengganu,23,7,0
+2022-08-01,non-holiday,3213,W.P. Kuala Lumpur,1006,27,2
+2022-08-01,non-holiday,3213,W.P. Labuan,3,3,0
+2022-08-01,non-holiday,3213,W.P. Putrajaya,59,7,0
+2022-08-02,non-holiday,4204,Johor,82,42,4
+2022-08-02,non-holiday,4204,Kedah,168,35,7
+2022-08-02,non-holiday,4204,Kelantan,90,12,3
+2022-08-02,non-holiday,4204,Melaka,80,10,1
+2022-08-02,non-holiday,4204,Negeri Sembilan,167,18,2
+2022-08-02,non-holiday,4204,Pahang,53,17,1
+2022-08-02,non-holiday,4204,Perak,237,45,3
+2022-08-02,non-holiday,4204,Perlis,12,1,2
+2022-08-02,non-holiday,4204,Pulau Pinang,172,18,6
+2022-08-02,non-holiday,4204,Sabah,272,23,3
+2022-08-02,non-holiday,4204,Sarawak,112,13,6
+2022-08-02,non-holiday,4204,Selangor,1526,73,14
+2022-08-02,non-holiday,4204,Terengganu,37,7,0
+2022-08-02,non-holiday,4204,W.P. Kuala Lumpur,1080,22,4
+2022-08-02,non-holiday,4204,W.P. Labuan,10,1,0
+2022-08-02,non-holiday,4204,W.P. Putrajaya,106,7,0
+2022-08-03,non-holiday,5330,Johor,113,46,5
+2022-08-03,non-holiday,5330,Kedah,137,39,4
+2022-08-03,non-holiday,5330,Kelantan,72,9,3
+2022-08-03,non-holiday,5330,Melaka,169,12,2
+2022-08-03,non-holiday,5330,Negeri Sembilan,227,16,1
+2022-08-03,non-holiday,5330,Pahang,66,13,3
+2022-08-03,non-holiday,5330,Perak,316,41,5
+2022-08-03,non-holiday,5330,Perlis,24,7,1
+2022-08-03,non-holiday,5330,Pulau Pinang,195,19,5
+2022-08-03,non-holiday,5330,Sabah,277,26,5
+2022-08-03,non-holiday,5330,Sarawak,92,10,4
+2022-08-03,non-holiday,5330,Selangor,2054,79,11
+2022-08-03,non-holiday,5330,Terengganu,47,5,0
+2022-08-03,non-holiday,5330,W.P. Kuala Lumpur,1449,27,0
+2022-08-03,non-holiday,5330,W.P. Labuan,11,0,0
+2022-08-03,non-holiday,5330,W.P. Putrajaya,81,9,0
+2022-08-04,non-holiday,4413,Johor,95,46,5
+2022-08-04,non-holiday,4413,Kedah,123,28,5
+2022-08-04,non-holiday,4413,Kelantan,93,13,2
+2022-08-04,non-holiday,4413,Melaka,159,12,3
+2022-08-04,non-holiday,4413,Negeri Sembilan,263,11,2
+2022-08-04,non-holiday,4413,Pahang,89,11,2
+2022-08-04,non-holiday,4413,Perak,327,47,5
+2022-08-04,non-holiday,4413,Perlis,21,4,1
+2022-08-04,non-holiday,4413,Pulau Pinang,230,23,6
+2022-08-04,non-holiday,4413,Sabah,281,18,7
+2022-08-04,non-holiday,4413,Sarawak,107,15,2
+2022-08-04,non-holiday,4413,Selangor,1129,93,8
+2022-08-04,non-holiday,4413,Terengganu,48,7,0
+2022-08-04,non-holiday,4413,W.P. Kuala Lumpur,1344,14,4
+2022-08-04,non-holiday,4413,W.P. Labuan,14,1,0
+2022-08-04,non-holiday,4413,W.P. Putrajaya,90,7,0
+2022-08-05,non-holiday,3927,Johor,128,59,6
+2022-08-05,non-holiday,3927,Kedah,121,23,6
+2022-08-05,non-holiday,3927,Kelantan,49,7,2
+2022-08-05,non-holiday,3927,Melaka,155,13,2
+2022-08-05,non-holiday,3927,Negeri Sembilan,231,21,2
+2022-08-05,non-holiday,3927,Pahang,93,8,2
+2022-08-05,non-holiday,3927,Perak,324,40,3
+2022-08-05,non-holiday,3927,Perlis,12,5,0
+2022-08-05,non-holiday,3927,Pulau Pinang,232,32,7
+2022-08-05,non-holiday,3927,Sabah,315,29,9
+2022-08-05,non-holiday,3927,Sarawak,99,12,3
+2022-08-05,non-holiday,3927,Selangor,1052,77,6
+2022-08-05,non-holiday,3927,Terengganu,32,9,0
+2022-08-05,non-holiday,3927,W.P. Kuala Lumpur,981,29,3
+2022-08-05,non-holiday,3927,W.P. Labuan,7,2,0
+2022-08-05,non-holiday,3927,W.P. Putrajaya,96,10,1
+2022-08-06,non-holiday,4684,Johor,123,29,6
+2022-08-06,non-holiday,4684,Kedah,87,17,7
+2022-08-06,non-holiday,4684,Kelantan,51,10,3
+2022-08-06,non-holiday,4684,Melaka,142,17,2
+2022-08-06,non-holiday,4684,Negeri Sembilan,204,19,3
+2022-08-06,non-holiday,4684,Pahang,81,9,1
+2022-08-06,non-holiday,4684,Perak,289,51,3
+2022-08-06,non-holiday,4684,Perlis,12,2,0
+2022-08-06,non-holiday,4684,Pulau Pinang,197,20,8
+2022-08-06,non-holiday,4684,Sabah,267,17,8
+2022-08-06,non-holiday,4684,Sarawak,84,8,5
+2022-08-06,non-holiday,4684,Selangor,2164,82,7
+2022-08-06,non-holiday,4684,Terengganu,24,3,0
+2022-08-06,non-holiday,4684,W.P. Kuala Lumpur,887,27,2
+2022-08-06,non-holiday,4684,W.P. Labuan,10,2,0
+2022-08-06,non-holiday,4684,W.P. Putrajaya,62,9,1
+2022-08-07,non-holiday,2728,Johor,116,46,3
+2022-08-07,non-holiday,2728,Kedah,101,34,5
+2022-08-07,non-holiday,2728,Kelantan,44,10,3
+2022-08-07,non-holiday,2728,Melaka,101,8,2
+2022-08-07,non-holiday,2728,Negeri Sembilan,146,18,4
+2022-08-07,non-holiday,2728,Pahang,52,13,1
+2022-08-07,non-holiday,2728,Perak,245,37,4
+2022-08-07,non-holiday,2728,Perlis,9,3,0
+2022-08-07,non-holiday,2728,Pulau Pinang,201,19,8
+2022-08-07,non-holiday,2728,Sabah,265,20,6
+2022-08-07,non-holiday,2728,Sarawak,55,11,5
+2022-08-07,non-holiday,2728,Selangor,749,133,7
+2022-08-07,non-holiday,2728,Terengganu,33,9,0
+2022-08-07,non-holiday,2728,W.P. Kuala Lumpur,575,19,3
+2022-08-07,non-holiday,2728,W.P. Labuan,6,2,0
+2022-08-07,non-holiday,2728,W.P. Putrajaya,30,4,1
+2022-08-08,non-holiday,2863,Johor,116,53,4
+2022-08-08,non-holiday,2863,Kedah,130,33,6
+2022-08-08,non-holiday,2863,Kelantan,98,16,6
+2022-08-08,non-holiday,2863,Melaka,115,18,2
+2022-08-08,non-holiday,2863,Negeri Sembilan,125,11,3
+2022-08-08,non-holiday,2863,Pahang,42,10,1
+2022-08-08,non-holiday,2863,Perak,193,25,5
+2022-08-08,non-holiday,2863,Perlis,4,4,1
+2022-08-08,non-holiday,2863,Pulau Pinang,106,7,7
+2022-08-08,non-holiday,2863,Sabah,245,26,5
+2022-08-08,non-holiday,2863,Sarawak,69,17,4
+2022-08-08,non-holiday,2863,Selangor,900,74,7
+2022-08-08,non-holiday,2863,Terengganu,58,11,0
+2022-08-08,non-holiday,2863,W.P. Kuala Lumpur,590,19,3
+2022-08-08,non-holiday,2863,W.P. Labuan,4,3,0
+2022-08-08,non-holiday,2863,W.P. Putrajaya,68,6,1
+2022-08-09,non-holiday,3083,Johor,96,50,6
+2022-08-09,non-holiday,3083,Kedah,160,18,9
+2022-08-09,non-holiday,3083,Kelantan,80,12,5
+2022-08-09,non-holiday,3083,Melaka,130,13,2
+2022-08-09,non-holiday,3083,Negeri Sembilan,240,16,2
+2022-08-09,non-holiday,3083,Pahang,59,17,1
+2022-08-09,non-holiday,3083,Perak,248,48,4
+2022-08-09,non-holiday,3083,Perlis,10,3,2
+2022-08-09,non-holiday,3083,Pulau Pinang,117,18,9
+2022-08-09,non-holiday,3083,Sabah,285,29,10
+2022-08-09,non-holiday,3083,Sarawak,122,14,2
+2022-08-09,non-holiday,3083,Selangor,605,71,8
+2022-08-09,non-holiday,3083,Terengganu,65,9,0
+2022-08-09,non-holiday,3083,W.P. Kuala Lumpur,773,41,2
+2022-08-09,non-holiday,3083,W.P. Labuan,10,1,0
+2022-08-09,non-holiday,3083,W.P. Putrajaya,83,8,0
+2022-08-10,non-holiday,4896,Johor,120,55,8
+2022-08-10,non-holiday,4896,Kedah,144,29,8
+2022-08-10,non-holiday,4896,Kelantan,99,11,3
+2022-08-10,non-holiday,4896,Melaka,148,13,3
+2022-08-10,non-holiday,4896,Negeri Sembilan,253,23,2
+2022-08-10,non-holiday,4896,Pahang,80,22,3
+2022-08-10,non-holiday,4896,Perak,374,27,5
+2022-08-10,non-holiday,4896,Perlis,16,8,1
+2022-08-10,non-holiday,4896,Pulau Pinang,169,22,9
+2022-08-10,non-holiday,4896,Sabah,369,24,12
+2022-08-10,non-holiday,4896,Sarawak,89,13,4
+2022-08-10,non-holiday,4896,Selangor,1842,94,6
+2022-08-10,non-holiday,4896,Terengganu,37,5,0
+2022-08-10,non-holiday,4896,W.P. Kuala Lumpur,1046,29,4
+2022-08-10,non-holiday,4896,W.P. Labuan,27,0,0
+2022-08-10,non-holiday,4896,W.P. Putrajaya,83,10,0
+2022-08-11,non-holiday,4831,Johor,144,49,10
+2022-08-11,non-holiday,4831,Kedah,124,30,6
+2022-08-11,non-holiday,4831,Kelantan,75,13,3
+2022-08-11,non-holiday,4831,Melaka,155,26,4
+2022-08-11,non-holiday,4831,Negeri Sembilan,316,20,3
+2022-08-11,non-holiday,4831,Pahang,79,14,2
+2022-08-11,non-holiday,4831,Perak,356,56,2
+2022-08-11,non-holiday,4831,Perlis,6,3,1
+2022-08-11,non-holiday,4831,Pulau Pinang,210,17,7
+2022-08-11,non-holiday,4831,Sabah,360,16,11
+2022-08-11,non-holiday,4831,Sarawak,115,14,3
+2022-08-11,non-holiday,4831,Selangor,1673,82,5
+2022-08-11,non-holiday,4831,Terengganu,46,16,1
+2022-08-11,non-holiday,4831,W.P. Kuala Lumpur,1012,24,2
+2022-08-11,non-holiday,4831,W.P. Labuan,19,0,0
+2022-08-11,non-holiday,4831,W.P. Putrajaya,141,10,0
+2022-08-12,non-holiday,3943,Johor,118,48,8
+2022-08-12,non-holiday,3943,Kedah,103,23,7
+2022-08-12,non-holiday,3943,Kelantan,71,15,4
+2022-08-12,non-holiday,3943,Melaka,168,10,3
+2022-08-12,non-holiday,3943,Negeri Sembilan,295,24,3
+2022-08-12,non-holiday,3943,Pahang,90,14,3
+2022-08-12,non-holiday,3943,Perak,330,34,5
+2022-08-12,non-holiday,3943,Perlis,13,0,1
+2022-08-12,non-holiday,3943,Pulau Pinang,156,17,8
+2022-08-12,non-holiday,3943,Sabah,354,18,14
+2022-08-12,non-holiday,3943,Sarawak,129,23,3
+2022-08-12,non-holiday,3943,Selangor,1035,82,4
+2022-08-12,non-holiday,3943,Terengganu,40,10,1
+2022-08-12,non-holiday,3943,W.P. Kuala Lumpur,953,32,2
+2022-08-12,non-holiday,3943,W.P. Labuan,19,0,0
+2022-08-12,non-holiday,3943,W.P. Putrajaya,69,5,0
+2022-08-13,non-holiday,4334,Johor,82,51,9
+2022-08-13,non-holiday,4334,Kedah,101,15,6
+2022-08-13,non-holiday,4334,Kelantan,64,15,5
+2022-08-13,non-holiday,4334,Melaka,167,10,3
+2022-08-13,non-holiday,4334,Negeri Sembilan,119,14,3
+2022-08-13,non-holiday,4334,Pahang,74,16,2
+2022-08-13,non-holiday,4334,Perak,284,48,5
+2022-08-13,non-holiday,4334,Perlis,13,9,1
+2022-08-13,non-holiday,4334,Pulau Pinang,134,21,7
+2022-08-13,non-holiday,4334,Sabah,328,15,14
+2022-08-13,non-holiday,4334,Sarawak,152,14,3
+2022-08-13,non-holiday,4334,Selangor,1830,86,7
+2022-08-13,non-holiday,4334,Terengganu,44,12,1
+2022-08-13,non-holiday,4334,W.P. Kuala Lumpur,829,30,2
+2022-08-13,non-holiday,4334,W.P. Labuan,9,1,0
+2022-08-13,non-holiday,4334,W.P. Putrajaya,104,8,0
+2022-08-14,non-holiday,3045,Johor,98,50,10
+2022-08-14,non-holiday,3045,Kedah,85,20,8
+2022-08-14,non-holiday,3045,Kelantan,46,13,7
+2022-08-14,non-holiday,3045,Melaka,108,13,3
+2022-08-14,non-holiday,3045,Negeri Sembilan,195,20,4
+2022-08-14,non-holiday,3045,Pahang,54,8,3
+2022-08-14,non-holiday,3045,Perak,221,34,4
+2022-08-14,non-holiday,3045,Perlis,12,0,0
+2022-08-14,non-holiday,3045,Pulau Pinang,119,18,6
+2022-08-14,non-holiday,3045,Sabah,259,20,10
+2022-08-14,non-holiday,3045,Sarawak,54,9,4
+2022-08-14,non-holiday,3045,Selangor,1061,80,10
+2022-08-14,non-holiday,3045,Terengganu,49,10,1
+2022-08-14,non-holiday,3045,W.P. Kuala Lumpur,619,17,2
+2022-08-14,non-holiday,3045,W.P. Labuan,2,0,0
+2022-08-14,non-holiday,3045,W.P. Putrajaya,63,5,0
+2022-08-15,non-holiday,2437,Johor,135,47,13
+2022-08-15,non-holiday,2437,Kedah,91,18,7
+2022-08-15,non-holiday,2437,Kelantan,119,16,6
+2022-08-15,non-holiday,2437,Melaka,106,8,3
+2022-08-15,non-holiday,2437,Negeri Sembilan,162,13,4
+2022-08-15,non-holiday,2437,Pahang,52,13,2
+2022-08-15,non-holiday,2437,Perak,172,24,4
+2022-08-15,non-holiday,2437,Perlis,8,4,0
+2022-08-15,non-holiday,2437,Pulau Pinang,89,13,6
+2022-08-15,non-holiday,2437,Sabah,252,26,15
+2022-08-15,non-holiday,2437,Sarawak,73,13,4
+2022-08-15,non-holiday,2437,Selangor,491,73,13
+2022-08-15,non-holiday,2437,Terengganu,49,14,1
+2022-08-15,non-holiday,2437,W.P. Kuala Lumpur,560,12,2
+2022-08-15,non-holiday,2437,W.P. Labuan,5,0,0
+2022-08-15,non-holiday,2437,W.P. Putrajaya,73,4,1
+2022-08-16,non-holiday,3429,Johor,129,43,12
+2022-08-16,non-holiday,3429,Kedah,123,23,5
+2022-08-16,non-holiday,3429,Kelantan,113,19,1
+2022-08-16,non-holiday,3429,Melaka,151,17,5
+2022-08-16,non-holiday,3429,Negeri Sembilan,221,14,4
+2022-08-16,non-holiday,3429,Pahang,70,14,2
+2022-08-16,non-holiday,3429,Perak,212,31,5
+2022-08-16,non-holiday,3429,Perlis,5,3,0
+2022-08-16,non-holiday,3429,Pulau Pinang,94,13,6
+2022-08-16,non-holiday,3429,Sabah,273,27,18
+2022-08-16,non-holiday,3429,Sarawak,159,16,6
+2022-08-16,non-holiday,3429,Selangor,1082,89,15
+2022-08-16,non-holiday,3429,Terengganu,55,13,1
+2022-08-16,non-holiday,3429,W.P. Kuala Lumpur,676,20,3
+2022-08-16,non-holiday,3429,W.P. Labuan,12,1,0
+2022-08-16,non-holiday,3429,W.P. Putrajaya,54,11,1
+2022-08-17,non-holiday,3516,Johor,112,42,14
+2022-08-17,non-holiday,3516,Kedah,92,18,6
+2022-08-17,non-holiday,3516,Kelantan,78,17,5
+2022-08-17,non-holiday,3516,Melaka,164,13,5
+2022-08-17,non-holiday,3516,Negeri Sembilan,193,19,4
+2022-08-17,non-holiday,3516,Pahang,83,4,2
+2022-08-17,non-holiday,3516,Perak,296,38,8
+2022-08-17,non-holiday,3516,Perlis,17,1,0
+2022-08-17,non-holiday,3516,Pulau Pinang,123,11,5
+2022-08-17,non-holiday,3516,Sabah,318,23,17
+2022-08-17,non-holiday,3516,Sarawak,107,18,8
+2022-08-17,non-holiday,3516,Selangor,893,85,13
+2022-08-17,non-holiday,3516,Terengganu,59,13,1
+2022-08-17,non-holiday,3516,W.P. Kuala Lumpur,878,29,4
+2022-08-17,non-holiday,3516,W.P. Labuan,8,1,0
+2022-08-17,non-holiday,3516,W.P. Putrajaya,95,10,0
+2022-08-18,non-holiday,4071,Johor,117,102,11
+2022-08-18,non-holiday,4071,Kedah,91,19,4
+2022-08-18,non-holiday,4071,Kelantan,77,15,3
+2022-08-18,non-holiday,4071,Melaka,152,11,6
+2022-08-18,non-holiday,4071,Negeri Sembilan,320,11,4
+2022-08-18,non-holiday,4071,Pahang,100,15,3
+2022-08-18,non-holiday,4071,Perak,275,34,8
+2022-08-18,non-holiday,4071,Perlis,6,0,0
+2022-08-18,non-holiday,4071,Pulau Pinang,143,17,5
+2022-08-18,non-holiday,4071,Sabah,281,24,16
+2022-08-18,non-holiday,4071,Sarawak,182,15,7
+2022-08-18,non-holiday,4071,Selangor,1456,92,10
+2022-08-18,non-holiday,4071,Terengganu,59,12,1
+2022-08-18,non-holiday,4071,W.P. Kuala Lumpur,728,26,3
+2022-08-18,non-holiday,4071,W.P. Labuan,10,0,0
+2022-08-18,non-holiday,4071,W.P. Putrajaya,74,11,0
+2022-08-19,non-holiday,3490,Johor,116,41,12
+2022-08-19,non-holiday,3490,Kedah,97,14,4
+2022-08-19,non-holiday,3490,Kelantan,83,16,3
+2022-08-19,non-holiday,3490,Melaka,141,13,5
+2022-08-19,non-holiday,3490,Negeri Sembilan,241,7,4
+2022-08-19,non-holiday,3490,Pahang,76,11,2
+2022-08-19,non-holiday,3490,Perak,303,27,5
+2022-08-19,non-holiday,3490,Perlis,3,1,0
+2022-08-19,non-holiday,3490,Pulau Pinang,142,12,4
+2022-08-19,non-holiday,3490,Sabah,272,21,15
+2022-08-19,non-holiday,3490,Sarawak,133,18,7
+2022-08-19,non-holiday,3490,Selangor,796,61,11
+2022-08-19,non-holiday,3490,Terengganu,37,10,0
+2022-08-19,non-holiday,3490,W.P. Kuala Lumpur,915,25,2
+2022-08-19,non-holiday,3490,W.P. Labuan,5,1,0
+2022-08-19,non-holiday,3490,W.P. Putrajaya,130,10,1
+2022-08-20,non-holiday,2798,Johor,78,46,12
+2022-08-20,non-holiday,2798,Kedah,86,16,5
+2022-08-20,non-holiday,2798,Kelantan,37,9,3
+2022-08-20,non-holiday,2798,Melaka,129,6,0
+2022-08-20,non-holiday,2798,Negeri Sembilan,161,11,4
+2022-08-20,non-holiday,2798,Pahang,74,11,3
+2022-08-20,non-holiday,2798,Perak,222,27,4
+2022-08-20,non-holiday,2798,Perlis,9,4,0
+2022-08-20,non-holiday,2798,Pulau Pinang,111,14,3
+2022-08-20,non-holiday,2798,Sabah,262,23,12
+2022-08-20,non-holiday,2798,Sarawak,90,9,6
+2022-08-20,non-holiday,2798,Selangor,836,61,10
+2022-08-20,non-holiday,2798,Terengganu,34,8,0
+2022-08-20,non-holiday,2798,W.P. Kuala Lumpur,570,21,2
+2022-08-20,non-holiday,2798,W.P. Labuan,5,2,0
+2022-08-20,non-holiday,2798,W.P. Putrajaya,94,7,1
+2022-08-21,non-holiday,2464,Johor,101,46,13
+2022-08-21,non-holiday,2464,Kedah,70,11,3
+2022-08-21,non-holiday,2464,Kelantan,45,16,1
+2022-08-21,non-holiday,2464,Melaka,85,13,5
+2022-08-21,non-holiday,2464,Negeri Sembilan,167,7,3
+2022-08-21,non-holiday,2464,Pahang,66,16,3
+2022-08-21,non-holiday,2464,Perak,195,38,4
+2022-08-21,non-holiday,2464,Perlis,9,4,0
+2022-08-21,non-holiday,2464,Pulau Pinang,91,11,4
+2022-08-21,non-holiday,2464,Sabah,225,19,12
+2022-08-21,non-holiday,2464,Sarawak,62,10,4
+2022-08-21,non-holiday,2464,Selangor,748,55,14
+2022-08-21,non-holiday,2464,Terengganu,43,12,0
+2022-08-21,non-holiday,2464,W.P. Kuala Lumpur,505,15,2
+2022-08-21,non-holiday,2464,W.P. Labuan,2,1,0
+2022-08-21,non-holiday,2464,W.P. Putrajaya,50,13,1
+2022-08-22,non-holiday,2078,Johor,112,39,12
+2022-08-22,non-holiday,2078,Kedah,81,22,2
+2022-08-22,non-holiday,2078,Kelantan,93,18,1
+2022-08-22,non-holiday,2078,Melaka,88,11,4
+2022-08-22,non-holiday,2078,Negeri Sembilan,111,7,2
+2022-08-22,non-holiday,2078,Pahang,51,8,2
+2022-08-22,non-holiday,2078,Perak,160,17,4
+2022-08-22,non-holiday,2078,Perlis,10,2,0
+2022-08-22,non-holiday,2078,Pulau Pinang,91,9,4
+2022-08-22,non-holiday,2078,Sabah,210,17,15
+2022-08-22,non-holiday,2078,Sarawak,78,11,7
+2022-08-22,non-holiday,2078,Selangor,427,69,13
+2022-08-22,non-holiday,2078,Terengganu,52,12,0
+2022-08-22,non-holiday,2078,W.P. Kuala Lumpur,457,19,1
+2022-08-22,non-holiday,2078,W.P. Labuan,2,2,0
+2022-08-22,non-holiday,2078,W.P. Putrajaya,55,9,2
+2022-08-23,non-holiday,2722,Johor,107,34,11
+2022-08-23,non-holiday,2722,Kedah,103,10,3
+2022-08-23,non-holiday,2722,Kelantan,102,11,1
+2022-08-23,non-holiday,2722,Melaka,105,7,4
+2022-08-23,non-holiday,2722,Negeri Sembilan,141,20,3
+2022-08-23,non-holiday,2722,Pahang,76,16,1
+2022-08-23,non-holiday,2722,Perak,165,46,4
+2022-08-23,non-holiday,2722,Perlis,13,1,0
+2022-08-23,non-holiday,2722,Pulau Pinang,101,10,4
+2022-08-23,non-holiday,2722,Sabah,214,28,14
+2022-08-23,non-holiday,2722,Sarawak,161,11,6
+2022-08-23,non-holiday,2722,Selangor,879,55,13
+2022-08-23,non-holiday,2722,Terengganu,61,15,1
+2022-08-23,non-holiday,2722,W.P. Kuala Lumpur,434,16,1
+2022-08-23,non-holiday,2722,W.P. Labuan,3,0,0
+2022-08-23,non-holiday,2722,W.P. Putrajaya,57,6,2
+2022-08-24,non-holiday,2636,Johor,106,35,11
+2022-08-24,non-holiday,2636,Kedah,124,16,4
+2022-08-24,non-holiday,2636,Kelantan,85,14,1
+2022-08-24,non-holiday,2636,Melaka,109,15,3
+2022-08-24,non-holiday,2636,Negeri Sembilan,161,13,2
+2022-08-24,non-holiday,2636,Pahang,75,6,1
+2022-08-24,non-holiday,2636,Perak,283,26,4
+2022-08-24,non-holiday,2636,Perlis,10,3,0
+2022-08-24,non-holiday,2636,Pulau Pinang,112,12,4
+2022-08-24,non-holiday,2636,Sabah,265,21,15
+2022-08-24,non-holiday,2636,Sarawak,120,16,5
+2022-08-24,non-holiday,2636,Selangor,791,66,11
+2022-08-24,non-holiday,2636,Terengganu,71,11,3
+2022-08-24,non-holiday,2636,W.P. Kuala Lumpur,231,24,1
+2022-08-24,non-holiday,2636,W.P. Labuan,11,0,0
+2022-08-24,non-holiday,2636,W.P. Putrajaya,82,6,2
+2022-08-25,non-holiday,3206,Johor,104,38,10
+2022-08-25,non-holiday,3206,Kedah,110,22,5
+2022-08-25,non-holiday,3206,Kelantan,87,22,2
+2022-08-25,non-holiday,3206,Melaka,114,11,3
+2022-08-25,non-holiday,3206,Negeri Sembilan,186,22,2
+2022-08-25,non-holiday,3206,Pahang,62,15,1
+2022-08-25,non-holiday,3206,Perak,236,20,3
+2022-08-25,non-holiday,3206,Perlis,12,2,0
+2022-08-25,non-holiday,3206,Pulau Pinang,93,10,2
+2022-08-25,non-holiday,3206,Sabah,297,18,20
+2022-08-25,non-holiday,3206,Sarawak,119,15,5
+2022-08-25,non-holiday,3206,Selangor,1092,59,11
+2022-08-25,non-holiday,3206,Terengganu,44,10,3
+2022-08-25,non-holiday,3206,W.P. Kuala Lumpur,583,14,1
+2022-08-25,non-holiday,3206,W.P. Labuan,9,0,0
+2022-08-25,non-holiday,3206,W.P. Putrajaya,58,6,1
+2022-08-26,non-holiday,3118,Johor,82,33,13
+2022-08-26,non-holiday,3118,Kedah,65,22,6
+2022-08-26,non-holiday,3118,Kelantan,94,19,3
+2022-08-26,non-holiday,3118,Melaka,97,11,4
+2022-08-26,non-holiday,3118,Negeri Sembilan,160,10,2
+2022-08-26,non-holiday,3118,Pahang,69,15,1
+2022-08-26,non-holiday,3118,Perak,244,48,4
+2022-08-26,non-holiday,3118,Perlis,12,5,0
+2022-08-26,non-holiday,3118,Pulau Pinang,95,18,2
+2022-08-26,non-holiday,3118,Sabah,294,27,19
+2022-08-26,non-holiday,3118,Sarawak,105,19,5
+2022-08-26,non-holiday,3118,Selangor,1080,47,12
+2022-08-26,non-holiday,3118,Terengganu,46,8,2
+2022-08-26,non-holiday,3118,W.P. Kuala Lumpur,611,14,1
+2022-08-26,non-holiday,3118,W.P. Labuan,8,0,0
+2022-08-26,non-holiday,3118,W.P. Putrajaya,56,4,1
+2022-08-27,non-holiday,2491,Johor,71,30,11
+2022-08-27,non-holiday,2491,Kedah,78,18,7
+2022-08-27,non-holiday,2491,Kelantan,57,13,4
+2022-08-27,non-holiday,2491,Melaka,109,3,1
+2022-08-27,non-holiday,2491,Negeri Sembilan,157,16,2
+2022-08-27,non-holiday,2491,Pahang,80,9,2
+2022-08-27,non-holiday,2491,Perak,211,34,3
+2022-08-27,non-holiday,2491,Perlis,5,5,0
+2022-08-27,non-holiday,2491,Pulau Pinang,100,10,2
+2022-08-27,non-holiday,2491,Sabah,234,23,19
+2022-08-27,non-holiday,2491,Sarawak,115,7,5
+2022-08-27,non-holiday,2491,Selangor,656,62,13
+2022-08-27,non-holiday,2491,Terengganu,40,9,1
+2022-08-27,non-holiday,2491,W.P. Kuala Lumpur,507,14,1
+2022-08-27,non-holiday,2491,W.P. Labuan,10,0,0
+2022-08-27,non-holiday,2491,W.P. Putrajaya,61,7,1
+2022-08-28,non-holiday,2191,Johor,87,35,9
+2022-08-28,non-holiday,2191,Kedah,78,22,7
+2022-08-28,non-holiday,2191,Kelantan,53,17,4
+2022-08-28,non-holiday,2191,Melaka,79,7,0
+2022-08-28,non-holiday,2191,Negeri Sembilan,119,6,2
+2022-08-28,non-holiday,2191,Pahang,48,6,2
+2022-08-28,non-holiday,2191,Perak,180,24,4
+2022-08-28,non-holiday,2191,Perlis,8,6,0
+2022-08-28,non-holiday,2191,Pulau Pinang,83,10,1
+2022-08-28,non-holiday,2191,Sabah,212,10,20
+2022-08-28,non-holiday,2191,Sarawak,54,27,6
+2022-08-28,non-holiday,2191,Selangor,720,50,15
+2022-08-28,non-holiday,2191,Terengganu,48,9,1
+2022-08-28,non-holiday,2191,W.P. Kuala Lumpur,398,11,1
+2022-08-28,non-holiday,2191,W.P. Labuan,4,0,0
+2022-08-28,non-holiday,2191,W.P. Putrajaya,20,7,1
+2022-08-29,non-holiday,1946,Johor,85,32,11
+2022-08-29,non-holiday,1946,Kedah,86,18,7
+2022-08-29,non-holiday,1946,Kelantan,99,21,6
+2022-08-29,non-holiday,1946,Melaka,85,17,0
+2022-08-29,non-holiday,1946,Negeri Sembilan,83,11,2
+2022-08-29,non-holiday,1946,Pahang,45,10,3
+2022-08-29,non-holiday,1946,Perak,139,23,5
+2022-08-29,non-holiday,1946,Perlis,7,3,0
+2022-08-29,non-holiday,1946,Pulau Pinang,72,13,4
+2022-08-29,non-holiday,1946,Sabah,180,16,19
+2022-08-29,non-holiday,1946,Sarawak,53,10,5
+2022-08-29,non-holiday,1946,Selangor,673,68,11
+2022-08-29,non-holiday,1946,Terengganu,54,9,0
+2022-08-29,non-holiday,1946,W.P. Kuala Lumpur,246,17,1
+2022-08-29,non-holiday,1946,W.P. Labuan,0,1,0
+2022-08-29,non-holiday,1946,W.P. Putrajaya,39,6,1
+2022-08-30,non-holiday,2144,Johor,80,35,11
+2022-08-30,non-holiday,2144,Kedah,103,18,7
+2022-08-30,non-holiday,2144,Kelantan,113,22,5
+2022-08-30,non-holiday,2144,Melaka,108,10,0
+2022-08-30,non-holiday,2144,Negeri Sembilan,101,14,3
+2022-08-30,non-holiday,2144,Pahang,54,11,2
+2022-08-30,non-holiday,2144,Perak,167,40,5
+2022-08-30,non-holiday,2144,Perlis,5,4,0
+2022-08-30,non-holiday,2144,Pulau Pinang,98,18,3
+2022-08-30,non-holiday,2144,Sabah,220,22,16
+2022-08-30,non-holiday,2144,Sarawak,138,14,7
+2022-08-30,non-holiday,2144,Selangor,419,51,12
+2022-08-30,non-holiday,2144,Terengganu,39,11,0
+2022-08-30,non-holiday,2144,W.P. Kuala Lumpur,462,19,1
+2022-08-30,non-holiday,2144,W.P. Labuan,7,1,0
+2022-08-30,non-holiday,2144,W.P. Putrajaya,30,4,0
+2022-08-31,Merdeka,2340,Johor,76,22,8
+2022-08-31,Merdeka,2340,Kedah,72,14,6
+2022-08-31,Merdeka,2340,Kelantan,83,15,6
+2022-08-31,Merdeka,2340,Melaka,101,11,1
+2022-08-31,Merdeka,2340,Negeri Sembilan,114,14,1
+2022-08-31,Merdeka,2340,Pahang,74,7,2
+2022-08-31,Merdeka,2340,Perak,260,46,5
+2022-08-31,Merdeka,2340,Perlis,16,4,0
+2022-08-31,Merdeka,2340,Pulau Pinang,110,16,3
+2022-08-31,Merdeka,2340,Sabah,223,23,17
+2022-08-31,Merdeka,2340,Sarawak,98,15,7
+2022-08-31,Merdeka,2340,Selangor,492,54,10
+2022-08-31,Merdeka,2340,Terengganu,36,6,1
+2022-08-31,Merdeka,2340,W.P. Kuala Lumpur,537,15,1
+2022-08-31,Merdeka,2340,W.P. Labuan,5,0,0
+2022-08-31,Merdeka,2340,W.P. Putrajaya,43,4,1
+2022-09-01,non-holiday,2356,Johor,86,32,9
+2022-09-01,non-holiday,2356,Kedah,42,11,5
+2022-09-01,non-holiday,2356,Kelantan,49,10,6
+2022-09-01,non-holiday,2356,Melaka,97,15,1
+2022-09-01,non-holiday,2356,Negeri Sembilan,127,11,2
+2022-09-01,non-holiday,2356,Pahang,59,10,3
+2022-09-01,non-holiday,2356,Perak,175,24,5
+2022-09-01,non-holiday,2356,Perlis,10,8,0
+2022-09-01,non-holiday,2356,Pulau Pinang,104,11,5
+2022-09-01,non-holiday,2356,Sabah,227,17,18
+2022-09-01,non-holiday,2356,Sarawak,62,8,6
+2022-09-01,non-holiday,2356,Selangor,775,54,12
+2022-09-01,non-holiday,2356,Terengganu,28,9,1
+2022-09-01,non-holiday,2356,W.P. Kuala Lumpur,479,8,0
+2022-09-01,non-holiday,2356,W.P. Labuan,11,0,0
+2022-09-01,non-holiday,2356,W.P. Putrajaya,25,6,1
+2022-09-02,non-holiday,2328,Johor,66,38,6
+2022-09-02,non-holiday,2328,Kedah,87,21,6
+2022-09-02,non-holiday,2328,Kelantan,76,17,7
+2022-09-02,non-holiday,2328,Melaka,109,10,1
+2022-09-02,non-holiday,2328,Negeri Sembilan,125,13,3
+2022-09-02,non-holiday,2328,Pahang,55,13,2
+2022-09-02,non-holiday,2328,Perak,175,21,5
+2022-09-02,non-holiday,2328,Perlis,9,4,0
+2022-09-02,non-holiday,2328,Pulau Pinang,75,11,8
+2022-09-02,non-holiday,2328,Sabah,205,19,17
+2022-09-02,non-holiday,2328,Sarawak,140,14,5
+2022-09-02,non-holiday,2328,Selangor,715,44,15
+2022-09-02,non-holiday,2328,Terengganu,34,9,1
+2022-09-02,non-holiday,2328,W.P. Kuala Lumpur,415,12,1
+2022-09-02,non-holiday,2328,W.P. Labuan,6,0,0
+2022-09-02,non-holiday,2328,W.P. Putrajaya,36,4,2
+2022-09-03,non-holiday,2244,Johor,60,29,9
+2022-09-03,non-holiday,2244,Kedah,61,14,6
+2022-09-03,non-holiday,2244,Kelantan,42,7,6
+2022-09-03,non-holiday,2244,Melaka,95,10,1
+2022-09-03,non-holiday,2244,Negeri Sembilan,112,11,3
+2022-09-03,non-holiday,2244,Pahang,78,4,2
+2022-09-03,non-holiday,2244,Perak,224,26,6
+2022-09-03,non-holiday,2244,Perlis,6,2,0
+2022-09-03,non-holiday,2244,Pulau Pinang,74,13,7
+2022-09-03,non-holiday,2244,Sabah,187,23,15
+2022-09-03,non-holiday,2244,Sarawak,74,17,3
+2022-09-03,non-holiday,2244,Selangor,679,55,13
+2022-09-03,non-holiday,2244,Terengganu,36,7,1
+2022-09-03,non-holiday,2244,W.P. Kuala Lumpur,466,27,1
+2022-09-03,non-holiday,2244,W.P. Labuan,5,1,0
+2022-09-03,non-holiday,2244,W.P. Putrajaya,45,8,2
+2022-09-04,non-holiday,1904,Johor,70,29,8
+2022-09-04,non-holiday,1904,Kedah,50,13,8
+2022-09-04,non-holiday,1904,Kelantan,42,12,6
+2022-09-04,non-holiday,1904,Melaka,84,9,2
+2022-09-04,non-holiday,1904,Negeri Sembilan,87,12,4
+2022-09-04,non-holiday,1904,Pahang,44,6,2
+2022-09-04,non-holiday,1904,Perak,165,22,2
+2022-09-04,non-holiday,1904,Perlis,10,3,0
+2022-09-04,non-holiday,1904,Pulau Pinang,77,11,7
+2022-09-04,non-holiday,1904,Sabah,167,20,16
+2022-09-04,non-holiday,1904,Sarawak,68,12,4
+2022-09-04,non-holiday,1904,Selangor,671,44,10
+2022-09-04,non-holiday,1904,Terengganu,21,9,1
+2022-09-04,non-holiday,1904,W.P. Kuala Lumpur,328,16,2
+2022-09-04,non-holiday,1904,W.P. Labuan,2,0,0
+2022-09-04,non-holiday,1904,W.P. Putrajaya,18,6,1
+2022-09-05,non-holiday,1486,Johor,70,25,6
+2022-09-05,non-holiday,1486,Kedah,62,11,9
+2022-09-05,non-holiday,1486,Kelantan,64,12,6
+2022-09-05,non-holiday,1486,Melaka,59,9,1
+2022-09-05,non-holiday,1486,Negeri Sembilan,37,12,3
+2022-09-05,non-holiday,1486,Pahang,50,14,3
+2022-09-05,non-holiday,1486,Perak,111,26,6
+2022-09-05,non-holiday,1486,Perlis,7,3,0
+2022-09-05,non-holiday,1486,Pulau Pinang,65,11,8
+2022-09-05,non-holiday,1486,Sabah,159,23,16
+2022-09-05,non-holiday,1486,Sarawak,71,16,6
+2022-09-05,non-holiday,1486,Selangor,315,42,10
+2022-09-05,non-holiday,1486,Terengganu,46,10,1
+2022-09-05,non-holiday,1486,W.P. Kuala Lumpur,340,17,2
+2022-09-05,non-holiday,1486,W.P. Labuan,0,0,0
+2022-09-05,non-holiday,1486,W.P. Putrajaya,30,7,2
+2022-09-06,non-holiday,2067,Johor,69,36,5
+2022-09-06,non-holiday,2067,Kedah,80,22,8
+2022-09-06,non-holiday,2067,Kelantan,67,12,3
+2022-09-06,non-holiday,2067,Melaka,74,9,2
+2022-09-06,non-holiday,2067,Negeri Sembilan,90,16,4
+2022-09-06,non-holiday,2067,Pahang,62,11,4
+2022-09-06,non-holiday,2067,Perak,145,28,4
+2022-09-06,non-holiday,2067,Perlis,3,4,0
+2022-09-06,non-holiday,2067,Pulau Pinang,62,13,6
+2022-09-06,non-holiday,2067,Sabah,160,25,15
+2022-09-06,non-holiday,2067,Sarawak,132,16,4
+2022-09-06,non-holiday,2067,Selangor,589,47,10
+2022-09-06,non-holiday,2067,Terengganu,27,8,1
+2022-09-06,non-holiday,2067,W.P. Kuala Lumpur,454,16,1
+2022-09-06,non-holiday,2067,W.P. Labuan,4,0,0
+2022-09-06,non-holiday,2067,W.P. Putrajaya,49,8,2
+2022-09-07,non-holiday,2428,Johor,72,44,8
+2022-09-07,non-holiday,2428,Kedah,101,24,10
+2022-09-07,non-holiday,2428,Kelantan,56,10,2
+2022-09-07,non-holiday,2428,Melaka,80,6,2
+2022-09-07,non-holiday,2428,Negeri Sembilan,102,24,4
+2022-09-07,non-holiday,2428,Pahang,58,9,5
+2022-09-07,non-holiday,2428,Perak,194,34,2
+2022-09-07,non-holiday,2428,Perlis,11,3,0
+2022-09-07,non-holiday,2428,Pulau Pinang,96,19,4
+2022-09-07,non-holiday,2428,Sabah,169,25,17
+2022-09-07,non-holiday,2428,Sarawak,111,17,2
+2022-09-07,non-holiday,2428,Selangor,868,49,9
+2022-09-07,non-holiday,2428,Terengganu,36,7,0
+2022-09-07,non-holiday,2428,W.P. Kuala Lumpur,429,21,1
+2022-09-07,non-holiday,2428,W.P. Labuan,3,1,0
+2022-09-07,non-holiday,2428,W.P. Putrajaya,42,9,1
+2022-09-08,non-holiday,2226,Johor,75,32,7
+2022-09-08,non-holiday,2226,Kedah,76,28,9
+2022-09-08,non-holiday,2226,Kelantan,64,9,2
+2022-09-08,non-holiday,2226,Melaka,112,13,2
+2022-09-08,non-holiday,2226,Negeri Sembilan,159,22,4
+2022-09-08,non-holiday,2226,Pahang,57,15,4
+2022-09-08,non-holiday,2226,Perak,204,17,1
+2022-09-08,non-holiday,2226,Perlis,7,2,0
+2022-09-08,non-holiday,2226,Pulau Pinang,85,13,4
+2022-09-08,non-holiday,2226,Sabah,190,22,17
+2022-09-08,non-holiday,2226,Sarawak,114,13,4
+2022-09-08,non-holiday,2226,Selangor,448,48,8
+2022-09-08,non-holiday,2226,Terengganu,33,6,0
+2022-09-08,non-holiday,2226,W.P. Kuala Lumpur,548,15,1
+2022-09-08,non-holiday,2226,W.P. Labuan,12,1,0
+2022-09-08,non-holiday,2226,W.P. Putrajaya,42,11,1
+2022-09-09,non-holiday,1990,Johor,88,36,6
+2022-09-09,non-holiday,1990,Kedah,82,19,9
+2022-09-09,non-holiday,1990,Kelantan,66,15,5
+2022-09-09,non-holiday,1990,Melaka,68,20,1
+2022-09-09,non-holiday,1990,Negeri Sembilan,87,14,3
+2022-09-09,non-holiday,1990,Pahang,46,9,3
+2022-09-09,non-holiday,1990,Perak,177,31,2
+2022-09-09,non-holiday,1990,Perlis,8,5,0
+2022-09-09,non-holiday,1990,Pulau Pinang,85,7,6
+2022-09-09,non-holiday,1990,Sabah,183,20,13
+2022-09-09,non-holiday,1990,Sarawak,89,9,5
+2022-09-09,non-holiday,1990,Selangor,500,58,13
+2022-09-09,non-holiday,1990,Terengganu,18,13,0
+2022-09-09,non-holiday,1990,W.P. Kuala Lumpur,454,13,1
+2022-09-09,non-holiday,1990,W.P. Labuan,7,1,0
+2022-09-09,non-holiday,1990,W.P. Putrajaya,32,9,0
+2022-09-10,non-holiday,1971,Johor,73,33,7
+2022-09-10,non-holiday,1971,Kedah,63,23,8
+2022-09-10,non-holiday,1971,Kelantan,45,14,6
+2022-09-10,non-holiday,1971,Melaka,91,7,1
+2022-09-10,non-holiday,1971,Negeri Sembilan,75,11,4
+2022-09-10,non-holiday,1971,Pahang,42,10,4
+2022-09-10,non-holiday,1971,Perak,188,33,2
+2022-09-10,non-holiday,1971,Perlis,20,5,0
+2022-09-10,non-holiday,1971,Pulau Pinang,102,14,5
+2022-09-10,non-holiday,1971,Sabah,160,24,15
+2022-09-10,non-holiday,1971,Sarawak,85,19,6
+2022-09-10,non-holiday,1971,Selangor,590,43,11
+2022-09-10,non-holiday,1971,Terengganu,24,9,0
+2022-09-10,non-holiday,1971,W.P. Kuala Lumpur,371,10,0
+2022-09-10,non-holiday,1971,W.P. Labuan,4,0,0
+2022-09-10,non-holiday,1971,W.P. Putrajaya,38,9,0
+2022-09-11,non-holiday,1483,Johor,73,37,6
+2022-09-11,non-holiday,1483,Kedah,54,13,10
+2022-09-11,non-holiday,1483,Kelantan,37,15,7
+2022-09-11,non-holiday,1483,Melaka,67,5,0
+2022-09-11,non-holiday,1483,Negeri Sembilan,110,8,4
+2022-09-11,non-holiday,1483,Pahang,49,11,2
+2022-09-11,non-holiday,1483,Perak,138,31,4
+2022-09-11,non-holiday,1483,Perlis,12,3,0
+2022-09-11,non-holiday,1483,Pulau Pinang,63,8,6
+2022-09-11,non-holiday,1483,Sabah,127,16,12
+2022-09-11,non-holiday,1483,Sarawak,86,12,6
+2022-09-11,non-holiday,1483,Selangor,268,43,11
+2022-09-11,non-holiday,1483,Terengganu,26,7,0
+2022-09-11,non-holiday,1483,W.P. Kuala Lumpur,328,10,0
+2022-09-11,non-holiday,1483,W.P. Labuan,2,0,0
+2022-09-11,non-holiday,1483,W.P. Putrajaya,43,4,0
+2022-09-12,non-holiday,1847,Johor,80,27,4
+2022-09-12,non-holiday,1847,Kedah,88,26,10
+2022-09-12,non-holiday,1847,Kelantan,107,17,5
+2022-09-12,non-holiday,1847,Melaka,48,9,1
+2022-09-12,non-holiday,1847,Negeri Sembilan,75,8,4
+2022-09-12,non-holiday,1847,Pahang,47,10,1
+2022-09-12,non-holiday,1847,Perak,122,22,4
+2022-09-12,non-holiday,1847,Perlis,16,1,0
+2022-09-12,non-holiday,1847,Pulau Pinang,63,12,7
+2022-09-12,non-holiday,1847,Sabah,135,27,15
+2022-09-12,non-holiday,1847,Sarawak,67,21,3
+2022-09-12,non-holiday,1847,Selangor,598,36,11
+2022-09-12,non-holiday,1847,Terengganu,32,9,0
+2022-09-12,non-holiday,1847,W.P. Kuala Lumpur,340,11,2
+2022-09-12,non-holiday,1847,W.P. Labuan,7,0,0
+2022-09-12,non-holiday,1847,W.P. Putrajaya,22,5,0
+2022-09-13,non-holiday,1942,Johor,82,33,4
+2022-09-13,non-holiday,1942,Kedah,100,17,11
+2022-09-13,non-holiday,1942,Kelantan,58,10,4
+2022-09-13,non-holiday,1942,Melaka,64,15,2
+2022-09-13,non-holiday,1942,Negeri Sembilan,104,6,4
+2022-09-13,non-holiday,1942,Pahang,50,8,1
+2022-09-13,non-holiday,1942,Perak,176,29,2
+2022-09-13,non-holiday,1942,Perlis,7,4,1
+2022-09-13,non-holiday,1942,Pulau Pinang,68,22,6
+2022-09-13,non-holiday,1942,Sabah,151,27,11
+2022-09-13,non-holiday,1942,Sarawak,145,17,3
+2022-09-13,non-holiday,1942,Selangor,468,55,11
+2022-09-13,non-holiday,1942,Terengganu,40,8,0
+2022-09-13,non-holiday,1942,W.P. Kuala Lumpur,389,10,2
+2022-09-13,non-holiday,1942,W.P. Labuan,8,2,0
+2022-09-13,non-holiday,1942,W.P. Putrajaya,32,12,0
+2022-09-14,non-holiday,2431,Johor,64,19,3
+2022-09-14,non-holiday,2431,Kedah,100,24,12
+2022-09-14,non-holiday,2431,Kelantan,78,20,3
+2022-09-14,non-holiday,2431,Melaka,82,11,1
+2022-09-14,non-holiday,2431,Negeri Sembilan,105,10,1
+2022-09-14,non-holiday,2431,Pahang,64,14,1
+2022-09-14,non-holiday,2431,Perak,234,41,2
+2022-09-14,non-holiday,2431,Perlis,9,5,1
+2022-09-14,non-holiday,2431,Pulau Pinang,108,9,5
+2022-09-14,non-holiday,2431,Sabah,219,23,14
+2022-09-14,non-holiday,2431,Sarawak,112,10,4
+2022-09-14,non-holiday,2431,Selangor,720,54,12
+2022-09-14,non-holiday,2431,Terengganu,34,7,1
+2022-09-14,non-holiday,2431,W.P. Kuala Lumpur,452,13,2
+2022-09-14,non-holiday,2431,W.P. Labuan,4,0,0
+2022-09-14,non-holiday,2431,W.P. Putrajaya,46,10,0
+2022-09-15,non-holiday,2375,Johor,71,36,4
+2022-09-15,non-holiday,2375,Kedah,70,16,11
+2022-09-15,non-holiday,2375,Kelantan,74,21,5
+2022-09-15,non-holiday,2375,Melaka,113,7,1
+2022-09-15,non-holiday,2375,Negeri Sembilan,84,9,2
+2022-09-15,non-holiday,2375,Pahang,69,15,0
+2022-09-15,non-holiday,2375,Perak,221,30,1
+2022-09-15,non-holiday,2375,Perlis,9,6,1
+2022-09-15,non-holiday,2375,Pulau Pinang,108,22,4
+2022-09-15,non-holiday,2375,Sabah,230,21,9
+2022-09-15,non-holiday,2375,Sarawak,106,12,2
+2022-09-15,non-holiday,2375,Selangor,683,51,10
+2022-09-15,non-holiday,2375,Terengganu,28,2,1
+2022-09-15,non-holiday,2375,W.P. Kuala Lumpur,458,15,2
+2022-09-15,non-holiday,2375,W.P. Labuan,4,0,0
+2022-09-15,non-holiday,2375,W.P. Putrajaya,47,9,0
+2022-09-16,Malaysia Day,1977,Johor,61,30,6
+2022-09-16,Malaysia Day,1977,Kedah,57,14,9
+2022-09-16,Malaysia Day,1977,Kelantan,76,19,4
+2022-09-16,Malaysia Day,1977,Melaka,83,13,0
+2022-09-16,Malaysia Day,1977,Negeri Sembilan,84,15,3
+2022-09-16,Malaysia Day,1977,Pahang,47,10,2
+2022-09-16,Malaysia Day,1977,Perak,175,29,1
+2022-09-16,Malaysia Day,1977,Perlis,17,1,1
+2022-09-16,Malaysia Day,1977,Pulau Pinang,100,13,7
+2022-09-16,Malaysia Day,1977,Sabah,187,22,9
+2022-09-16,Malaysia Day,1977,Sarawak,115,20,3
+2022-09-16,Malaysia Day,1977,Selangor,492,41,12
+2022-09-16,Malaysia Day,1977,Terengganu,40,7,1
+2022-09-16,Malaysia Day,1977,W.P. Kuala Lumpur,405,15,2
+2022-09-16,Malaysia Day,1977,W.P. Labuan,2,1,0
+2022-09-16,Malaysia Day,1977,W.P. Putrajaya,36,8,0
+2022-09-17,non-holiday,1572,Johor,51,23,5
+2022-09-17,non-holiday,1572,Kedah,41,13,7
+2022-09-17,non-holiday,1572,Kelantan,27,9,6
+2022-09-17,non-holiday,1572,Melaka,65,12,1
+2022-09-17,non-holiday,1572,Negeri Sembilan,61,4,4
+2022-09-17,non-holiday,1572,Pahang,33,6,3
+2022-09-17,non-holiday,1572,Perak,148,20,1
+2022-09-17,non-holiday,1572,Perlis,7,2,0
+2022-09-17,non-holiday,1572,Pulau Pinang,81,12,6
+2022-09-17,non-holiday,1572,Sabah,150,25,11
+2022-09-17,non-holiday,1572,Sarawak,52,13,4
+2022-09-17,non-holiday,1572,Selangor,476,46,9
+2022-09-17,non-holiday,1572,Terengganu,30,4,1
+2022-09-17,non-holiday,1572,W.P. Kuala Lumpur,333,8,2
+2022-09-17,non-holiday,1572,W.P. Labuan,2,0,0
+2022-09-17,non-holiday,1572,W.P. Putrajaya,15,7,0
+2022-09-18,non-holiday,1639,Johor,48,16,4
+2022-09-18,non-holiday,1639,Kedah,55,13,8
+2022-09-18,non-holiday,1639,Kelantan,36,16,5
+2022-09-18,non-holiday,1639,Melaka,46,3,1
+2022-09-18,non-holiday,1639,Negeri Sembilan,70,5,4
+2022-09-18,non-holiday,1639,Pahang,32,9,2
+2022-09-18,non-holiday,1639,Perak,108,20,1
+2022-09-18,non-holiday,1639,Perlis,1,2,0
+2022-09-18,non-holiday,1639,Pulau Pinang,57,12,7
+2022-09-18,non-holiday,1639,Sabah,137,26,9
+2022-09-18,non-holiday,1639,Sarawak,60,9,6
+2022-09-18,non-holiday,1639,Selangor,659,33,10
+2022-09-18,non-holiday,1639,Terengganu,13,7,1
+2022-09-18,non-holiday,1639,W.P. Kuala Lumpur,295,9,2
+2022-09-18,non-holiday,1639,W.P. Labuan,3,0,0
+2022-09-18,non-holiday,1639,W.P. Putrajaya,19,9,0
+2022-09-19,non-holiday,1307,Johor,51,12,4
+2022-09-19,non-holiday,1307,Kedah,78,12,8
+2022-09-19,non-holiday,1307,Kelantan,58,10,5
+2022-09-19,non-holiday,1307,Melaka,37,6,1
+2022-09-19,non-holiday,1307,Negeri Sembilan,123,5,3
+2022-09-19,non-holiday,1307,Pahang,27,9,2
+2022-09-19,non-holiday,1307,Perak,119,29,2
+2022-09-19,non-holiday,1307,Perlis,5,3,0
+2022-09-19,non-holiday,1307,Pulau Pinang,50,13,7
+2022-09-19,non-holiday,1307,Sabah,144,16,9
+2022-09-19,non-holiday,1307,Sarawak,50,7,4
+2022-09-19,non-holiday,1307,Selangor,312,37,9
+2022-09-19,non-holiday,1307,Terengganu,34,13,0
+2022-09-19,non-holiday,1307,W.P. Kuala Lumpur,200,16,1
+2022-09-19,non-holiday,1307,W.P. Labuan,2,0,0
+2022-09-19,non-holiday,1307,W.P. Putrajaya,17,3,0
+2022-09-20,non-holiday,1667,Johor,51,26,4
+2022-09-20,non-holiday,1667,Kedah,109,26,9
+2022-09-20,non-holiday,1667,Kelantan,79,18,4
+2022-09-20,non-holiday,1667,Melaka,57,10,2
+2022-09-20,non-holiday,1667,Negeri Sembilan,52,4,3
+2022-09-20,non-holiday,1667,Pahang,37,8,3
+2022-09-20,non-holiday,1667,Perak,170,32,2
+2022-09-20,non-holiday,1667,Perlis,7,3,0
+2022-09-20,non-holiday,1667,Pulau Pinang,77,12,8
+2022-09-20,non-holiday,1667,Sabah,158,27,9
+2022-09-20,non-holiday,1667,Sarawak,132,12,5
+2022-09-20,non-holiday,1667,Selangor,358,41,9
+2022-09-20,non-holiday,1667,Terengganu,33,12,0
+2022-09-20,non-holiday,1667,W.P. Kuala Lumpur,319,12,1
+2022-09-20,non-holiday,1667,W.P. Labuan,2,0,0
+2022-09-20,non-holiday,1667,W.P. Putrajaya,26,7,0
+2022-09-21,non-holiday,2111,Johor,40,28,6
+2022-09-21,non-holiday,2111,Kedah,77,20,8
+2022-09-21,non-holiday,2111,Kelantan,73,10,3
+2022-09-21,non-holiday,2111,Melaka,73,14,3
+2022-09-21,non-holiday,2111,Negeri Sembilan,92,8,2
+2022-09-21,non-holiday,2111,Pahang,56,11,2
+2022-09-21,non-holiday,2111,Perak,216,34,2
+2022-09-21,non-holiday,2111,Perlis,10,2,0
+2022-09-21,non-holiday,2111,Pulau Pinang,71,19,8
+2022-09-21,non-holiday,2111,Sabah,152,25,8
+2022-09-21,non-holiday,2111,Sarawak,102,10,7
+2022-09-21,non-holiday,2111,Selangor,608,48,8
+2022-09-21,non-holiday,2111,Terengganu,35,6,0
+2022-09-21,non-holiday,2111,W.P. Kuala Lumpur,474,12,0
+2022-09-21,non-holiday,2111,W.P. Labuan,3,0,0
+2022-09-21,non-holiday,2111,W.P. Putrajaya,29,6,0
+2022-09-22,non-holiday,2245,Johor,40,34,5
+2022-09-22,non-holiday,2245,Kedah,76,16,7
+2022-09-22,non-holiday,2245,Kelantan,70,9,1
+2022-09-22,non-holiday,2245,Melaka,91,12,6
+2022-09-22,non-holiday,2245,Negeri Sembilan,137,7,3
+2022-09-22,non-holiday,2245,Pahang,50,11,2
+2022-09-22,non-holiday,2245,Perak,182,31,0
+2022-09-22,non-holiday,2245,Perlis,9,1,0
+2022-09-22,non-holiday,2245,Pulau Pinang,103,12,8
+2022-09-22,non-holiday,2245,Sabah,178,16,9
+2022-09-22,non-holiday,2245,Sarawak,136,16,7
+2022-09-22,non-holiday,2245,Selangor,581,44,4
+2022-09-22,non-holiday,2245,Terengganu,34,8,2
+2022-09-22,non-holiday,2245,W.P. Kuala Lumpur,523,21,0
+2022-09-22,non-holiday,2245,W.P. Labuan,8,0,0
+2022-09-22,non-holiday,2245,W.P. Putrajaya,27,3,1
+2022-09-23,non-holiday,2070,Johor,46,24,4
+2022-09-23,non-holiday,2070,Kedah,55,17,7
+2022-09-23,non-holiday,2070,Kelantan,52,12,1
+2022-09-23,non-holiday,2070,Melaka,101,16,6
+2022-09-23,non-holiday,2070,Negeri Sembilan,117,9,2
+2022-09-23,non-holiday,2070,Pahang,47,9,3
+2022-09-23,non-holiday,2070,Perak,226,22,0
+2022-09-23,non-holiday,2070,Perlis,6,4,0
+2022-09-23,non-holiday,2070,Pulau Pinang,108,11,6
+2022-09-23,non-holiday,2070,Sabah,171,12,8
+2022-09-23,non-holiday,2070,Sarawak,102,17,5
+2022-09-23,non-holiday,2070,Selangor,592,51,9
+2022-09-23,non-holiday,2070,Terengganu,18,8,2
+2022-09-23,non-holiday,2070,W.P. Kuala Lumpur,392,15,0
+2022-09-23,non-holiday,2070,W.P. Labuan,5,0,0
+2022-09-23,non-holiday,2070,W.P. Putrajaya,32,4,1
+2022-09-24,non-holiday,1924,Johor,46,26,4
+2022-09-24,non-holiday,1924,Kedah,62,11,8
+2022-09-24,non-holiday,1924,Kelantan,35,2,1
+2022-09-24,non-holiday,1924,Melaka,87,4,4
+2022-09-24,non-holiday,1924,Negeri Sembilan,80,11,1
+2022-09-24,non-holiday,1924,Pahang,49,7,4
+2022-09-24,non-holiday,1924,Perak,155,30,0
+2022-09-24,non-holiday,1924,Perlis,5,3,0
+2022-09-24,non-holiday,1924,Pulau Pinang,98,12,6
+2022-09-24,non-holiday,1924,Sabah,153,16,7
+2022-09-24,non-holiday,1924,Sarawak,76,21,4
+2022-09-24,non-holiday,1924,Selangor,563,52,9
+2022-09-24,non-holiday,1924,Terengganu,23,9,2
+2022-09-24,non-holiday,1924,W.P. Kuala Lumpur,466,7,0
+2022-09-24,non-holiday,1924,W.P. Labuan,4,0,0
+2022-09-24,non-holiday,1924,W.P. Putrajaya,22,7,1
+2022-09-25,non-holiday,1608,Johor,49,21,5
+2022-09-25,non-holiday,1608,Kedah,54,18,7
+2022-09-25,non-holiday,1608,Kelantan,29,11,1
+2022-09-25,non-holiday,1608,Melaka,42,5,4
+2022-09-25,non-holiday,1608,Negeri Sembilan,79,1,1
+2022-09-25,non-holiday,1608,Pahang,28,4,3
+2022-09-25,non-holiday,1608,Perak,141,28,0
+2022-09-25,non-holiday,1608,Perlis,11,4,0
+2022-09-25,non-holiday,1608,Pulau Pinang,77,5,6
+2022-09-25,non-holiday,1608,Sabah,135,17,7
+2022-09-25,non-holiday,1608,Sarawak,52,13,5
+2022-09-25,non-holiday,1608,Selangor,545,39,9
+2022-09-25,non-holiday,1608,Terengganu,21,7,2
+2022-09-25,non-holiday,1608,W.P. Kuala Lumpur,314,17,0
+2022-09-25,non-holiday,1608,W.P. Labuan,0,0,0
+2022-09-25,non-holiday,1608,W.P. Putrajaya,31,6,1
+2022-09-26,non-holiday,1186,Johor,60,23,7
+2022-09-26,non-holiday,1186,Kedah,73,18,7
+2022-09-26,non-holiday,1186,Kelantan,59,11,0
+2022-09-26,non-holiday,1186,Melaka,47,3,3
+2022-09-26,non-holiday,1186,Negeri Sembilan,90,4,1
+2022-09-26,non-holiday,1186,Pahang,17,5,2
+2022-09-26,non-holiday,1186,Perak,110,19,3
+2022-09-26,non-holiday,1186,Perlis,8,1,0
+2022-09-26,non-holiday,1186,Pulau Pinang,56,8,4
+2022-09-26,non-holiday,1186,Sabah,125,27,8
+2022-09-26,non-holiday,1186,Sarawak,49,7,5
+2022-09-26,non-holiday,1186,Selangor,213,34,9
+2022-09-26,non-holiday,1186,Terengganu,35,15,2
+2022-09-26,non-holiday,1186,W.P. Kuala Lumpur,237,10,1
+2022-09-26,non-holiday,1186,W.P. Labuan,0,0,0
+2022-09-26,non-holiday,1186,W.P. Putrajaya,7,3,0
+2022-09-27,non-holiday,1552,Johor,55,31,7
+2022-09-27,non-holiday,1552,Kedah,64,12,7
+2022-09-27,non-holiday,1552,Kelantan,65,10,1
+2022-09-27,non-holiday,1552,Melaka,54,7,3
+2022-09-27,non-holiday,1552,Negeri Sembilan,68,12,1
+2022-09-27,non-holiday,1552,Pahang,34,8,3
+2022-09-27,non-holiday,1552,Perak,119,25,0
+2022-09-27,non-holiday,1552,Perlis,3,3,0
+2022-09-27,non-holiday,1552,Pulau Pinang,76,12,3
+2022-09-27,non-holiday,1552,Sabah,164,22,6
+2022-09-27,non-holiday,1552,Sarawak,94,10,4
+2022-09-27,non-holiday,1552,Selangor,323,46,8
+2022-09-27,non-holiday,1552,Terengganu,22,2,2
+2022-09-27,non-holiday,1552,W.P. Kuala Lumpur,387,20,1
+2022-09-27,non-holiday,1552,W.P. Labuan,8,0,0
+2022-09-27,non-holiday,1552,W.P. Putrajaya,16,2,0
+2022-09-28,non-holiday,2445,Johor,60,27,4
+2022-09-28,non-holiday,2445,Kedah,83,22,7
+2022-09-28,non-holiday,2445,Kelantan,67,16,1
+2022-09-28,non-holiday,2445,Melaka,68,8,2
+2022-09-28,non-holiday,2445,Negeri Sembilan,119,9,1
+2022-09-28,non-holiday,2445,Pahang,40,9,3
+2022-09-28,non-holiday,2445,Perak,184,28,2
+2022-09-28,non-holiday,2445,Perlis,2,2,0
+2022-09-28,non-holiday,2445,Pulau Pinang,78,4,2
+2022-09-28,non-holiday,2445,Sabah,176,18,5
+2022-09-28,non-holiday,2445,Sarawak,82,18,4
+2022-09-28,non-holiday,2445,Selangor,990,48,6
+2022-09-28,non-holiday,2445,Terengganu,24,3,2
+2022-09-28,non-holiday,2445,W.P. Kuala Lumpur,441,10,2
+2022-09-28,non-holiday,2445,W.P. Labuan,0,0,0
+2022-09-28,non-holiday,2445,W.P. Putrajaya,31,4,0
+2022-09-29,non-holiday,1867,Johor,56,22,5
+2022-09-29,non-holiday,1867,Kedah,52,19,5
+2022-09-29,non-holiday,1867,Kelantan,55,14,1
+2022-09-29,non-holiday,1867,Melaka,82,2,2
+2022-09-29,non-holiday,1867,Negeri Sembilan,79,7,0
+2022-09-29,non-holiday,1867,Pahang,40,6,3
+2022-09-29,non-holiday,1867,Perak,183,28,3
+2022-09-29,non-holiday,1867,Perlis,4,3,1
+2022-09-29,non-holiday,1867,Pulau Pinang,104,14,3
+2022-09-29,non-holiday,1867,Sabah,159,16,7
+2022-09-29,non-holiday,1867,Sarawak,77,17,2
+2022-09-29,non-holiday,1867,Selangor,470,42,7
+2022-09-29,non-holiday,1867,Terengganu,29,4,1
+2022-09-29,non-holiday,1867,W.P. Kuala Lumpur,451,8,3
+2022-09-29,non-holiday,1867,W.P. Labuan,3,0,0
+2022-09-29,non-holiday,1867,W.P. Putrajaya,23,3,0
+2022-09-30,non-holiday,2007,Johor,45,25,4
+2022-09-30,non-holiday,2007,Kedah,79,14,5
+2022-09-30,non-holiday,2007,Kelantan,24,13,0
+2022-09-30,non-holiday,2007,Melaka,60,3,1
+2022-09-30,non-holiday,2007,Negeri Sembilan,122,4,2
+2022-09-30,non-holiday,2007,Pahang,30,8,3
+2022-09-30,non-holiday,2007,Perak,174,30,1
+2022-09-30,non-holiday,2007,Perlis,5,4,1
+2022-09-30,non-holiday,2007,Pulau Pinang,117,8,2
+2022-09-30,non-holiday,2007,Sabah,171,9,7
+2022-09-30,non-holiday,2007,Sarawak,80,12,3
+2022-09-30,non-holiday,2007,Selangor,693,46,9
+2022-09-30,non-holiday,2007,Terengganu,15,4,2
+2022-09-30,non-holiday,2007,W.P. Kuala Lumpur,356,10,2
+2022-09-30,non-holiday,2007,W.P. Labuan,2,0,0
+2022-09-30,non-holiday,2007,W.P. Putrajaya,34,3,0
+2022-10-01,non-holiday,1626,Johor,45,23,5
+2022-10-01,non-holiday,1626,Kedah,44,17,4
+2022-10-01,non-holiday,1626,Kelantan,31,8,0
+2022-10-01,non-holiday,1626,Melaka,52,5,2
+2022-10-01,non-holiday,1626,Negeri Sembilan,89,3,1
+2022-10-01,non-holiday,1626,Pahang,29,7,3
+2022-10-01,non-holiday,1626,Perak,149,17,1
+2022-10-01,non-holiday,1626,Perlis,7,2,1
+2022-10-01,non-holiday,1626,Pulau Pinang,110,11,2
+2022-10-01,non-holiday,1626,Sabah,124,16,6
+2022-10-01,non-holiday,1626,Sarawak,82,11,4
+2022-10-01,non-holiday,1626,Selangor,485,42,9
+2022-10-01,non-holiday,1626,Terengganu,10,4,2
+2022-10-01,non-holiday,1626,W.P. Kuala Lumpur,344,12,2
+2022-10-01,non-holiday,1626,W.P. Labuan,0,0,0
+2022-10-01,non-holiday,1626,W.P. Putrajaya,25,4,0
+2022-10-02,non-holiday,1360,Johor,28,14,5
+2022-10-02,non-holiday,1360,Kedah,27,9,5
+2022-10-02,non-holiday,1360,Kelantan,27,8,1
+2022-10-02,non-holiday,1360,Melaka,39,4,1
+2022-10-02,non-holiday,1360,Negeri Sembilan,68,2,1
+2022-10-02,non-holiday,1360,Pahang,26,5,4
+2022-10-02,non-holiday,1360,Perak,98,23,2
+2022-10-02,non-holiday,1360,Perlis,0,2,0
+2022-10-02,non-holiday,1360,Pulau Pinang,75,10,3
+2022-10-02,non-holiday,1360,Sabah,115,13,7
+2022-10-02,non-holiday,1360,Sarawak,44,9,4
+2022-10-02,non-holiday,1360,Selangor,501,42,7
+2022-10-02,non-holiday,1360,Terengganu,12,0,2
+2022-10-02,non-holiday,1360,W.P. Kuala Lumpur,269,11,3
+2022-10-02,non-holiday,1360,W.P. Labuan,3,1,0
+2022-10-02,non-holiday,1360,W.P. Putrajaya,28,2,0
+2022-10-03,non-holiday,1244,Johor,36,14,5
+2022-10-03,non-holiday,1244,Kedah,63,18,6
+2022-10-03,non-holiday,1244,Kelantan,64,12,2
+2022-10-03,non-holiday,1244,Melaka,39,5,1
+2022-10-03,non-holiday,1244,Negeri Sembilan,55,2,1
+2022-10-03,non-holiday,1244,Pahang,19,4,4
+2022-10-03,non-holiday,1244,Perak,98,20,3
+2022-10-03,non-holiday,1244,Perlis,5,3,1
+2022-10-03,non-holiday,1244,Pulau Pinang,60,7,3
+2022-10-03,non-holiday,1244,Sabah,110,11,7
+2022-10-03,non-holiday,1244,Sarawak,40,11,4
+2022-10-03,non-holiday,1244,Selangor,455,36,4
+2022-10-03,non-holiday,1244,Terengganu,16,2,2
+2022-10-03,non-holiday,1244,W.P. Kuala Lumpur,159,17,3
+2022-10-03,non-holiday,1244,W.P. Labuan,0,1,0
+2022-10-03,non-holiday,1244,W.P. Putrajaya,25,2,0
+2022-10-04,non-holiday,1483,Johor,37,19,4
+2022-10-04,non-holiday,1483,Kedah,73,11,2
+2022-10-04,non-holiday,1483,Kelantan,46,6,3
+2022-10-04,non-holiday,1483,Melaka,73,5,0
+2022-10-04,non-holiday,1483,Negeri Sembilan,51,5,1
+2022-10-04,non-holiday,1483,Pahang,35,10,4
+2022-10-04,non-holiday,1483,Perak,128,22,2
+2022-10-04,non-holiday,1483,Perlis,5,2,1
+2022-10-04,non-holiday,1483,Pulau Pinang,69,9,3
+2022-10-04,non-holiday,1483,Sabah,118,23,6
+2022-10-04,non-holiday,1483,Sarawak,91,14,5
+2022-10-04,non-holiday,1483,Selangor,375,59,6
+2022-10-04,non-holiday,1483,Terengganu,18,4,1
+2022-10-04,non-holiday,1483,W.P. Kuala Lumpur,338,8,3
+2022-10-04,non-holiday,1483,W.P. Labuan,3,1,0
+2022-10-04,non-holiday,1483,W.P. Putrajaya,23,2,1
+2022-10-05,non-holiday,1722,Johor,37,14,4
+2022-10-05,non-holiday,1722,Kedah,53,19,7
+2022-10-05,non-holiday,1722,Kelantan,53,8,2
+2022-10-05,non-holiday,1722,Melaka,49,8,0
+2022-10-05,non-holiday,1722,Negeri Sembilan,62,5,2
+2022-10-05,non-holiday,1722,Pahang,25,7,4
+2022-10-05,non-holiday,1722,Perak,133,15,3
+2022-10-05,non-holiday,1722,Perlis,3,7,1
+2022-10-05,non-holiday,1722,Pulau Pinang,74,17,3
+2022-10-05,non-holiday,1722,Sabah,125,14,6
+2022-10-05,non-holiday,1722,Sarawak,89,17,4
+2022-10-05,non-holiday,1722,Selangor,581,60,6
+2022-10-05,non-holiday,1722,Terengganu,26,8,1
+2022-10-05,non-holiday,1722,W.P. Kuala Lumpur,388,13,4
+2022-10-05,non-holiday,1722,W.P. Labuan,4,0,0
+2022-10-05,non-holiday,1722,W.P. Putrajaya,20,2,1
+2022-10-06,non-holiday,1794,Johor,45,26,3
+2022-10-06,non-holiday,1794,Kedah,76,16,4
+2022-10-06,non-holiday,1794,Kelantan,38,11,5
+2022-10-06,non-holiday,1794,Melaka,58,10,0
+2022-10-06,non-holiday,1794,Negeri Sembilan,85,5,1
+2022-10-06,non-holiday,1794,Pahang,32,5,4
+2022-10-06,non-holiday,1794,Perak,162,21,2
+2022-10-06,non-holiday,1794,Perlis,8,4,1
+2022-10-06,non-holiday,1794,Pulau Pinang,85,14,0
+2022-10-06,non-holiday,1794,Sabah,132,14,3
+2022-10-06,non-holiday,1794,Sarawak,57,7,5
+2022-10-06,non-holiday,1794,Selangor,528,48,5
+2022-10-06,non-holiday,1794,Terengganu,25,5,1
+2022-10-06,non-holiday,1794,W.P. Kuala Lumpur,430,18,2
+2022-10-06,non-holiday,1794,W.P. Labuan,1,0,0
+2022-10-06,non-holiday,1794,W.P. Putrajaya,32,3,0
+2022-10-07,non-holiday,1788,Johor,33,24,4
+2022-10-07,non-holiday,1788,Kedah,48,10,5
+2022-10-07,non-holiday,1788,Kelantan,33,10,2
+2022-10-07,non-holiday,1788,Melaka,51,6,1
+2022-10-07,non-holiday,1788,Negeri Sembilan,135,9,2
+2022-10-07,non-holiday,1788,Pahang,26,5,4
+2022-10-07,non-holiday,1788,Perak,161,24,2
+2022-10-07,non-holiday,1788,Perlis,6,2,1
+2022-10-07,non-holiday,1788,Pulau Pinang,94,16,0
+2022-10-07,non-holiday,1788,Sabah,138,19,5
+2022-10-07,non-holiday,1788,Sarawak,72,9,5
+2022-10-07,non-holiday,1788,Selangor,621,51,3
+2022-10-07,non-holiday,1788,Terengganu,13,3,1
+2022-10-07,non-holiday,1788,W.P. Kuala Lumpur,329,8,2
+2022-10-07,non-holiday,1788,W.P. Labuan,4,1,0
+2022-10-07,non-holiday,1788,W.P. Putrajaya,24,0,1
+2022-10-08,non-holiday,1627,Johor,79,17,6
+2022-10-08,non-holiday,1627,Kedah,60,21,6
+2022-10-08,non-holiday,1627,Kelantan,16,5,3
+2022-10-08,non-holiday,1627,Melaka,60,7,0
+2022-10-08,non-holiday,1627,Negeri Sembilan,67,2,1
+2022-10-08,non-holiday,1627,Pahang,33,3,5
+2022-10-08,non-holiday,1627,Perak,164,22,3
+2022-10-08,non-holiday,1627,Perlis,3,3,1
+2022-10-08,non-holiday,1627,Pulau Pinang,87,6,0
+2022-10-08,non-holiday,1627,Sabah,129,21,6
+2022-10-08,non-holiday,1627,Sarawak,49,14,5
+2022-10-08,non-holiday,1627,Selangor,522,49,4
+2022-10-08,non-holiday,1627,Terengganu,8,3,1
+2022-10-08,non-holiday,1627,W.P. Kuala Lumpur,314,10,2
+2022-10-08,non-holiday,1627,W.P. Labuan,1,0,0
+2022-10-08,non-holiday,1627,W.P. Putrajaya,35,4,0
+2022-10-09,Birthday of Prophet Muhammad,1453,Johor,33,17,5
+2022-10-09,Birthday of Prophet Muhammad,1453,Kedah,49,13,5
+2022-10-09,Birthday of Prophet Muhammad,1453,Kelantan,28,9,3
+2022-10-09,Birthday of Prophet Muhammad,1453,Melaka,42,3,0
+2022-10-09,Birthday of Prophet Muhammad,1453,Negeri Sembilan,69,3,1
+2022-10-09,Birthday of Prophet Muhammad,1453,Pahang,16,8,3
+2022-10-09,Birthday of Prophet Muhammad,1453,Perak,101,16,1
+2022-10-09,Birthday of Prophet Muhammad,1453,Perlis,2,0,1
+2022-10-09,Birthday of Prophet Muhammad,1453,Pulau Pinang,69,3,0
+2022-10-09,Birthday of Prophet Muhammad,1453,Sabah,111,9,6
+2022-10-09,Birthday of Prophet Muhammad,1453,Sarawak,29,7,3
+2022-10-09,Birthday of Prophet Muhammad,1453,Selangor,611,47,6
+2022-10-09,Birthday of Prophet Muhammad,1453,Terengganu,15,4,1
+2022-10-09,Birthday of Prophet Muhammad,1453,W.P. Kuala Lumpur,258,13,2
+2022-10-09,Birthday of Prophet Muhammad,1453,W.P. Labuan,0,0,0
+2022-10-09,Birthday of Prophet Muhammad,1453,W.P. Putrajaya,20,1,0
+2022-10-10,non-holiday,1241,Johor,37,31,2
+2022-10-10,non-holiday,1241,Kedah,30,12,5
+2022-10-10,non-holiday,1241,Kelantan,14,6,4
+2022-10-10,non-holiday,1241,Melaka,25,3,1
+2022-10-10,non-holiday,1241,Negeri Sembilan,80,6,1
+2022-10-10,non-holiday,1241,Pahang,21,7,3
+2022-10-10,non-holiday,1241,Perak,82,22,2
+2022-10-10,non-holiday,1241,Perlis,0,1,0
+2022-10-10,non-holiday,1241,Pulau Pinang,63,6,0
+2022-10-10,non-holiday,1241,Sabah,101,9,7
+2022-10-10,non-holiday,1241,Sarawak,39,9,3
+2022-10-10,non-holiday,1241,Selangor,543,42,7
+2022-10-10,non-holiday,1241,Terengganu,10,5,0
+2022-10-10,non-holiday,1241,W.P. Kuala Lumpur,184,6,3
+2022-10-10,non-holiday,1241,W.P. Labuan,0,0,0
+2022-10-10,non-holiday,1241,W.P. Putrajaya,12,1,0
+2022-10-11,non-holiday,1291,Johor,40,38,3
+2022-10-11,non-holiday,1291,Kedah,62,19,5
+2022-10-11,non-holiday,1291,Kelantan,49,7,5
+2022-10-11,non-holiday,1291,Melaka,36,3,3
+2022-10-11,non-holiday,1291,Negeri Sembilan,42,0,0
+2022-10-11,non-holiday,1291,Pahang,18,11,2
+2022-10-11,non-holiday,1291,Perak,85,18,3
+2022-10-11,non-holiday,1291,Perlis,1,1,0
+2022-10-11,non-holiday,1291,Pulau Pinang,53,4,3
+2022-10-11,non-holiday,1291,Sabah,94,14,8
+2022-10-11,non-holiday,1291,Sarawak,49,11,3
+2022-10-11,non-holiday,1291,Selangor,429,27,8
+2022-10-11,non-holiday,1291,Terengganu,13,7,2
+2022-10-11,non-holiday,1291,W.P. Kuala Lumpur,318,16,1
+2022-10-11,non-holiday,1291,W.P. Labuan,1,0,0
+2022-10-11,non-holiday,1291,W.P. Putrajaya,1,6,0
+2022-10-12,non-holiday,1628,Johor,48,33,3
+2022-10-12,non-holiday,1628,Kedah,77,17,3
+2022-10-12,non-holiday,1628,Kelantan,55,8,4
+2022-10-12,non-holiday,1628,Melaka,45,4,2
+2022-10-12,non-holiday,1628,Negeri Sembilan,61,3,2
+2022-10-12,non-holiday,1628,Pahang,35,12,4
+2022-10-12,non-holiday,1628,Perak,124,26,3
+2022-10-12,non-holiday,1628,Perlis,0,4,0
+2022-10-12,non-holiday,1628,Pulau Pinang,51,16,3
+2022-10-12,non-holiday,1628,Sabah,121,9,8
+2022-10-12,non-holiday,1628,Sarawak,86,9,2
+2022-10-12,non-holiday,1628,Selangor,497,61,5
+2022-10-12,non-holiday,1628,Terengganu,26,6,1
+2022-10-12,non-holiday,1628,W.P. Kuala Lumpur,359,15,1
+2022-10-12,non-holiday,1628,W.P. Labuan,1,0,0
+2022-10-12,non-holiday,1628,W.P. Putrajaya,42,5,0
+2022-10-13,non-holiday,2090,Johor,54,33,1
+2022-10-13,non-holiday,2090,Kedah,79,19,4
+2022-10-13,non-holiday,2090,Kelantan,45,5,4
+2022-10-13,non-holiday,2090,Melaka,68,11,3
+2022-10-13,non-holiday,2090,Negeri Sembilan,58,3,1
+2022-10-13,non-holiday,2090,Pahang,40,14,3
+2022-10-13,non-holiday,2090,Perak,162,25,1
+2022-10-13,non-holiday,2090,Perlis,6,3,0
+2022-10-13,non-holiday,2090,Pulau Pinang,105,9,2
+2022-10-13,non-holiday,2090,Sabah,124,16,5
+2022-10-13,non-holiday,2090,Sarawak,67,10,1
+2022-10-13,non-holiday,2090,Selangor,638,48,7
+2022-10-13,non-holiday,2090,Terengganu,25,5,0
+2022-10-13,non-holiday,2090,W.P. Kuala Lumpur,582,10,1
+2022-10-13,non-holiday,2090,W.P. Labuan,2,0,0
+2022-10-13,non-holiday,2090,W.P. Putrajaya,35,6,0
+2022-10-14,non-holiday,2231,Johor,52,35,2
+2022-10-14,non-holiday,2231,Kedah,44,14,4
+2022-10-14,non-holiday,2231,Kelantan,61,12,5
+2022-10-14,non-holiday,2231,Melaka,64,12,2
+2022-10-14,non-holiday,2231,Negeri Sembilan,111,6,1
+2022-10-14,non-holiday,2231,Pahang,39,7,4
+2022-10-14,non-holiday,2231,Perak,205,28,0
+2022-10-14,non-holiday,2231,Perlis,4,1,0
+2022-10-14,non-holiday,2231,Pulau Pinang,96,15,1
+2022-10-14,non-holiday,2231,Sabah,165,19,5
+2022-10-14,non-holiday,2231,Sarawak,63,10,1
+2022-10-14,non-holiday,2231,Selangor,754,56,7
+2022-10-14,non-holiday,2231,Terengganu,16,7,1
+2022-10-14,non-holiday,2231,W.P. Kuala Lumpur,515,13,1
+2022-10-14,non-holiday,2231,W.P. Labuan,3,1,0
+2022-10-14,non-holiday,2231,W.P. Putrajaya,39,3,0
+2022-10-15,non-holiday,2023,Johor,43,26,1
+2022-10-15,non-holiday,2023,Kedah,46,14,4
+2022-10-15,non-holiday,2023,Kelantan,25,2,5
+2022-10-15,non-holiday,2023,Melaka,56,5,2
+2022-10-15,non-holiday,2023,Negeri Sembilan,134,10,1
+2022-10-15,non-holiday,2023,Pahang,50,5,3
+2022-10-15,non-holiday,2023,Perak,146,14,0
+2022-10-15,non-holiday,2023,Perlis,4,3,0
+2022-10-15,non-holiday,2023,Pulau Pinang,96,6,2
+2022-10-15,non-holiday,2023,Sabah,147,24,6
+2022-10-15,non-holiday,2023,Sarawak,91,15,2
+2022-10-15,non-holiday,2023,Selangor,666,52,6
+2022-10-15,non-holiday,2023,Terengganu,15,0,1
+2022-10-15,non-holiday,2023,W.P. Kuala Lumpur,469,19,1
+2022-10-15,non-holiday,2023,W.P. Labuan,5,0,0
+2022-10-15,non-holiday,2023,W.P. Putrajaya,30,3,0
+2022-10-16,non-holiday,1712,Johor,53,29,1
+2022-10-16,non-holiday,1712,Kedah,50,15,4
+2022-10-16,non-holiday,1712,Kelantan,32,22,6
+2022-10-16,non-holiday,1712,Melaka,44,7,3
+2022-10-16,non-holiday,1712,Negeri Sembilan,108,4,1
+2022-10-16,non-holiday,1712,Pahang,23,10,3
+2022-10-16,non-holiday,1712,Perak,119,23,1
+2022-10-16,non-holiday,1712,Perlis,5,1,0
+2022-10-16,non-holiday,1712,Pulau Pinang,59,15,2
+2022-10-16,non-holiday,1712,Sabah,106,26,6
+2022-10-16,non-holiday,1712,Sarawak,66,6,0
+2022-10-16,non-holiday,1712,Selangor,618,36,6
+2022-10-16,non-holiday,1712,Terengganu,22,7,1
+2022-10-16,non-holiday,1712,W.P. Kuala Lumpur,366,13,2
+2022-10-16,non-holiday,1712,W.P. Labuan,3,0,0
+2022-10-16,non-holiday,1712,W.P. Putrajaya,38,2,0
+2022-10-17,non-holiday,1210,Johor,48,26,2
+2022-10-17,non-holiday,1210,Kedah,59,9,5
+2022-10-17,non-holiday,1210,Kelantan,45,9,6
+2022-10-17,non-holiday,1210,Melaka,21,7,4
+2022-10-17,non-holiday,1210,Negeri Sembilan,114,5,1
+2022-10-17,non-holiday,1210,Pahang,17,8,2
+2022-10-17,non-holiday,1210,Perak,90,22,2
+2022-10-17,non-holiday,1210,Perlis,1,4,1
+2022-10-17,non-holiday,1210,Pulau Pinang,81,7,5
+2022-10-17,non-holiday,1210,Sabah,108,12,7
+2022-10-17,non-holiday,1210,Sarawak,37,8,0
+2022-10-17,non-holiday,1210,Selangor,422,48,4
+2022-10-17,non-holiday,1210,Terengganu,26,7,1
+2022-10-17,non-holiday,1210,W.P. Kuala Lumpur,109,12,3
+2022-10-17,non-holiday,1210,W.P. Labuan,0,0,0
+2022-10-17,non-holiday,1210,W.P. Putrajaya,32,6,0
+2022-10-18,non-holiday,1873,Johor,61,23,3
+2022-10-18,non-holiday,1873,Kedah,75,22,7
+2022-10-18,non-holiday,1873,Kelantan,49,13,4
+2022-10-18,non-holiday,1873,Melaka,45,6,4
+2022-10-18,non-holiday,1873,Negeri Sembilan,79,7,1
+2022-10-18,non-holiday,1873,Pahang,29,13,1
+2022-10-18,non-holiday,1873,Perak,101,30,2
+2022-10-18,non-holiday,1873,Perlis,7,3,1
+2022-10-18,non-holiday,1873,Pulau Pinang,60,11,5
+2022-10-18,non-holiday,1873,Sabah,133,14,7
+2022-10-18,non-holiday,1873,Sarawak,72,7,0
+2022-10-18,non-holiday,1873,Selangor,699,53,3
+2022-10-18,non-holiday,1873,Terengganu,25,5,1
+2022-10-18,non-holiday,1873,W.P. Kuala Lumpur,412,18,4
+2022-10-18,non-holiday,1873,W.P. Labuan,0,0,0
+2022-10-18,non-holiday,1873,W.P. Putrajaya,26,4,0
+2022-10-19,non-holiday,2295,Johor,46,34,3
+2022-10-19,non-holiday,2295,Kedah,67,14,8
+2022-10-19,non-holiday,2295,Kelantan,57,12,4
+2022-10-19,non-holiday,2295,Melaka,62,8,4
+2022-10-19,non-holiday,2295,Negeri Sembilan,79,8,1
+2022-10-19,non-holiday,2295,Pahang,42,13,2
+2022-10-19,non-holiday,2295,Perak,145,28,2
+2022-10-19,non-holiday,2295,Perlis,6,1,0
+2022-10-19,non-holiday,2295,Pulau Pinang,73,17,6
+2022-10-19,non-holiday,2295,Sabah,145,16,6
+2022-10-19,non-holiday,2295,Sarawak,64,6,0
+2022-10-19,non-holiday,2295,Selangor,822,63,5
+2022-10-19,non-holiday,2295,Terengganu,32,12,1
+2022-10-19,non-holiday,2295,W.P. Kuala Lumpur,625,20,2
+2022-10-19,non-holiday,2295,W.P. Labuan,2,0,0
+2022-10-19,non-holiday,2295,W.P. Putrajaya,28,7,0
+2022-10-20,non-holiday,2561,Johor,55,31,4
+2022-10-20,non-holiday,2561,Kedah,88,25,7
+2022-10-20,non-holiday,2561,Kelantan,53,13,3
+2022-10-20,non-holiday,2561,Melaka,72,7,4
+2022-10-20,non-holiday,2561,Negeri Sembilan,111,17,2
+2022-10-20,non-holiday,2561,Pahang,48,9,2
+2022-10-20,non-holiday,2561,Perak,175,27,3
+2022-10-20,non-holiday,2561,Perlis,4,4,0
+2022-10-20,non-holiday,2561,Pulau Pinang,98,17,8
+2022-10-20,non-holiday,2561,Sabah,121,15,7
+2022-10-20,non-holiday,2561,Sarawak,74,4,1
+2022-10-20,non-holiday,2561,Selangor,902,67,7
+2022-10-20,non-holiday,2561,Terengganu,26,3,1
+2022-10-20,non-holiday,2561,W.P. Kuala Lumpur,683,8,2
+2022-10-20,non-holiday,2561,W.P. Labuan,0,0,0
+2022-10-20,non-holiday,2561,W.P. Putrajaya,51,6,0
+2022-10-21,non-holiday,2256,Johor,51,44,4
+2022-10-21,non-holiday,2256,Kedah,69,22,4
+2022-10-21,non-holiday,2256,Kelantan,52,16,1
+2022-10-21,non-holiday,2256,Melaka,70,9,2
+2022-10-21,non-holiday,2256,Negeri Sembilan,81,8,2
+2022-10-21,non-holiday,2256,Pahang,46,5,2
+2022-10-21,non-holiday,2256,Perak,211,23,2
+2022-10-21,non-holiday,2256,Perlis,9,3,1
+2022-10-21,non-holiday,2256,Pulau Pinang,107,13,9
+2022-10-21,non-holiday,2256,Sabah,125,23,10
+2022-10-21,non-holiday,2256,Sarawak,79,7,1
+2022-10-21,non-holiday,2256,Selangor,690,54,6
+2022-10-21,non-holiday,2256,Terengganu,23,4,1
+2022-10-21,non-holiday,2256,W.P. Kuala Lumpur,612,10,2
+2022-10-21,non-holiday,2256,W.P. Labuan,0,0,0
+2022-10-21,non-holiday,2256,W.P. Putrajaya,31,4,0
+2022-10-22,non-holiday,2618,Johor,33,30,3
+2022-10-22,non-holiday,2618,Kedah,51,10,5
+2022-10-22,non-holiday,2618,Kelantan,28,10,2
+2022-10-22,non-holiday,2618,Melaka,70,10,1
+2022-10-22,non-holiday,2618,Negeri Sembilan,182,13,1
+2022-10-22,non-holiday,2618,Pahang,38,2,2
+2022-10-22,non-holiday,2618,Perak,163,18,3
+2022-10-22,non-holiday,2618,Perlis,10,2,1
+2022-10-22,non-holiday,2618,Pulau Pinang,130,14,8
+2022-10-22,non-holiday,2618,Sabah,103,13,12
+2022-10-22,non-holiday,2618,Sarawak,51,15,2
+2022-10-22,non-holiday,2618,Selangor,1147,59,6
+2022-10-22,non-holiday,2618,Terengganu,22,3,0
+2022-10-22,non-holiday,2618,W.P. Kuala Lumpur,550,18,1
+2022-10-22,non-holiday,2618,W.P. Labuan,5,0,0
+2022-10-22,non-holiday,2618,W.P. Putrajaya,35,2,0
+2022-10-23,non-holiday,2054,Johor,41,21,3
+2022-10-23,non-holiday,2054,Kedah,47,19,6
+2022-10-23,non-holiday,2054,Kelantan,36,8,2
+2022-10-23,non-holiday,2054,Melaka,48,4,1
+2022-10-23,non-holiday,2054,Negeri Sembilan,107,5,2
+2022-10-23,non-holiday,2054,Pahang,30,7,2
+2022-10-23,non-holiday,2054,Perak,131,20,2
+2022-10-23,non-holiday,2054,Perlis,6,7,1
+2022-10-23,non-holiday,2054,Pulau Pinang,131,14,4
+2022-10-23,non-holiday,2054,Sabah,101,9,10
+2022-10-23,non-holiday,2054,Sarawak,52,7,2
+2022-10-23,non-holiday,2054,Selangor,871,70,6
+2022-10-23,non-holiday,2054,Terengganu,14,5,0
+2022-10-23,non-holiday,2054,W.P. Kuala Lumpur,422,11,2
+2022-10-23,non-holiday,2054,W.P. Labuan,0,0,0
+2022-10-23,non-holiday,2054,W.P. Putrajaya,17,2,0
+2022-10-24,Deepavali,1737,Johor,46,29,3
+2022-10-24,Deepavali,1737,Kedah,49,23,6
+2022-10-24,Deepavali,1737,Kelantan,43,11,2
+2022-10-24,Deepavali,1737,Melaka,40,4,0
+2022-10-24,Deepavali,1737,Negeri Sembilan,128,6,2
+2022-10-24,Deepavali,1737,Pahang,27,6,1
+2022-10-24,Deepavali,1737,Perak,94,13,1
+2022-10-24,Deepavali,1737,Perlis,7,3,1
+2022-10-24,Deepavali,1737,Pulau Pinang,105,10,5
+2022-10-24,Deepavali,1737,Sabah,117,13,9
+2022-10-24,Deepavali,1737,Sarawak,29,8,3
+2022-10-24,Deepavali,1737,Selangor,680,64,6
+2022-10-24,Deepavali,1737,Terengganu,11,2,0
+2022-10-24,Deepavali,1737,W.P. Kuala Lumpur,341,17,2
+2022-10-24,Deepavali,1737,W.P. Labuan,1,0,0
+2022-10-24,Deepavali,1737,W.P. Putrajaya,19,5,11
+2022-10-25,non-holiday,1743,Johor,49,44,3
+2022-10-25,non-holiday,1743,Kedah,38,14,6
+2022-10-25,non-holiday,1743,Kelantan,40,11,2
+2022-10-25,non-holiday,1743,Melaka,32,9,1
+2022-10-25,non-holiday,1743,Negeri Sembilan,119,16,2
+2022-10-25,non-holiday,1743,Pahang,18,10,1
+2022-10-25,non-holiday,1743,Perak,110,23,2
+2022-10-25,non-holiday,1743,Perlis,4,4,1
+2022-10-25,non-holiday,1743,Pulau Pinang,59,8,6
+2022-10-25,non-holiday,1743,Sabah,115,19,9
+2022-10-25,non-holiday,1743,Sarawak,37,11,4
+2022-10-25,non-holiday,1743,Selangor,621,76,5
+2022-10-25,non-holiday,1743,Terengganu,17,8,0
+2022-10-25,non-holiday,1743,W.P. Kuala Lumpur,452,22,2
+2022-10-25,non-holiday,1743,W.P. Labuan,3,0,0
+2022-10-25,non-holiday,1743,W.P. Putrajaya,29,5,0
+2022-10-26,non-holiday,2136,Johor,52,38,5
+2022-10-26,non-holiday,2136,Kedah,93,20,4
+2022-10-26,non-holiday,2136,Kelantan,70,21,3
+2022-10-26,non-holiday,2136,Melaka,62,5,1
+2022-10-26,non-holiday,2136,Negeri Sembilan,82,11,3
+2022-10-26,non-holiday,2136,Pahang,42,9,1
+2022-10-26,non-holiday,2136,Perak,159,27,3
+2022-10-26,non-holiday,2136,Perlis,5,4,2
+2022-10-26,non-holiday,2136,Pulau Pinang,56,13,6
+2022-10-26,non-holiday,2136,Sabah,115,11,8
+2022-10-26,non-holiday,2136,Sarawak,63,6,3
+2022-10-26,non-holiday,2136,Selangor,673,66,7
+2022-10-26,non-holiday,2136,Terengganu,29,10,0
+2022-10-26,non-holiday,2136,W.P. Kuala Lumpur,591,18,2
+2022-10-26,non-holiday,2136,W.P. Labuan,4,0,0
+2022-10-26,non-holiday,2136,W.P. Putrajaya,40,2,0
+2022-10-27,non-holiday,2762,Johor,60,42,3
+2022-10-27,non-holiday,2762,Kedah,75,22,3
+2022-10-27,non-holiday,2762,Kelantan,74,14,3
+2022-10-27,non-holiday,2762,Melaka,82,6,1
+2022-10-27,non-holiday,2762,Negeri Sembilan,94,8,3
+2022-10-27,non-holiday,2762,Pahang,68,13,1
+2022-10-27,non-holiday,2762,Perak,217,37,3
+2022-10-27,non-holiday,2762,Perlis,9,2,1
+2022-10-27,non-holiday,2762,Pulau Pinang,104,18,8
+2022-10-27,non-holiday,2762,Sabah,126,24,7
+2022-10-27,non-holiday,2762,Sarawak,90,11,2
+2022-10-27,non-holiday,2762,Selangor,964,73,9
+2022-10-27,non-holiday,2762,Terengganu,30,5,0
+2022-10-27,non-holiday,2762,W.P. Kuala Lumpur,709,27,2
+2022-10-27,non-holiday,2762,W.P. Labuan,6,0,0
+2022-10-27,non-holiday,2762,W.P. Putrajaya,54,10,1
+2022-10-28,non-holiday,3296,Johor,53,40,5
+2022-10-28,non-holiday,3296,Kedah,59,18,4
+2022-10-28,non-holiday,3296,Kelantan,82,15,3
+2022-10-28,non-holiday,3296,Melaka,87,7,1
+2022-10-28,non-holiday,3296,Negeri Sembilan,151,21,3
+2022-10-28,non-holiday,3296,Pahang,68,13,2
+2022-10-28,non-holiday,3296,Perak,247,58,4
+2022-10-28,non-holiday,3296,Perlis,8,0,1
+2022-10-28,non-holiday,3296,Pulau Pinang,140,29,8
+2022-10-28,non-holiday,3296,Sabah,162,22,8
+2022-10-28,non-holiday,3296,Sarawak,63,10,3
+2022-10-28,non-holiday,3296,Selangor,1302,90,10
+2022-10-28,non-holiday,3296,Terengganu,22,7,1
+2022-10-28,non-holiday,3296,W.P. Kuala Lumpur,813,12,4
+2022-10-28,non-holiday,3296,W.P. Labuan,4,2,0
+2022-10-28,non-holiday,3296,W.P. Putrajaya,35,5,1
+2022-10-29,non-holiday,3189,Johor,46,41,5
+2022-10-29,non-holiday,3189,Kedah,59,15,4
+2022-10-29,non-holiday,3189,Kelantan,61,16,3
+2022-10-29,non-holiday,3189,Melaka,88,3,2
+2022-10-29,non-holiday,3189,Negeri Sembilan,123,17,3
+2022-10-29,non-holiday,3189,Pahang,51,14,3
+2022-10-29,non-holiday,3189,Perak,306,31,4
+2022-10-29,non-holiday,3189,Perlis,4,3,1
+2022-10-29,non-holiday,3189,Pulau Pinang,156,26,8
+2022-10-29,non-holiday,3189,Sabah,181,23,9
+2022-10-29,non-holiday,3189,Sarawak,55,14,6
+2022-10-29,non-holiday,3189,Selangor,1190,84,9
+2022-10-29,non-holiday,3189,Terengganu,14,10,1
+2022-10-29,non-holiday,3189,W.P. Kuala Lumpur,767,27,2
+2022-10-29,non-holiday,3189,W.P. Labuan,6,1,0
+2022-10-29,non-holiday,3189,W.P. Putrajaya,82,9,0
+2022-10-30,non-holiday,3129,Johor,46,55,3
+2022-10-30,non-holiday,3129,Kedah,69,22,4
+2022-10-30,non-holiday,3129,Kelantan,46,21,4
+2022-10-30,non-holiday,3129,Melaka,69,6,2
+2022-10-30,non-holiday,3129,Negeri Sembilan,135,4,3
+2022-10-30,non-holiday,3129,Pahang,44,12,3
+2022-10-30,non-holiday,3129,Perak,222,53,7
+2022-10-30,non-holiday,3129,Perlis,7,2,0
+2022-10-30,non-holiday,3129,Pulau Pinang,173,12,9
+2022-10-30,non-holiday,3129,Sabah,156,23,8
+2022-10-30,non-holiday,3129,Sarawak,44,9,6
+2022-10-30,non-holiday,3129,Selangor,1389,76,13
+2022-10-30,non-holiday,3129,Terengganu,28,9,2
+2022-10-30,non-holiday,3129,W.P. Kuala Lumpur,660,23,2
+2022-10-30,non-holiday,3129,W.P. Labuan,3,0,0
+2022-10-30,non-holiday,3129,W.P. Putrajaya,38,7,0
+2022-10-31,non-holiday,2913,Johor,59,62,3
+2022-10-31,non-holiday,2913,Kedah,100,23,4
+2022-10-31,non-holiday,2913,Kelantan,116,20,4
+2022-10-31,non-holiday,2913,Melaka,57,5,4
+2022-10-31,non-holiday,2913,Negeri Sembilan,155,7,2
+2022-10-31,non-holiday,2913,Pahang,43,7,3
+2022-10-31,non-holiday,2913,Perak,199,26,6
+2022-10-31,non-holiday,2913,Perlis,2,2,0
+2022-10-31,non-holiday,2913,Pulau Pinang,140,18,7
+2022-10-31,non-holiday,2913,Sabah,134,25,6
+2022-10-31,non-holiday,2913,Sarawak,37,2,4
+2022-10-31,non-holiday,2913,Selangor,1153,84,10
+2022-10-31,non-holiday,2913,Terengganu,43,5,1
+2022-10-31,non-holiday,2913,W.P. Kuala Lumpur,611,27,2
+2022-10-31,non-holiday,2913,W.P. Labuan,1,0,0
+2022-10-31,non-holiday,2913,W.P. Putrajaya,63,11,0
+2022-11-01,non-holiday,2913,Johor,69,39,2
+2022-11-01,non-holiday,2913,Kedah,89,23,6
+2022-11-01,non-holiday,2913,Kelantan,87,17,4
+2022-11-01,non-holiday,2913,Melaka,111,10,3
+2022-11-01,non-holiday,2913,Negeri Sembilan,124,21,3
+2022-11-01,non-holiday,2913,Pahang,69,20,4
+2022-11-01,non-holiday,2913,Perak,201,46,6
+2022-11-01,non-holiday,2913,Perlis,2,3,0
+2022-11-01,non-holiday,2913,Pulau Pinang,109,16,9
+2022-11-01,non-holiday,2913,Sabah,199,31,7
+2022-11-01,non-holiday,2913,Sarawak,48,9,4
+2022-11-01,non-holiday,2913,Selangor,997,79,10
+2022-11-01,non-holiday,2913,Terengganu,44,8,0
+2022-11-01,non-holiday,2913,W.P. Kuala Lumpur,709,30,2
+2022-11-01,non-holiday,2913,W.P. Labuan,6,0,0
+2022-11-01,non-holiday,2913,W.P. Putrajaya,49,11,0
+2022-11-02,non-holiday,3969,Johor,73,44,3
+2022-11-02,non-holiday,3969,Kedah,120,27,5
+2022-11-02,non-holiday,3969,Kelantan,106,22,3
+2022-11-02,non-holiday,3969,Melaka,104,10,5
+2022-11-02,non-holiday,3969,Negeri Sembilan,245,24,4
+2022-11-02,non-holiday,3969,Pahang,79,14,3
+2022-11-02,non-holiday,3969,Perak,314,63,8
+2022-11-02,non-holiday,3969,Perlis,3,3,1
+2022-11-02,non-holiday,3969,Pulau Pinang,157,17,8
+2022-11-02,non-holiday,3969,Sabah,248,33,7
+2022-11-02,non-holiday,3969,Sarawak,81,9,4
+2022-11-02,non-holiday,3969,Selangor,1145,88,8
+2022-11-02,non-holiday,3969,Terengganu,49,12,0
+2022-11-02,non-holiday,3969,W.P. Kuala Lumpur,1180,34,4
+2022-11-02,non-holiday,3969,W.P. Labuan,7,1,0
+2022-11-02,non-holiday,3969,W.P. Putrajaya,58,13,0
+2022-11-03,non-holiday,4711,Johor,60,60,4
+2022-11-03,non-holiday,4711,Kedah,135,23,6
+2022-11-03,non-holiday,4711,Kelantan,128,23,6
+2022-11-03,non-holiday,4711,Melaka,149,11,5
+2022-11-03,non-holiday,4711,Negeri Sembilan,299,18,3
+2022-11-03,non-holiday,4711,Pahang,79,20,3
+2022-11-03,non-holiday,4711,Perak,391,56,8
+2022-11-03,non-holiday,4711,Perlis,5,2,1
+2022-11-03,non-holiday,4711,Pulau Pinang,232,28,9
+2022-11-03,non-holiday,4711,Sabah,215,28,5
+2022-11-03,non-holiday,4711,Sarawak,75,12,5
+2022-11-03,non-holiday,4711,Selangor,1609,111,8
+2022-11-03,non-holiday,4711,Terengganu,41,8,1
+2022-11-03,non-holiday,4711,W.P. Kuala Lumpur,1168,32,3
+2022-11-03,non-holiday,4711,W.P. Labuan,14,0,0
+2022-11-03,non-holiday,4711,W.P. Putrajaya,111,11,0
+2022-11-04,non-holiday,4360,Johor,53,38,3
+2022-11-04,non-holiday,4360,Kedah,123,20,9
+2022-11-04,non-holiday,4360,Kelantan,92,17,5
+2022-11-04,non-holiday,4360,Melaka,172,10,4
+2022-11-04,non-holiday,4360,Negeri Sembilan,274,19,4
+2022-11-04,non-holiday,4360,Pahang,83,15,4
+2022-11-04,non-holiday,4360,Perak,417,59,10
+2022-11-04,non-holiday,4360,Perlis,5,5,1
+2022-11-04,non-holiday,4360,Pulau Pinang,252,25,10
+2022-11-04,non-holiday,4360,Sabah,254,35,6
+2022-11-04,non-holiday,4360,Sarawak,79,13,4
+2022-11-04,non-holiday,4360,Selangor,1797,110,9
+2022-11-04,non-holiday,4360,Terengganu,30,13,1
+2022-11-04,non-holiday,4360,W.P. Kuala Lumpur,616,30,3
+2022-11-04,non-holiday,4360,W.P. Labuan,5,0,0
+2022-11-04,non-holiday,4360,W.P. Putrajaya,108,16,0
+2022-11-05,non-holiday,4621,Johor,64,41,6
+2022-11-05,non-holiday,4621,Kedah,96,25,5
+2022-11-05,non-holiday,4621,Kelantan,65,14,5
+2022-11-05,non-holiday,4621,Melaka,196,13,2
+2022-11-05,non-holiday,4621,Negeri Sembilan,355,15,4
+2022-11-05,non-holiday,4621,Pahang,86,14,4
+2022-11-05,non-holiday,4621,Perak,207,34,8
+2022-11-05,non-holiday,4621,Perlis,7,2,0
+2022-11-05,non-holiday,4621,Pulau Pinang,228,20,10
+2022-11-05,non-holiday,4621,Sabah,272,41,7
+2022-11-05,non-holiday,4621,Sarawak,95,11,4
+2022-11-05,non-holiday,4621,Selangor,2018,113,11
+2022-11-05,non-holiday,4621,Terengganu,41,15,1
+2022-11-05,non-holiday,4621,W.P. Kuala Lumpur,806,35,3
+2022-11-05,non-holiday,4621,W.P. Labuan,2,0,0
+2022-11-05,non-holiday,4621,W.P. Putrajaya,83,22,0
+2022-11-06,non-holiday,3913,Johor,45,40,5
+2022-11-06,non-holiday,3913,Kedah,122,19,6
+2022-11-06,non-holiday,3913,Kelantan,48,18,3
+2022-11-06,non-holiday,3913,Melaka,122,9,2
+2022-11-06,non-holiday,3913,Negeri Sembilan,211,15,4
+2022-11-06,non-holiday,3913,Pahang,80,9,5
+2022-11-06,non-holiday,3913,Perak,189,51,9
+2022-11-06,non-holiday,3913,Perlis,3,4,0
+2022-11-06,non-holiday,3913,Pulau Pinang,207,10,10
+2022-11-06,non-holiday,3913,Sabah,274,28,8
+2022-11-06,non-holiday,3913,Sarawak,48,11,4
+2022-11-06,non-holiday,3913,Selangor,1731,112,10
+2022-11-06,non-holiday,3913,Terengganu,43,9,1
+2022-11-06,non-holiday,3913,W.P. Kuala Lumpur,739,24,0
+2022-11-06,non-holiday,3913,W.P. Labuan,4,0,0
+2022-11-06,non-holiday,3913,W.P. Putrajaya,47,13,0
+2022-11-07,non-holiday,2521,Johor,69,44,6
+2022-11-07,non-holiday,2521,Kedah,118,21,7
+2022-11-07,non-holiday,2521,Kelantan,131,25,2
+2022-11-07,non-holiday,2521,Melaka,100,13,3
+2022-11-07,non-holiday,2521,Negeri Sembilan,179,11,4
+2022-11-07,non-holiday,2521,Pahang,77,18,7
+2022-11-07,non-holiday,2521,Perak,88,36,6
+2022-11-07,non-holiday,2521,Perlis,5,2,0
+2022-11-07,non-holiday,2521,Pulau Pinang,132,27,12
+2022-11-07,non-holiday,2521,Sabah,178,41,9
+2022-11-07,non-holiday,2521,Sarawak,43,15,4
+2022-11-07,non-holiday,2521,Selangor,879,91,10
+2022-11-07,non-holiday,2521,Terengganu,57,19,1
+2022-11-07,non-holiday,2521,W.P. Kuala Lumpur,461,43,2
+2022-11-07,non-holiday,2521,W.P. Labuan,0,0,0
+2022-11-07,non-holiday,2521,W.P. Putrajaya,4,16,0
+2022-11-08,non-holiday,3781,Johor,67,50,5
+2022-11-08,non-holiday,3781,Kedah,145,29,6
+2022-11-08,non-holiday,3781,Kelantan,156,29,1
+2022-11-08,non-holiday,3781,Melaka,212,12,3
+2022-11-08,non-holiday,3781,Negeri Sembilan,228,23,4
+2022-11-08,non-holiday,3781,Pahang,82,21,6
+2022-11-08,non-holiday,3781,Perak,163,49,9
+2022-11-08,non-holiday,3781,Perlis,2,3,0
+2022-11-08,non-holiday,3781,Pulau Pinang,102,13,12
+2022-11-08,non-holiday,3781,Sabah,176,43,11
+2022-11-08,non-holiday,3781,Sarawak,80,10,4
+2022-11-08,non-holiday,3781,Selangor,1515,102,9
+2022-11-08,non-holiday,3781,Terengganu,63,17,2
+2022-11-08,non-holiday,3781,W.P. Kuala Lumpur,561,27,3
+2022-11-08,non-holiday,3781,W.P. Labuan,3,0,0
+2022-11-08,non-holiday,3781,W.P. Putrajaya,226,13,0
+2022-11-09,non-holiday,3267,Johor,68,67,10
+2022-11-09,non-holiday,3267,Kedah,157,30,9
+2022-11-09,non-holiday,3267,Kelantan,161,24,5
+2022-11-09,non-holiday,3267,Melaka,185,15,4
+2022-11-09,non-holiday,3267,Negeri Sembilan,99,13,2
+2022-11-09,non-holiday,3267,Pahang,112,25,9
+2022-11-09,non-holiday,3267,Perak,216,57,10
+2022-11-09,non-holiday,3267,Perlis,5,5,0
+2022-11-09,non-holiday,3267,Pulau Pinang,145,25,11
+2022-11-09,non-holiday,3267,Sabah,173,58,13
+2022-11-09,non-holiday,3267,Sarawak,132,12,4
+2022-11-09,non-holiday,3267,Selangor,1267,106,9
+2022-11-09,non-holiday,3267,Terengganu,55,12,2
+2022-11-09,non-holiday,3267,W.P. Kuala Lumpur,322,33,3
+2022-11-09,non-holiday,3267,W.P. Labuan,24,0,0
+2022-11-09,non-holiday,3267,W.P. Putrajaya,146,13,0
+2022-11-10,non-holiday,3436,Johor,89,41,10
+2022-11-10,non-holiday,3436,Kedah,172,31,7
+2022-11-10,non-holiday,3436,Kelantan,179,25,8
+2022-11-10,non-holiday,3436,Melaka,175,16,4
+2022-11-10,non-holiday,3436,Negeri Sembilan,167,12,3
+2022-11-10,non-holiday,3436,Pahang,112,15,8
+2022-11-10,non-holiday,3436,Perak,171,92,10
+2022-11-10,non-holiday,3436,Perlis,11,8,0
+2022-11-10,non-holiday,3436,Pulau Pinang,237,13,9
+2022-11-10,non-holiday,3436,Sabah,221,46,14
+2022-11-10,non-holiday,3436,Sarawak,70,16,3
+2022-11-10,non-holiday,3436,Selangor,1286,130,10
+2022-11-10,non-holiday,3436,Terengganu,49,13,1
+2022-11-10,non-holiday,3436,W.P. Kuala Lumpur,312,32,4
+2022-11-10,non-holiday,3436,W.P. Labuan,11,1,0
+2022-11-10,non-holiday,3436,W.P. Putrajaya,174,13,1
+2022-11-11,non-holiday,3245,Johor,75,56,10
+2022-11-11,non-holiday,3245,Kedah,125,19,9
+2022-11-11,non-holiday,3245,Kelantan,107,36,6
+2022-11-11,non-holiday,3245,Melaka,264,23,4
+2022-11-11,non-holiday,3245,Negeri Sembilan,123,18,3
+2022-11-11,non-holiday,3245,Pahang,88,25,6
+2022-11-11,non-holiday,3245,Perak,93,44,7
+2022-11-11,non-holiday,3245,Perlis,17,4,0
+2022-11-11,non-holiday,3245,Pulau Pinang,160,15,7
+2022-11-11,non-holiday,3245,Sabah,204,60,16
+2022-11-11,non-holiday,3245,Sarawak,139,17,3
+2022-11-11,non-holiday,3245,Selangor,1272,127,9
+2022-11-11,non-holiday,3245,Terengganu,43,12,1
+2022-11-11,non-holiday,3245,W.P. Kuala Lumpur,421,51,4
+2022-11-11,non-holiday,3245,W.P. Labuan,10,0,0
+2022-11-11,non-holiday,3245,W.P. Putrajaya,104,14,2
+2022-11-12,non-holiday,2882,Johor,49,45,9
+2022-11-12,non-holiday,2882,Kedah,109,26,6
+2022-11-12,non-holiday,2882,Kelantan,66,22,8
+2022-11-12,non-holiday,2882,Melaka,158,9,4
+2022-11-12,non-holiday,2882,Negeri Sembilan,121,12,4
+2022-11-12,non-holiday,2882,Pahang,103,26,6
+2022-11-12,non-holiday,2882,Perak,107,53,5
+2022-11-12,non-holiday,2882,Perlis,4,1,0
+2022-11-12,non-holiday,2882,Pulau Pinang,190,22,5
+2022-11-12,non-holiday,2882,Sabah,257,45,19
+2022-11-12,non-holiday,2882,Sarawak,104,19,3
+2022-11-12,non-holiday,2882,Selangor,1240,97,9
+2022-11-12,non-holiday,2882,Terengganu,35,15,1
+2022-11-12,non-holiday,2882,W.P. Kuala Lumpur,227,27,3
+2022-11-12,non-holiday,2882,W.P. Labuan,17,3,0
+2022-11-12,non-holiday,2882,W.P. Putrajaya,95,6,2
+2022-11-13,non-holiday,2234,Johor,53,47,9
+2022-11-13,non-holiday,2234,Kedah,90,24,9
+2022-11-13,non-holiday,2234,Kelantan,84,19,7
+2022-11-13,non-holiday,2234,Melaka,134,21,6
+2022-11-13,non-holiday,2234,Negeri Sembilan,122,10,4
+2022-11-13,non-holiday,2234,Pahang,55,22,6
+2022-11-13,non-holiday,2234,Perak,106,56,3
+2022-11-13,non-holiday,2234,Perlis,3,4,0
+2022-11-13,non-holiday,2234,Pulau Pinang,135,25,7
+2022-11-13,non-holiday,2234,Sabah,188,54,19
+2022-11-13,non-holiday,2234,Sarawak,82,17,4
+2022-11-13,non-holiday,2234,Selangor,957,103,10
+2022-11-13,non-holiday,2234,Terengganu,23,12,2
+2022-11-13,non-holiday,2234,W.P. Kuala Lumpur,176,30,3
+2022-11-13,non-holiday,2234,W.P. Labuan,9,0,0
+2022-11-13,non-holiday,2234,W.P. Putrajaya,17,6,2
+2022-11-14,non-holiday,1749,Johor,68,37,8
+2022-11-14,non-holiday,1749,Kedah,121,27,11
+2022-11-14,non-holiday,1749,Kelantan,53,19,7
+2022-11-14,non-holiday,1749,Melaka,86,13,6
+2022-11-14,non-holiday,1749,Negeri Sembilan,78,18,1
+2022-11-14,non-holiday,1749,Pahang,67,24,7
+2022-11-14,non-holiday,1749,Perak,70,42,4
+2022-11-14,non-holiday,1749,Perlis,5,2,0
+2022-11-14,non-holiday,1749,Pulau Pinang,70,23,7
+2022-11-14,non-holiday,1749,Sabah,133,53,17
+2022-11-14,non-holiday,1749,Sarawak,56,14,5
+2022-11-14,non-holiday,1749,Selangor,538,107,10
+2022-11-14,non-holiday,1749,Terengganu,56,22,0
+2022-11-14,non-holiday,1749,W.P. Kuala Lumpur,224,25,4
+2022-11-14,non-holiday,1749,W.P. Labuan,9,1,0
+2022-11-14,non-holiday,1749,W.P. Putrajaya,115,6,2
+2022-11-15,non-holiday,2852,Johor,78,47,8
+2022-11-15,non-holiday,2852,Kedah,183,25,11
+2022-11-15,non-holiday,2852,Kelantan,174,31,4
+2022-11-15,non-holiday,2852,Melaka,190,15,5
+2022-11-15,non-holiday,2852,Negeri Sembilan,81,25,4
+2022-11-15,non-holiday,2852,Pahang,82,23,8
+2022-11-15,non-holiday,2852,Perak,104,43,7
+2022-11-15,non-holiday,2852,Perlis,3,4,1
+2022-11-15,non-holiday,2852,Pulau Pinang,92,17,8
+2022-11-15,non-holiday,2852,Sabah,212,65,18
+2022-11-15,non-holiday,2852,Sarawak,142,22,6
+2022-11-15,non-holiday,2852,Selangor,936,115,11
+2022-11-15,non-holiday,2852,Terengganu,77,20,0
+2022-11-15,non-holiday,2852,W.P. Kuala Lumpur,316,41,3
+2022-11-15,non-holiday,2852,W.P. Labuan,13,1,0
+2022-11-15,non-holiday,2852,W.P. Putrajaya,169,7,3
+2022-11-16,non-holiday,3304,Johor,52,65,10
+2022-11-16,non-holiday,3304,Kedah,276,32,13
+2022-11-16,non-holiday,3304,Kelantan,195,36,7
+2022-11-16,non-holiday,3304,Melaka,163,14,2
+2022-11-16,non-holiday,3304,Negeri Sembilan,75,28,4
+2022-11-16,non-holiday,3304,Pahang,126,41,6
+2022-11-16,non-holiday,3304,Perak,138,73,4
+2022-11-16,non-holiday,3304,Perlis,20,2,1
+2022-11-16,non-holiday,3304,Pulau Pinang,173,27,9
+2022-11-16,non-holiday,3304,Sabah,221,74,16
+2022-11-16,non-holiday,3304,Sarawak,192,14,4
+2022-11-16,non-holiday,3304,Selangor,1197,121,8
+2022-11-16,non-holiday,3304,Terengganu,76,26,1
+2022-11-16,non-holiday,3304,W.P. Kuala Lumpur,233,34,2
+2022-11-16,non-holiday,3304,W.P. Labuan,20,3,0
+2022-11-16,non-holiday,3304,W.P. Putrajaya,147,11,3
+2022-11-17,non-holiday,3457,Johor,79,60,7
+2022-11-17,non-holiday,3457,Kedah,171,31,13
+2022-11-17,non-holiday,3457,Kelantan,124,30,6
+2022-11-17,non-holiday,3457,Melaka,262,12,4
+2022-11-17,non-holiday,3457,Negeri Sembilan,146,23,4
+2022-11-17,non-holiday,3457,Pahang,159,23,8
+2022-11-17,non-holiday,3457,Perak,139,48,5
+2022-11-17,non-holiday,3457,Perlis,4,9,1
+2022-11-17,non-holiday,3457,Pulau Pinang,216,20,8
+2022-11-17,non-holiday,3457,Sabah,266,48,15
+2022-11-17,non-holiday,3457,Sarawak,158,21,3
+2022-11-17,non-holiday,3457,Selangor,1187,134,11
+2022-11-17,non-holiday,3457,Terengganu,77,16,1
+2022-11-17,non-holiday,3457,W.P. Kuala Lumpur,322,47,2
+2022-11-17,non-holiday,3457,W.P. Labuan,16,3,0
+2022-11-17,non-holiday,3457,W.P. Putrajaya,131,7,1
+2022-11-18,non-holiday,3037,Johor,62,33,6
+2022-11-18,non-holiday,3037,Kedah,158,31,11
+2022-11-18,non-holiday,3037,Kelantan,109,33,8
+2022-11-18,non-holiday,3037,Melaka,200,22,6
+2022-11-18,non-holiday,3037,Negeri Sembilan,152,22,4
+2022-11-18,non-holiday,3037,Pahang,94,19,10
+2022-11-18,non-holiday,3037,Perak,117,77,8
+2022-11-18,non-holiday,3037,Perlis,9,4,1
+2022-11-18,non-holiday,3037,Pulau Pinang,186,26,8
+2022-11-18,non-holiday,3037,Sabah,205,64,19
+2022-11-18,non-holiday,3037,Sarawak,114,28,7
+2022-11-18,non-holiday,3037,Selangor,1237,128,13
+2022-11-18,non-holiday,3037,Terengganu,71,22,1
+2022-11-18,non-holiday,3037,W.P. Kuala Lumpur,185,29,3
+2022-11-18,non-holiday,3037,W.P. Labuan,16,1,0
+2022-11-18,non-holiday,3037,W.P. Putrajaya,122,19,1
+2022-11-19,GE-15,2450,Johor,47,40,5
+2022-11-19,GE-15,2450,Kedah,85,22,12
+2022-11-19,GE-15,2450,Kelantan,51,27,6
+2022-11-19,GE-15,2450,Melaka,171,19,5
+2022-11-19,GE-15,2450,Negeri Sembilan,50,13,4
+2022-11-19,GE-15,2450,Pahang,71,22,6
+2022-11-19,GE-15,2450,Perak,101,38,8
+2022-11-19,GE-15,2450,Perlis,6,3,0
+2022-11-19,GE-15,2450,Pulau Pinang,136,26,6
+2022-11-19,GE-15,2450,Sabah,218,44,16
+2022-11-19,GE-15,2450,Sarawak,70,21,7
+2022-11-19,GE-15,2450,Selangor,1099,114,12
+2022-11-19,GE-15,2450,Terengganu,59,9,1
+2022-11-19,GE-15,2450,W.P. Kuala Lumpur,192,38,2
+2022-11-19,GE-15,2450,W.P. Labuan,6,0,0
+2022-11-19,GE-15,2450,W.P. Putrajaya,88,12,1
+2022-11-20,non-holiday,1633,Johor,50,28,6
+2022-11-20,non-holiday,1633,Kedah,99,32,10
+2022-11-20,non-holiday,1633,Kelantan,41,13,4
+2022-11-20,non-holiday,1633,Melaka,127,18,6
+2022-11-20,non-holiday,1633,Negeri Sembilan,80,22,3
+2022-11-20,non-holiday,1633,Pahang,53,27,6
+2022-11-20,non-holiday,1633,Perak,65,44,8
+2022-11-20,non-holiday,1633,Perlis,3,4,0
+2022-11-20,non-holiday,1633,Pulau Pinang,148,18,7
+2022-11-20,non-holiday,1633,Sabah,133,40,17
+2022-11-20,non-holiday,1633,Sarawak,51,29,11
+2022-11-20,non-holiday,1633,Selangor,562,103,11
+2022-11-20,non-holiday,1633,Terengganu,49,16,1
+2022-11-20,non-holiday,1633,W.P. Kuala Lumpur,131,22,3
+2022-11-20,non-holiday,1633,W.P. Labuan,2,4,0
+2022-11-20,non-holiday,1633,W.P. Putrajaya,39,11,1
+2022-11-21,non-holiday,2121,Johor,31,41,8
+2022-11-21,non-holiday,2121,Kedah,98,34,10
+2022-11-21,non-holiday,2121,Kelantan,86,34,3
+2022-11-21,non-holiday,2121,Melaka,112,13,6
+2022-11-21,non-holiday,2121,Negeri Sembilan,60,12,4
+2022-11-21,non-holiday,2121,Pahang,54,24,6
+2022-11-21,non-holiday,2121,Perak,74,49,6
+2022-11-21,non-holiday,2121,Perlis,2,3,0
+2022-11-21,non-holiday,2121,Pulau Pinang,69,26,7
+2022-11-21,non-holiday,2121,Sabah,109,51,16
+2022-11-21,non-holiday,2121,Sarawak,77,38,10
+2022-11-21,non-holiday,2121,Selangor,1073,119,11
+2022-11-21,non-holiday,2121,Terengganu,55,21,1
+2022-11-21,non-holiday,2121,W.P. Kuala Lumpur,156,35,3
+2022-11-21,non-holiday,2121,W.P. Labuan,11,1,0
+2022-11-21,non-holiday,2121,W.P. Putrajaya,54,10,1
+2022-11-22,non-holiday,2516,Johor,38,43,8
+2022-11-22,non-holiday,2516,Kedah,184,25,9
+2022-11-22,non-holiday,2516,Kelantan,198,28,2
+2022-11-22,non-holiday,2516,Melaka,122,17,6
+2022-11-22,non-holiday,2516,Negeri Sembilan,66,10,2
+2022-11-22,non-holiday,2516,Pahang,114,31,7
+2022-11-22,non-holiday,2516,Perak,111,59,8
+2022-11-22,non-holiday,2516,Perlis,5,2,0
+2022-11-22,non-holiday,2516,Pulau Pinang,95,17,6
+2022-11-22,non-holiday,2516,Sabah,171,68,18
+2022-11-22,non-holiday,2516,Sarawak,201,31,9
+2022-11-22,non-holiday,2516,Selangor,754,114,11
+2022-11-22,non-holiday,2516,Terengganu,87,22,2
+2022-11-22,non-holiday,2516,W.P. Kuala Lumpur,292,33,4
+2022-11-22,non-holiday,2516,W.P. Labuan,16,2,0
+2022-11-22,non-holiday,2516,W.P. Putrajaya,62,17,1
+2022-11-23,non-holiday,3537,Johor,58,59,10
+2022-11-23,non-holiday,3537,Kedah,200,41,9
+2022-11-23,non-holiday,3537,Kelantan,202,43,1
+2022-11-23,non-holiday,3537,Melaka,205,22,7
+2022-11-23,non-holiday,3537,Negeri Sembilan,114,17,1
+2022-11-23,non-holiday,3537,Pahang,135,32,11
+2022-11-23,non-holiday,3537,Perak,145,63,7
+2022-11-23,non-holiday,3537,Perlis,9,2,0
+2022-11-23,non-holiday,3537,Pulau Pinang,180,20,11
+2022-11-23,non-holiday,3537,Sabah,254,58,19
+2022-11-23,non-holiday,3537,Sarawak,220,28,9
+2022-11-23,non-holiday,3537,Selangor,1280,134,10
+2022-11-23,non-holiday,3537,Terengganu,103,24,1
+2022-11-23,non-holiday,3537,W.P. Kuala Lumpur,290,23,4
+2022-11-23,non-holiday,3537,W.P. Labuan,35,2,0
+2022-11-23,non-holiday,3537,W.P. Putrajaya,107,11,1
+2022-11-24,non-holiday,2877,Johor,46,39,7
+2022-11-24,non-holiday,2877,Kedah,165,52,10
+2022-11-24,non-holiday,2877,Kelantan,183,31,4
+2022-11-24,non-holiday,2877,Melaka,207,28,4
+2022-11-24,non-holiday,2877,Negeri Sembilan,124,19,1
+2022-11-24,non-holiday,2877,Pahang,152,35,10
+2022-11-24,non-holiday,2877,Perak,150,80,9
+2022-11-24,non-holiday,2877,Perlis,9,4,0
+2022-11-24,non-holiday,2877,Pulau Pinang,184,20,9
+2022-11-24,non-holiday,2877,Sabah,222,58,19
+2022-11-24,non-holiday,2877,Sarawak,176,29,7
+2022-11-24,non-holiday,2877,Selangor,701,113,11
+2022-11-24,non-holiday,2877,Terengganu,104,35,1
+2022-11-24,non-holiday,2877,W.P. Kuala Lumpur,311,33,3
+2022-11-24,non-holiday,2877,W.P. Labuan,24,1,0
+2022-11-24,non-holiday,2877,W.P. Putrajaya,119,10,2
+2022-11-25,non-holiday,3024,Johor,49,44,6
+2022-11-25,non-holiday,3024,Kedah,126,33,12
+2022-11-25,non-holiday,3024,Kelantan,114,34,6
+2022-11-25,non-holiday,3024,Melaka,268,21,3
+2022-11-25,non-holiday,3024,Negeri Sembilan,106,28,1
+2022-11-25,non-holiday,3024,Pahang,102,21,7
+2022-11-25,non-holiday,3024,Perak,132,61,9
+2022-11-25,non-holiday,3024,Perlis,7,3,0
+2022-11-25,non-holiday,3024,Pulau Pinang,178,19,11
+2022-11-25,non-holiday,3024,Sabah,266,61,19
+2022-11-25,non-holiday,3024,Sarawak,145,29,6
+2022-11-25,non-holiday,3024,Selangor,1069,129,10
+2022-11-25,non-holiday,3024,Terengganu,72,17,1
+2022-11-25,non-holiday,3024,W.P. Kuala Lumpur,223,28,1
+2022-11-25,non-holiday,3024,W.P. Labuan,27,1,0
+2022-11-25,non-holiday,3024,W.P. Putrajaya,140,10,0
+2022-11-26,non-holiday,2898,Johor,47,50,8
+2022-11-26,non-holiday,2898,Kedah,109,21,10
+2022-11-26,non-holiday,2898,Kelantan,66,25,4
+2022-11-26,non-holiday,2898,Melaka,197,18,2
+2022-11-26,non-holiday,2898,Negeri Sembilan,102,18,2
+2022-11-26,non-holiday,2898,Pahang,106,23,9
+2022-11-26,non-holiday,2898,Perak,153,57,10
+2022-11-26,non-holiday,2898,Perlis,9,3,0
+2022-11-26,non-holiday,2898,Pulau Pinang,120,11,12
+2022-11-26,non-holiday,2898,Sabah,210,50,17
+2022-11-26,non-holiday,2898,Sarawak,176,36,7
+2022-11-26,non-holiday,2898,Selangor,1230,105,12
+2022-11-26,non-holiday,2898,Terengganu,77,28,1
+2022-11-26,non-holiday,2898,W.P. Kuala Lumpur,206,26,3
+2022-11-26,non-holiday,2898,W.P. Labuan,18,3,0
+2022-11-26,non-holiday,2898,W.P. Putrajaya,72,5,0
+2022-11-27,non-holiday,2022,Johor,37,43,8
+2022-11-27,non-holiday,2022,Kedah,148,29,11
+2022-11-27,non-holiday,2022,Kelantan,81,14,6
+2022-11-27,non-holiday,2022,Melaka,128,10,3
+2022-11-27,non-holiday,2022,Negeri Sembilan,59,19,2
+2022-11-27,non-holiday,2022,Pahang,65,24,10
+2022-11-27,non-holiday,2022,Perak,75,47,14
+2022-11-27,non-holiday,2022,Perlis,8,0,0
+2022-11-27,non-holiday,2022,Pulau Pinang,134,20,14
+2022-11-27,non-holiday,2022,Sabah,154,36,15
+2022-11-27,non-holiday,2022,Sarawak,87,23,4
+2022-11-27,non-holiday,2022,Selangor,768,85,11
+2022-11-27,non-holiday,2022,Terengganu,55,17,1
+2022-11-27,non-holiday,2022,W.P. Kuala Lumpur,159,28,2
+2022-11-27,non-holiday,2022,W.P. Labuan,10,1,0
+2022-11-27,non-holiday,2022,W.P. Putrajaya,54,9,0
+2022-11-28,non-holiday,2465,Johor,42,39,10
+2022-11-28,non-holiday,2465,Kedah,138,46,11
+2022-11-28,non-holiday,2465,Kelantan,147,36,5
+2022-11-28,non-holiday,2465,Melaka,92,12,3
+2022-11-28,non-holiday,2465,Negeri Sembilan,86,15,0
+2022-11-28,non-holiday,2465,Pahang,51,24,7
+2022-11-28,non-holiday,2465,Perak,66,29,12
+2022-11-28,non-holiday,2465,Perlis,8,1,0
+2022-11-28,non-holiday,2465,Pulau Pinang,81,25,13
+2022-11-28,non-holiday,2465,Sabah,137,45,15
+2022-11-28,non-holiday,2465,Sarawak,75,21,3
+2022-11-28,non-holiday,2465,Selangor,1306,87,11
+2022-11-28,non-holiday,2465,Terengganu,66,19,1
+2022-11-28,non-holiday,2465,W.P. Kuala Lumpur,108,26,1
+2022-11-28,non-holiday,2465,W.P. Labuan,3,0,0
+2022-11-28,non-holiday,2465,W.P. Putrajaya,59,9,0
+2022-11-29,non-holiday,1672,Johor,39,30,12
+2022-11-29,non-holiday,1672,Kedah,133,37,11
+2022-11-29,non-holiday,1672,Kelantan,77,19,5
+2022-11-29,non-holiday,1672,Melaka,89,12,4
+2022-11-29,non-holiday,1672,Negeri Sembilan,84,21,2
+2022-11-29,non-holiday,1672,Pahang,46,26,9
+2022-11-29,non-holiday,1672,Perak,66,46,9
+2022-11-29,non-holiday,1672,Perlis,3,4,0
+2022-11-29,non-holiday,1672,Pulau Pinang,81,24,11
+2022-11-29,non-holiday,1672,Sabah,103,35,12
+2022-11-29,non-holiday,1672,Sarawak,80,34,4
+2022-11-29,non-holiday,1672,Selangor,619,80,12
+2022-11-29,non-holiday,1672,Terengganu,57,19,3
+2022-11-29,non-holiday,1672,W.P. Kuala Lumpur,134,25,0
+2022-11-29,non-holiday,1672,W.P. Labuan,9,2,0
+2022-11-29,non-holiday,1672,W.P. Putrajaya,52,4,0
+2022-11-30,non-holiday,1737,Johor,43,25,11
+2022-11-30,non-holiday,1737,Kedah,164,38,11
+2022-11-30,non-holiday,1737,Kelantan,123,31,5
+2022-11-30,non-holiday,1737,Melaka,134,11,3
+2022-11-30,non-holiday,1737,Negeri Sembilan,64,5,1
+2022-11-30,non-holiday,1737,Pahang,80,25,6
+2022-11-30,non-holiday,1737,Perak,88,62,10
+2022-11-30,non-holiday,1737,Perlis,8,2,0
+2022-11-30,non-holiday,1737,Pulau Pinang,82,17,11
+2022-11-30,non-holiday,1737,Sabah,125,45,13
+2022-11-30,non-holiday,1737,Sarawak,166,31,7
+2022-11-30,non-holiday,1737,Selangor,367,100,11
+2022-11-30,non-holiday,1737,Terengganu,57,19,5
+2022-11-30,non-holiday,1737,W.P. Kuala Lumpur,193,25,0
+2022-11-30,non-holiday,1737,W.P. Labuan,24,2,0
+2022-11-30,non-holiday,1737,W.P. Putrajaya,19,9,0
