@@ -56,7 +56,7 @@ cases_state.csv
 
 Data cleaning = 4 months (1st Aug until 30th Nov ) using Python
 1. cases_state = Choylee
-2. cases_malaysia = Aishu
+2. cases_malaysia = Aiswarya
 3. hospital.csv = Dr Lian
 4. icu.csv = Dr Dura
 
