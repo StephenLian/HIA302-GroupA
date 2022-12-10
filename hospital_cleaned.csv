@@ -1,0 +1,1953 @@
+date,state,admitted_covid
+01-08-22,Johor,41
+01-08-22,Kedah,26
+01-08-22,Kelantan,6
+01-08-22,Melaka,14
+01-08-22,Negeri Sembilan,14
+01-08-22,Pahang,7
+01-08-22,Perak,45
+01-08-22,Perlis,7
+01-08-22,Pulau Pinang,29
+01-08-22,Sabah,14
+01-08-22,Sarawak,20
+01-08-22,Selangor,64
+01-08-22,Terengganu,7
+01-08-22,W.P. Kuala Lumpur,27
+01-08-22,W.P. Labuan,3
+01-08-22,W.P. Putrajaya,7
+02-08-22,Johor,42
+02-08-22,Kedah,35
+02-08-22,Kelantan,12
+02-08-22,Melaka,10
+02-08-22,Negeri Sembilan,18
+02-08-22,Pahang,17
+02-08-22,Perak,45
+02-08-22,Perlis,1
+02-08-22,Pulau Pinang,18
+02-08-22,Sabah,23
+02-08-22,Sarawak,13
+02-08-22,Selangor,73
+02-08-22,Terengganu,7
+02-08-22,W.P. Kuala Lumpur,22
+02-08-22,W.P. Labuan,1
+02-08-22,W.P. Putrajaya,7
+03-08-22,Johor,46
+03-08-22,Kedah,39
+03-08-22,Kelantan,9
+03-08-22,Melaka,12
+03-08-22,Negeri Sembilan,16
+03-08-22,Pahang,13
+03-08-22,Perak,41
+03-08-22,Perlis,7
+03-08-22,Pulau Pinang,19
+03-08-22,Sabah,26
+03-08-22,Sarawak,10
+03-08-22,Selangor,79
+03-08-22,Terengganu,5
+03-08-22,W.P. Kuala Lumpur,27
+03-08-22,W.P. Labuan,0
+03-08-22,W.P. Putrajaya,9
+04-08-22,Johor,46
+04-08-22,Kedah,28
+04-08-22,Kelantan,13
+04-08-22,Melaka,12
+04-08-22,Negeri Sembilan,11
+04-08-22,Pahang,11
+04-08-22,Perak,47
+04-08-22,Perlis,4
+04-08-22,Pulau Pinang,23
+04-08-22,Sabah,18
+04-08-22,Sarawak,15
+04-08-22,Selangor,93
+04-08-22,Terengganu,7
+04-08-22,W.P. Kuala Lumpur,14
+04-08-22,W.P. Labuan,1
+04-08-22,W.P. Putrajaya,7
+05-08-22,Johor,59
+05-08-22,Kedah,23
+05-08-22,Kelantan,7
+05-08-22,Melaka,13
+05-08-22,Negeri Sembilan,21
+05-08-22,Pahang,8
+05-08-22,Perak,40
+05-08-22,Perlis,5
+05-08-22,Pulau Pinang,32
+05-08-22,Sabah,29
+05-08-22,Sarawak,12
+05-08-22,Selangor,77
+05-08-22,Terengganu,9
+05-08-22,W.P. Kuala Lumpur,29
+05-08-22,W.P. Labuan,2
+05-08-22,W.P. Putrajaya,10
+06-08-22,Johor,29
+06-08-22,Kedah,17
+06-08-22,Kelantan,10
+06-08-22,Melaka,17
+06-08-22,Negeri Sembilan,19
+06-08-22,Pahang,9
+06-08-22,Perak,51
+06-08-22,Perlis,2
+06-08-22,Pulau Pinang,20
+06-08-22,Sabah,17
+06-08-22,Sarawak,8
+06-08-22,Selangor,82
+06-08-22,Terengganu,3
+06-08-22,W.P. Kuala Lumpur,27
+06-08-22,W.P. Labuan,2
+06-08-22,W.P. Putrajaya,9
+07-08-22,Johor,46
+07-08-22,Kedah,34
+07-08-22,Kelantan,10
+07-08-22,Melaka,8
+07-08-22,Negeri Sembilan,18
+07-08-22,Pahang,13
+07-08-22,Perak,37
+07-08-22,Perlis,3
+07-08-22,Pulau Pinang,19
+07-08-22,Sabah,20
+07-08-22,Sarawak,11
+07-08-22,Selangor,133
+07-08-22,Terengganu,9
+07-08-22,W.P. Kuala Lumpur,19
+07-08-22,W.P. Labuan,2
+07-08-22,W.P. Putrajaya,4
+08-08-22,Johor,53
+08-08-22,Kedah,33
+08-08-22,Kelantan,16
+08-08-22,Melaka,18
+08-08-22,Negeri Sembilan,11
+08-08-22,Pahang,10
+08-08-22,Perak,25
+08-08-22,Perlis,4
+08-08-22,Pulau Pinang,7
+08-08-22,Sabah,26
+08-08-22,Sarawak,17
+08-08-22,Selangor,74
+08-08-22,Terengganu,11
+08-08-22,W.P. Kuala Lumpur,19
+08-08-22,W.P. Labuan,3
+08-08-22,W.P. Putrajaya,6
+09-08-22,Johor,50
+09-08-22,Kedah,18
+09-08-22,Kelantan,12
+09-08-22,Melaka,13
+09-08-22,Negeri Sembilan,16
+09-08-22,Pahang,17
+09-08-22,Perak,48
+09-08-22,Perlis,3
+09-08-22,Pulau Pinang,18
+09-08-22,Sabah,29
+09-08-22,Sarawak,14
+09-08-22,Selangor,71
+09-08-22,Terengganu,9
+09-08-22,W.P. Kuala Lumpur,41
+09-08-22,W.P. Labuan,1
+09-08-22,W.P. Putrajaya,8
+10-08-22,Johor,55
+10-08-22,Kedah,29
+10-08-22,Kelantan,11
+10-08-22,Melaka,13
+10-08-22,Negeri Sembilan,23
+10-08-22,Pahang,22
+10-08-22,Perak,27
+10-08-22,Perlis,8
+10-08-22,Pulau Pinang,22
+10-08-22,Sabah,24
+10-08-22,Sarawak,13
+10-08-22,Selangor,94
+10-08-22,Terengganu,5
+10-08-22,W.P. Kuala Lumpur,29
+10-08-22,W.P. Labuan,0
+10-08-22,W.P. Putrajaya,10
+11-08-22,Johor,49
+11-08-22,Kedah,30
+11-08-22,Kelantan,13
+11-08-22,Melaka,26
+11-08-22,Negeri Sembilan,20
+11-08-22,Pahang,14
+11-08-22,Perak,56
+11-08-22,Perlis,3
+11-08-22,Pulau Pinang,17
+11-08-22,Sabah,16
+11-08-22,Sarawak,14
+11-08-22,Selangor,82
+11-08-22,Terengganu,16
+11-08-22,W.P. Kuala Lumpur,24
+11-08-22,W.P. Labuan,0
+11-08-22,W.P. Putrajaya,10
+12-08-22,Johor,48
+12-08-22,Kedah,23
+12-08-22,Kelantan,15
+12-08-22,Melaka,10
+12-08-22,Negeri Sembilan,24
+12-08-22,Pahang,14
+12-08-22,Perak,34
+12-08-22,Perlis,0
+12-08-22,Pulau Pinang,17
+12-08-22,Sabah,18
+12-08-22,Sarawak,23
+12-08-22,Selangor,82
+12-08-22,Terengganu,10
+12-08-22,W.P. Kuala Lumpur,32
+12-08-22,W.P. Labuan,0
+12-08-22,W.P. Putrajaya,5
+13-08-22,Johor,51
+13-08-22,Kedah,15
+13-08-22,Kelantan,15
+13-08-22,Melaka,10
+13-08-22,Negeri Sembilan,14
+13-08-22,Pahang,16
+13-08-22,Perak,48
+13-08-22,Perlis,9
+13-08-22,Pulau Pinang,21
+13-08-22,Sabah,15
+13-08-22,Sarawak,14
+13-08-22,Selangor,86
+13-08-22,Terengganu,12
+13-08-22,W.P. Kuala Lumpur,30
+13-08-22,W.P. Labuan,1
+13-08-22,W.P. Putrajaya,8
+14-08-22,Johor,50
+14-08-22,Kedah,20
+14-08-22,Kelantan,13
+14-08-22,Melaka,13
+14-08-22,Negeri Sembilan,20
+14-08-22,Pahang,8
+14-08-22,Perak,34
+14-08-22,Perlis,0
+14-08-22,Pulau Pinang,18
+14-08-22,Sabah,20
+14-08-22,Sarawak,9
+14-08-22,Selangor,80
+14-08-22,Terengganu,10
+14-08-22,W.P. Kuala Lumpur,17
+14-08-22,W.P. Labuan,0
+14-08-22,W.P. Putrajaya,5
+15-08-22,Johor,47
+15-08-22,Kedah,18
+15-08-22,Kelantan,16
+15-08-22,Melaka,8
+15-08-22,Negeri Sembilan,13
+15-08-22,Pahang,13
+15-08-22,Perak,24
+15-08-22,Perlis,4
+15-08-22,Pulau Pinang,13
+15-08-22,Sabah,26
+15-08-22,Sarawak,13
+15-08-22,Selangor,73
+15-08-22,Terengganu,14
+15-08-22,W.P. Kuala Lumpur,12
+15-08-22,W.P. Labuan,0
+15-08-22,W.P. Putrajaya,4
+16-08-22,Johor,43
+16-08-22,Kedah,23
+16-08-22,Kelantan,19
+16-08-22,Melaka,17
+16-08-22,Negeri Sembilan,14
+16-08-22,Pahang,14
+16-08-22,Perak,31
+16-08-22,Perlis,3
+16-08-22,Pulau Pinang,13
+16-08-22,Sabah,27
+16-08-22,Sarawak,16
+16-08-22,Selangor,89
+16-08-22,Terengganu,13
+16-08-22,W.P. Kuala Lumpur,20
+16-08-22,W.P. Labuan,1
+16-08-22,W.P. Putrajaya,11
+17-08-22,Johor,42
+17-08-22,Kedah,18
+17-08-22,Kelantan,17
+17-08-22,Melaka,13
+17-08-22,Negeri Sembilan,19
+17-08-22,Pahang,4
+17-08-22,Perak,38
+17-08-22,Perlis,1
+17-08-22,Pulau Pinang,11
+17-08-22,Sabah,23
+17-08-22,Sarawak,18
+17-08-22,Selangor,85
+17-08-22,Terengganu,13
+17-08-22,W.P. Kuala Lumpur,29
+17-08-22,W.P. Labuan,1
+17-08-22,W.P. Putrajaya,10
+18-08-22,Johor,102
+18-08-22,Kedah,19
+18-08-22,Kelantan,15
+18-08-22,Melaka,11
+18-08-22,Negeri Sembilan,11
+18-08-22,Pahang,15
+18-08-22,Perak,34
+18-08-22,Perlis,0
+18-08-22,Pulau Pinang,17
+18-08-22,Sabah,24
+18-08-22,Sarawak,15
+18-08-22,Selangor,92
+18-08-22,Terengganu,12
+18-08-22,W.P. Kuala Lumpur,26
+18-08-22,W.P. Labuan,0
+18-08-22,W.P. Putrajaya,11
+19-08-22,Johor,41
+19-08-22,Kedah,14
+19-08-22,Kelantan,16
+19-08-22,Melaka,13
+19-08-22,Negeri Sembilan,7
+19-08-22,Pahang,11
+19-08-22,Perak,27
+19-08-22,Perlis,1
+19-08-22,Pulau Pinang,12
+19-08-22,Sabah,21
+19-08-22,Sarawak,18
+19-08-22,Selangor,61
+19-08-22,Terengganu,10
+19-08-22,W.P. Kuala Lumpur,25
+19-08-22,W.P. Labuan,1
+19-08-22,W.P. Putrajaya,10
+20-08-22,Johor,46
+20-08-22,Kedah,16
+20-08-22,Kelantan,9
+20-08-22,Melaka,6
+20-08-22,Negeri Sembilan,11
+20-08-22,Pahang,11
+20-08-22,Perak,27
+20-08-22,Perlis,4
+20-08-22,Pulau Pinang,14
+20-08-22,Sabah,23
+20-08-22,Sarawak,9
+20-08-22,Selangor,61
+20-08-22,Terengganu,8
+20-08-22,W.P. Kuala Lumpur,21
+20-08-22,W.P. Labuan,2
+20-08-22,W.P. Putrajaya,7
+21-08-22,Johor,46
+21-08-22,Kedah,11
+21-08-22,Kelantan,16
+21-08-22,Melaka,13
+21-08-22,Negeri Sembilan,7
+21-08-22,Pahang,16
+21-08-22,Perak,38
+21-08-22,Perlis,4
+21-08-22,Pulau Pinang,11
+21-08-22,Sabah,19
+21-08-22,Sarawak,10
+21-08-22,Selangor,55
+21-08-22,Terengganu,12
+21-08-22,W.P. Kuala Lumpur,15
+21-08-22,W.P. Labuan,1
+21-08-22,W.P. Putrajaya,13
+22-08-22,Johor,39
+22-08-22,Kedah,22
+22-08-22,Kelantan,18
+22-08-22,Melaka,11
+22-08-22,Negeri Sembilan,7
+22-08-22,Pahang,8
+22-08-22,Perak,17
+22-08-22,Perlis,2
+22-08-22,Pulau Pinang,9
+22-08-22,Sabah,17
+22-08-22,Sarawak,11
+22-08-22,Selangor,69
+22-08-22,Terengganu,12
+22-08-22,W.P. Kuala Lumpur,19
+22-08-22,W.P. Labuan,2
+22-08-22,W.P. Putrajaya,9
+23-08-22,Johor,34
+23-08-22,Kedah,10
+23-08-22,Kelantan,11
+23-08-22,Melaka,7
+23-08-22,Negeri Sembilan,20
+23-08-22,Pahang,16
+23-08-22,Perak,46
+23-08-22,Perlis,1
+23-08-22,Pulau Pinang,10
+23-08-22,Sabah,28
+23-08-22,Sarawak,11
+23-08-22,Selangor,55
+23-08-22,Terengganu,15
+23-08-22,W.P. Kuala Lumpur,16
+23-08-22,W.P. Labuan,0
+23-08-22,W.P. Putrajaya,6
+24-08-22,Johor,35
+24-08-22,Kedah,16
+24-08-22,Kelantan,14
+24-08-22,Melaka,15
+24-08-22,Negeri Sembilan,13
+24-08-22,Pahang,6
+24-08-22,Perak,26
+24-08-22,Perlis,3
+24-08-22,Pulau Pinang,12
+24-08-22,Sabah,21
+24-08-22,Sarawak,16
+24-08-22,Selangor,66
+24-08-22,Terengganu,11
+24-08-22,W.P. Kuala Lumpur,24
+24-08-22,W.P. Labuan,0
+24-08-22,W.P. Putrajaya,6
+25-08-22,Johor,38
+25-08-22,Kedah,22
+25-08-22,Kelantan,22
+25-08-22,Melaka,11
+25-08-22,Negeri Sembilan,22
+25-08-22,Pahang,15
+25-08-22,Perak,20
+25-08-22,Perlis,2
+25-08-22,Pulau Pinang,10
+25-08-22,Sabah,18
+25-08-22,Sarawak,15
+25-08-22,Selangor,59
+25-08-22,Terengganu,10
+25-08-22,W.P. Kuala Lumpur,14
+25-08-22,W.P. Labuan,0
+25-08-22,W.P. Putrajaya,6
+26-08-22,Johor,33
+26-08-22,Kedah,22
+26-08-22,Kelantan,19
+26-08-22,Melaka,11
+26-08-22,Negeri Sembilan,10
+26-08-22,Pahang,15
+26-08-22,Perak,48
+26-08-22,Perlis,5
+26-08-22,Pulau Pinang,18
+26-08-22,Sabah,27
+26-08-22,Sarawak,19
+26-08-22,Selangor,47
+26-08-22,Terengganu,8
+26-08-22,W.P. Kuala Lumpur,14
+26-08-22,W.P. Labuan,0
+26-08-22,W.P. Putrajaya,4
+27-08-22,Johor,30
+27-08-22,Kedah,18
+27-08-22,Kelantan,13
+27-08-22,Melaka,3
+27-08-22,Negeri Sembilan,16
+27-08-22,Pahang,9
+27-08-22,Perak,34
+27-08-22,Perlis,5
+27-08-22,Pulau Pinang,10
+27-08-22,Sabah,23
+27-08-22,Sarawak,7
+27-08-22,Selangor,62
+27-08-22,Terengganu,9
+27-08-22,W.P. Kuala Lumpur,14
+27-08-22,W.P. Labuan,0
+27-08-22,W.P. Putrajaya,7
+28-08-22,Johor,35
+28-08-22,Kedah,22
+28-08-22,Kelantan,17
+28-08-22,Melaka,7
+28-08-22,Negeri Sembilan,6
+28-08-22,Pahang,6
+28-08-22,Perak,24
+28-08-22,Perlis,6
+28-08-22,Pulau Pinang,10
+28-08-22,Sabah,10
+28-08-22,Sarawak,27
+28-08-22,Selangor,50
+28-08-22,Terengganu,9
+28-08-22,W.P. Kuala Lumpur,11
+28-08-22,W.P. Labuan,0
+28-08-22,W.P. Putrajaya,7
+29-08-22,Johor,32
+29-08-22,Kedah,18
+29-08-22,Kelantan,21
+29-08-22,Melaka,17
+29-08-22,Negeri Sembilan,11
+29-08-22,Pahang,10
+29-08-22,Perak,23
+29-08-22,Perlis,3
+29-08-22,Pulau Pinang,13
+29-08-22,Sabah,16
+29-08-22,Sarawak,10
+29-08-22,Selangor,68
+29-08-22,Terengganu,9
+29-08-22,W.P. Kuala Lumpur,17
+29-08-22,W.P. Labuan,1
+29-08-22,W.P. Putrajaya,6
+30-08-22,Johor,35
+30-08-22,Kedah,18
+30-08-22,Kelantan,22
+30-08-22,Melaka,10
+30-08-22,Negeri Sembilan,14
+30-08-22,Pahang,11
+30-08-22,Perak,40
+30-08-22,Perlis,4
+30-08-22,Pulau Pinang,18
+30-08-22,Sabah,22
+30-08-22,Sarawak,14
+30-08-22,Selangor,51
+30-08-22,Terengganu,11
+30-08-22,W.P. Kuala Lumpur,19
+30-08-22,W.P. Labuan,1
+30-08-22,W.P. Putrajaya,4
+31-08-22,Johor,22
+31-08-22,Kedah,14
+31-08-22,Kelantan,15
+31-08-22,Melaka,11
+31-08-22,Negeri Sembilan,14
+31-08-22,Pahang,7
+31-08-22,Perak,46
+31-08-22,Perlis,4
+31-08-22,Pulau Pinang,16
+31-08-22,Sabah,23
+31-08-22,Sarawak,15
+31-08-22,Selangor,54
+31-08-22,Terengganu,6
+31-08-22,W.P. Kuala Lumpur,15
+31-08-22,W.P. Labuan,0
+31-08-22,W.P. Putrajaya,4
+01-09-22,Johor,32
+01-09-22,Kedah,11
+01-09-22,Kelantan,10
+01-09-22,Melaka,15
+01-09-22,Negeri Sembilan,11
+01-09-22,Pahang,10
+01-09-22,Perak,24
+01-09-22,Perlis,8
+01-09-22,Pulau Pinang,11
+01-09-22,Sabah,17
+01-09-22,Sarawak,8
+01-09-22,Selangor,54
+01-09-22,Terengganu,9
+01-09-22,W.P. Kuala Lumpur,8
+01-09-22,W.P. Labuan,0
+01-09-22,W.P. Putrajaya,6
+02-09-22,Johor,38
+02-09-22,Kedah,21
+02-09-22,Kelantan,17
+02-09-22,Melaka,10
+02-09-22,Negeri Sembilan,13
+02-09-22,Pahang,13
+02-09-22,Perak,21
+02-09-22,Perlis,4
+02-09-22,Pulau Pinang,11
+02-09-22,Sabah,19
+02-09-22,Sarawak,14
+02-09-22,Selangor,44
+02-09-22,Terengganu,9
+02-09-22,W.P. Kuala Lumpur,12
+02-09-22,W.P. Labuan,0
+02-09-22,W.P. Putrajaya,4
+03-09-22,Johor,29
+03-09-22,Kedah,14
+03-09-22,Kelantan,7
+03-09-22,Melaka,10
+03-09-22,Negeri Sembilan,11
+03-09-22,Pahang,4
+03-09-22,Perak,26
+03-09-22,Perlis,2
+03-09-22,Pulau Pinang,13
+03-09-22,Sabah,23
+03-09-22,Sarawak,17
+03-09-22,Selangor,55
+03-09-22,Terengganu,7
+03-09-22,W.P. Kuala Lumpur,27
+03-09-22,W.P. Labuan,1
+03-09-22,W.P. Putrajaya,8
+04-09-22,Johor,29
+04-09-22,Kedah,13
+04-09-22,Kelantan,12
+04-09-22,Melaka,9
+04-09-22,Negeri Sembilan,12
+04-09-22,Pahang,6
+04-09-22,Perak,22
+04-09-22,Perlis,3
+04-09-22,Pulau Pinang,11
+04-09-22,Sabah,20
+04-09-22,Sarawak,12
+04-09-22,Selangor,44
+04-09-22,Terengganu,9
+04-09-22,W.P. Kuala Lumpur,16
+04-09-22,W.P. Labuan,0
+04-09-22,W.P. Putrajaya,6
+05-09-22,Johor,25
+05-09-22,Kedah,11
+05-09-22,Kelantan,12
+05-09-22,Melaka,9
+05-09-22,Negeri Sembilan,12
+05-09-22,Pahang,14
+05-09-22,Perak,26
+05-09-22,Perlis,3
+05-09-22,Pulau Pinang,11
+05-09-22,Sabah,23
+05-09-22,Sarawak,16
+05-09-22,Selangor,42
+05-09-22,Terengganu,10
+05-09-22,W.P. Kuala Lumpur,17
+05-09-22,W.P. Labuan,0
+05-09-22,W.P. Putrajaya,7
+06-09-22,Johor,36
+06-09-22,Kedah,22
+06-09-22,Kelantan,12
+06-09-22,Melaka,9
+06-09-22,Negeri Sembilan,16
+06-09-22,Pahang,11
+06-09-22,Perak,28
+06-09-22,Perlis,4
+06-09-22,Pulau Pinang,13
+06-09-22,Sabah,25
+06-09-22,Sarawak,16
+06-09-22,Selangor,47
+06-09-22,Terengganu,8
+06-09-22,W.P. Kuala Lumpur,16
+06-09-22,W.P. Labuan,0
+06-09-22,W.P. Putrajaya,8
+07-09-22,Johor,44
+07-09-22,Kedah,24
+07-09-22,Kelantan,10
+07-09-22,Melaka,6
+07-09-22,Negeri Sembilan,24
+07-09-22,Pahang,9
+07-09-22,Perak,34
+07-09-22,Perlis,3
+07-09-22,Pulau Pinang,19
+07-09-22,Sabah,25
+07-09-22,Sarawak,17
+07-09-22,Selangor,49
+07-09-22,Terengganu,7
+07-09-22,W.P. Kuala Lumpur,21
+07-09-22,W.P. Labuan,1
+07-09-22,W.P. Putrajaya,9
+08-09-22,Johor,32
+08-09-22,Kedah,28
+08-09-22,Kelantan,9
+08-09-22,Melaka,13
+08-09-22,Negeri Sembilan,22
+08-09-22,Pahang,15
+08-09-22,Perak,17
+08-09-22,Perlis,2
+08-09-22,Pulau Pinang,13
+08-09-22,Sabah,22
+08-09-22,Sarawak,13
+08-09-22,Selangor,48
+08-09-22,Terengganu,6
+08-09-22,W.P. Kuala Lumpur,15
+08-09-22,W.P. Labuan,1
+08-09-22,W.P. Putrajaya,11
+09-09-22,Johor,36
+09-09-22,Kedah,19
+09-09-22,Kelantan,15
+09-09-22,Melaka,20
+09-09-22,Negeri Sembilan,14
+09-09-22,Pahang,9
+09-09-22,Perak,31
+09-09-22,Perlis,5
+09-09-22,Pulau Pinang,7
+09-09-22,Sabah,20
+09-09-22,Sarawak,9
+09-09-22,Selangor,58
+09-09-22,Terengganu,13
+09-09-22,W.P. Kuala Lumpur,13
+09-09-22,W.P. Labuan,1
+09-09-22,W.P. Putrajaya,9
+10-09-22,Johor,33
+10-09-22,Kedah,23
+10-09-22,Kelantan,14
+10-09-22,Melaka,7
+10-09-22,Negeri Sembilan,11
+10-09-22,Pahang,10
+10-09-22,Perak,33
+10-09-22,Perlis,5
+10-09-22,Pulau Pinang,14
+10-09-22,Sabah,24
+10-09-22,Sarawak,19
+10-09-22,Selangor,43
+10-09-22,Terengganu,9
+10-09-22,W.P. Kuala Lumpur,10
+10-09-22,W.P. Labuan,0
+10-09-22,W.P. Putrajaya,9
+11-09-22,Johor,37
+11-09-22,Kedah,13
+11-09-22,Kelantan,15
+11-09-22,Melaka,5
+11-09-22,Negeri Sembilan,8
+11-09-22,Pahang,11
+11-09-22,Perak,31
+11-09-22,Perlis,3
+11-09-22,Pulau Pinang,8
+11-09-22,Sabah,16
+11-09-22,Sarawak,12
+11-09-22,Selangor,43
+11-09-22,Terengganu,7
+11-09-22,W.P. Kuala Lumpur,10
+11-09-22,W.P. Labuan,0
+11-09-22,W.P. Putrajaya,4
+12-09-22,Johor,27
+12-09-22,Kedah,26
+12-09-22,Kelantan,17
+12-09-22,Melaka,9
+12-09-22,Negeri Sembilan,8
+12-09-22,Pahang,10
+12-09-22,Perak,22
+12-09-22,Perlis,1
+12-09-22,Pulau Pinang,12
+12-09-22,Sabah,27
+12-09-22,Sarawak,21
+12-09-22,Selangor,36
+12-09-22,Terengganu,9
+12-09-22,W.P. Kuala Lumpur,11
+12-09-22,W.P. Labuan,0
+12-09-22,W.P. Putrajaya,5
+13-09-22,Johor,33
+13-09-22,Kedah,17
+13-09-22,Kelantan,10
+13-09-22,Melaka,15
+13-09-22,Negeri Sembilan,6
+13-09-22,Pahang,8
+13-09-22,Perak,29
+13-09-22,Perlis,4
+13-09-22,Pulau Pinang,22
+13-09-22,Sabah,27
+13-09-22,Sarawak,17
+13-09-22,Selangor,55
+13-09-22,Terengganu,8
+13-09-22,W.P. Kuala Lumpur,10
+13-09-22,W.P. Labuan,2
+13-09-22,W.P. Putrajaya,12
+14-09-22,Johor,19
+14-09-22,Kedah,24
+14-09-22,Kelantan,20
+14-09-22,Melaka,11
+14-09-22,Negeri Sembilan,10
+14-09-22,Pahang,14
+14-09-22,Perak,41
+14-09-22,Perlis,5
+14-09-22,Pulau Pinang,9
+14-09-22,Sabah,23
+14-09-22,Sarawak,10
+14-09-22,Selangor,54
+14-09-22,Terengganu,7
+14-09-22,W.P. Kuala Lumpur,13
+14-09-22,W.P. Labuan,0
+14-09-22,W.P. Putrajaya,10
+15-09-22,Johor,36
+15-09-22,Kedah,16
+15-09-22,Kelantan,21
+15-09-22,Melaka,7
+15-09-22,Negeri Sembilan,9
+15-09-22,Pahang,15
+15-09-22,Perak,30
+15-09-22,Perlis,6
+15-09-22,Pulau Pinang,22
+15-09-22,Sabah,21
+15-09-22,Sarawak,12
+15-09-22,Selangor,51
+15-09-22,Terengganu,2
+15-09-22,W.P. Kuala Lumpur,15
+15-09-22,W.P. Labuan,0
+15-09-22,W.P. Putrajaya,9
+16-09-22,Johor,30
+16-09-22,Kedah,14
+16-09-22,Kelantan,19
+16-09-22,Melaka,13
+16-09-22,Negeri Sembilan,15
+16-09-22,Pahang,10
+16-09-22,Perak,29
+16-09-22,Perlis,1
+16-09-22,Pulau Pinang,13
+16-09-22,Sabah,22
+16-09-22,Sarawak,20
+16-09-22,Selangor,41
+16-09-22,Terengganu,7
+16-09-22,W.P. Kuala Lumpur,15
+16-09-22,W.P. Labuan,1
+16-09-22,W.P. Putrajaya,8
+17-09-22,Johor,23
+17-09-22,Kedah,13
+17-09-22,Kelantan,9
+17-09-22,Melaka,12
+17-09-22,Negeri Sembilan,4
+17-09-22,Pahang,6
+17-09-22,Perak,20
+17-09-22,Perlis,2
+17-09-22,Pulau Pinang,12
+17-09-22,Sabah,25
+17-09-22,Sarawak,13
+17-09-22,Selangor,46
+17-09-22,Terengganu,4
+17-09-22,W.P. Kuala Lumpur,8
+17-09-22,W.P. Labuan,0
+17-09-22,W.P. Putrajaya,7
+18-09-22,Johor,16
+18-09-22,Kedah,13
+18-09-22,Kelantan,16
+18-09-22,Melaka,3
+18-09-22,Negeri Sembilan,5
+18-09-22,Pahang,9
+18-09-22,Perak,20
+18-09-22,Perlis,2
+18-09-22,Pulau Pinang,12
+18-09-22,Sabah,26
+18-09-22,Sarawak,9
+18-09-22,Selangor,33
+18-09-22,Terengganu,7
+18-09-22,W.P. Kuala Lumpur,9
+18-09-22,W.P. Labuan,0
+18-09-22,W.P. Putrajaya,9
+19-09-22,Johor,12
+19-09-22,Kedah,12
+19-09-22,Kelantan,10
+19-09-22,Melaka,6
+19-09-22,Negeri Sembilan,5
+19-09-22,Pahang,9
+19-09-22,Perak,29
+19-09-22,Perlis,3
+19-09-22,Pulau Pinang,13
+19-09-22,Sabah,16
+19-09-22,Sarawak,7
+19-09-22,Selangor,37
+19-09-22,Terengganu,13
+19-09-22,W.P. Kuala Lumpur,16
+19-09-22,W.P. Labuan,0
+19-09-22,W.P. Putrajaya,3
+20-09-22,Johor,26
+20-09-22,Kedah,26
+20-09-22,Kelantan,18
+20-09-22,Melaka,10
+20-09-22,Negeri Sembilan,4
+20-09-22,Pahang,8
+20-09-22,Perak,32
+20-09-22,Perlis,3
+20-09-22,Pulau Pinang,12
+20-09-22,Sabah,27
+20-09-22,Sarawak,12
+20-09-22,Selangor,41
+20-09-22,Terengganu,12
+20-09-22,W.P. Kuala Lumpur,12
+20-09-22,W.P. Labuan,0
+20-09-22,W.P. Putrajaya,7
+21-09-22,Johor,28
+21-09-22,Kedah,20
+21-09-22,Kelantan,10
+21-09-22,Melaka,14
+21-09-22,Negeri Sembilan,8
+21-09-22,Pahang,11
+21-09-22,Perak,34
+21-09-22,Perlis,2
+21-09-22,Pulau Pinang,19
+21-09-22,Sabah,25
+21-09-22,Sarawak,10
+21-09-22,Selangor,48
+21-09-22,Terengganu,6
+21-09-22,W.P. Kuala Lumpur,12
+21-09-22,W.P. Labuan,0
+21-09-22,W.P. Putrajaya,6
+22-09-22,Johor,34
+22-09-22,Kedah,16
+22-09-22,Kelantan,9
+22-09-22,Melaka,12
+22-09-22,Negeri Sembilan,7
+22-09-22,Pahang,11
+22-09-22,Perak,31
+22-09-22,Perlis,1
+22-09-22,Pulau Pinang,12
+22-09-22,Sabah,16
+22-09-22,Sarawak,16
+22-09-22,Selangor,44
+22-09-22,Terengganu,8
+22-09-22,W.P. Kuala Lumpur,21
+22-09-22,W.P. Labuan,0
+22-09-22,W.P. Putrajaya,3
+23-09-22,Johor,24
+23-09-22,Kedah,17
+23-09-22,Kelantan,12
+23-09-22,Melaka,16
+23-09-22,Negeri Sembilan,9
+23-09-22,Pahang,9
+23-09-22,Perak,22
+23-09-22,Perlis,4
+23-09-22,Pulau Pinang,11
+23-09-22,Sabah,12
+23-09-22,Sarawak,17
+23-09-22,Selangor,51
+23-09-22,Terengganu,8
+23-09-22,W.P. Kuala Lumpur,15
+23-09-22,W.P. Labuan,0
+23-09-22,W.P. Putrajaya,4
+24-09-22,Johor,26
+24-09-22,Kedah,11
+24-09-22,Kelantan,2
+24-09-22,Melaka,4
+24-09-22,Negeri Sembilan,11
+24-09-22,Pahang,7
+24-09-22,Perak,30
+24-09-22,Perlis,3
+24-09-22,Pulau Pinang,12
+24-09-22,Sabah,16
+24-09-22,Sarawak,21
+24-09-22,Selangor,52
+24-09-22,Terengganu,9
+24-09-22,W.P. Kuala Lumpur,7
+24-09-22,W.P. Labuan,0
+24-09-22,W.P. Putrajaya,7
+25-09-22,Johor,21
+25-09-22,Kedah,18
+25-09-22,Kelantan,11
+25-09-22,Melaka,5
+25-09-22,Negeri Sembilan,1
+25-09-22,Pahang,4
+25-09-22,Perak,28
+25-09-22,Perlis,4
+25-09-22,Pulau Pinang,5
+25-09-22,Sabah,17
+25-09-22,Sarawak,13
+25-09-22,Selangor,39
+25-09-22,Terengganu,7
+25-09-22,W.P. Kuala Lumpur,17
+25-09-22,W.P. Labuan,0
+25-09-22,W.P. Putrajaya,6
+26-09-22,Johor,23
+26-09-22,Kedah,18
+26-09-22,Kelantan,11
+26-09-22,Melaka,3
+26-09-22,Negeri Sembilan,4
+26-09-22,Pahang,5
+26-09-22,Perak,19
+26-09-22,Perlis,1
+26-09-22,Pulau Pinang,8
+26-09-22,Sabah,27
+26-09-22,Sarawak,7
+26-09-22,Selangor,34
+26-09-22,Terengganu,15
+26-09-22,W.P. Kuala Lumpur,10
+26-09-22,W.P. Labuan,0
+26-09-22,W.P. Putrajaya,3
+27-09-22,Johor,31
+27-09-22,Kedah,12
+27-09-22,Kelantan,10
+27-09-22,Melaka,7
+27-09-22,Negeri Sembilan,12
+27-09-22,Pahang,8
+27-09-22,Perak,25
+27-09-22,Perlis,3
+27-09-22,Pulau Pinang,12
+27-09-22,Sabah,22
+27-09-22,Sarawak,10
+27-09-22,Selangor,46
+27-09-22,Terengganu,2
+27-09-22,W.P. Kuala Lumpur,20
+27-09-22,W.P. Labuan,0
+27-09-22,W.P. Putrajaya,2
+28-09-22,Johor,27
+28-09-22,Kedah,22
+28-09-22,Kelantan,16
+28-09-22,Melaka,8
+28-09-22,Negeri Sembilan,9
+28-09-22,Pahang,9
+28-09-22,Perak,28
+28-09-22,Perlis,2
+28-09-22,Pulau Pinang,4
+28-09-22,Sabah,18
+28-09-22,Sarawak,18
+28-09-22,Selangor,48
+28-09-22,Terengganu,3
+28-09-22,W.P. Kuala Lumpur,10
+28-09-22,W.P. Labuan,0
+28-09-22,W.P. Putrajaya,4
+29-09-22,Johor,22
+29-09-22,Kedah,19
+29-09-22,Kelantan,14
+29-09-22,Melaka,2
+29-09-22,Negeri Sembilan,7
+29-09-22,Pahang,6
+29-09-22,Perak,28
+29-09-22,Perlis,3
+29-09-22,Pulau Pinang,14
+29-09-22,Sabah,16
+29-09-22,Sarawak,17
+29-09-22,Selangor,42
+29-09-22,Terengganu,4
+29-09-22,W.P. Kuala Lumpur,8
+29-09-22,W.P. Labuan,0
+29-09-22,W.P. Putrajaya,3
+30-09-22,Johor,25
+30-09-22,Kedah,14
+30-09-22,Kelantan,13
+30-09-22,Melaka,3
+30-09-22,Negeri Sembilan,4
+30-09-22,Pahang,8
+30-09-22,Perak,30
+30-09-22,Perlis,4
+30-09-22,Pulau Pinang,8
+30-09-22,Sabah,9
+30-09-22,Sarawak,12
+30-09-22,Selangor,46
+30-09-22,Terengganu,4
+30-09-22,W.P. Kuala Lumpur,10
+30-09-22,W.P. Labuan,0
+30-09-22,W.P. Putrajaya,3
+01-10-22,Johor,23
+01-10-22,Kedah,17
+01-10-22,Kelantan,8
+01-10-22,Melaka,5
+01-10-22,Negeri Sembilan,3
+01-10-22,Pahang,7
+01-10-22,Perak,17
+01-10-22,Perlis,2
+01-10-22,Pulau Pinang,11
+01-10-22,Sabah,16
+01-10-22,Sarawak,11
+01-10-22,Selangor,42
+01-10-22,Terengganu,4
+01-10-22,W.P. Kuala Lumpur,12
+01-10-22,W.P. Labuan,0
+01-10-22,W.P. Putrajaya,4
+02-10-22,Johor,14
+02-10-22,Kedah,9
+02-10-22,Kelantan,8
+02-10-22,Melaka,4
+02-10-22,Negeri Sembilan,2
+02-10-22,Pahang,5
+02-10-22,Perak,23
+02-10-22,Perlis,2
+02-10-22,Pulau Pinang,10
+02-10-22,Sabah,13
+02-10-22,Sarawak,9
+02-10-22,Selangor,42
+02-10-22,Terengganu,0
+02-10-22,W.P. Kuala Lumpur,11
+02-10-22,W.P. Labuan,1
+02-10-22,W.P. Putrajaya,2
+03-10-22,Johor,14
+03-10-22,Kedah,18
+03-10-22,Kelantan,12
+03-10-22,Melaka,5
+03-10-22,Negeri Sembilan,2
+03-10-22,Pahang,4
+03-10-22,Perak,20
+03-10-22,Perlis,3
+03-10-22,Pulau Pinang,7
+03-10-22,Sabah,11
+03-10-22,Sarawak,11
+03-10-22,Selangor,36
+03-10-22,Terengganu,2
+03-10-22,W.P. Kuala Lumpur,17
+03-10-22,W.P. Labuan,1
+03-10-22,W.P. Putrajaya,2
+04-10-22,Johor,19
+04-10-22,Kedah,11
+04-10-22,Kelantan,6
+04-10-22,Melaka,5
+04-10-22,Negeri Sembilan,5
+04-10-22,Pahang,10
+04-10-22,Perak,22
+04-10-22,Perlis,2
+04-10-22,Pulau Pinang,9
+04-10-22,Sabah,23
+04-10-22,Sarawak,14
+04-10-22,Selangor,59
+04-10-22,Terengganu,4
+04-10-22,W.P. Kuala Lumpur,8
+04-10-22,W.P. Labuan,1
+04-10-22,W.P. Putrajaya,2
+05-10-22,Johor,14
+05-10-22,Kedah,19
+05-10-22,Kelantan,8
+05-10-22,Melaka,8
+05-10-22,Negeri Sembilan,5
+05-10-22,Pahang,7
+05-10-22,Perak,15
+05-10-22,Perlis,7
+05-10-22,Pulau Pinang,17
+05-10-22,Sabah,14
+05-10-22,Sarawak,17
+05-10-22,Selangor,60
+05-10-22,Terengganu,8
+05-10-22,W.P. Kuala Lumpur,13
+05-10-22,W.P. Labuan,0
+05-10-22,W.P. Putrajaya,2
+06-10-22,Johor,26
+06-10-22,Kedah,16
+06-10-22,Kelantan,11
+06-10-22,Melaka,10
+06-10-22,Negeri Sembilan,5
+06-10-22,Pahang,5
+06-10-22,Perak,21
+06-10-22,Perlis,4
+06-10-22,Pulau Pinang,14
+06-10-22,Sabah,14
+06-10-22,Sarawak,7
+06-10-22,Selangor,48
+06-10-22,Terengganu,5
+06-10-22,W.P. Kuala Lumpur,18
+06-10-22,W.P. Labuan,0
+06-10-22,W.P. Putrajaya,3
+07-10-22,Johor,24
+07-10-22,Kedah,10
+07-10-22,Kelantan,10
+07-10-22,Melaka,6
+07-10-22,Negeri Sembilan,9
+07-10-22,Pahang,5
+07-10-22,Perak,24
+07-10-22,Perlis,2
+07-10-22,Pulau Pinang,16
+07-10-22,Sabah,19
+07-10-22,Sarawak,9
+07-10-22,Selangor,51
+07-10-22,Terengganu,3
+07-10-22,W.P. Kuala Lumpur,8
+07-10-22,W.P. Labuan,1
+07-10-22,W.P. Putrajaya,0
+08-10-22,Johor,17
+08-10-22,Kedah,21
+08-10-22,Kelantan,5
+08-10-22,Melaka,7
+08-10-22,Negeri Sembilan,2
+08-10-22,Pahang,3
+08-10-22,Perak,22
+08-10-22,Perlis,3
+08-10-22,Pulau Pinang,6
+08-10-22,Sabah,21
+08-10-22,Sarawak,14
+08-10-22,Selangor,49
+08-10-22,Terengganu,3
+08-10-22,W.P. Kuala Lumpur,10
+08-10-22,W.P. Labuan,0
+08-10-22,W.P. Putrajaya,4
+09-10-22,Johor,17
+09-10-22,Kedah,13
+09-10-22,Kelantan,9
+09-10-22,Melaka,3
+09-10-22,Negeri Sembilan,3
+09-10-22,Pahang,8
+09-10-22,Perak,16
+09-10-22,Perlis,0
+09-10-22,Pulau Pinang,3
+09-10-22,Sabah,9
+09-10-22,Sarawak,7
+09-10-22,Selangor,47
+09-10-22,Terengganu,4
+09-10-22,W.P. Kuala Lumpur,13
+09-10-22,W.P. Labuan,0
+09-10-22,W.P. Putrajaya,1
+10-10-22,Johor,31
+10-10-22,Kedah,12
+10-10-22,Kelantan,6
+10-10-22,Melaka,3
+10-10-22,Negeri Sembilan,6
+10-10-22,Pahang,7
+10-10-22,Perak,22
+10-10-22,Perlis,1
+10-10-22,Pulau Pinang,6
+10-10-22,Sabah,9
+10-10-22,Sarawak,9
+10-10-22,Selangor,42
+10-10-22,Terengganu,5
+10-10-22,W.P. Kuala Lumpur,6
+10-10-22,W.P. Labuan,0
+10-10-22,W.P. Putrajaya,1
+11-10-22,Johor,38
+11-10-22,Kedah,19
+11-10-22,Kelantan,7
+11-10-22,Melaka,3
+11-10-22,Negeri Sembilan,0
+11-10-22,Pahang,11
+11-10-22,Perak,18
+11-10-22,Perlis,1
+11-10-22,Pulau Pinang,4
+11-10-22,Sabah,14
+11-10-22,Sarawak,11
+11-10-22,Selangor,27
+11-10-22,Terengganu,7
+11-10-22,W.P. Kuala Lumpur,16
+11-10-22,W.P. Labuan,0
+11-10-22,W.P. Putrajaya,6
+12-10-22,Johor,33
+12-10-22,Kedah,17
+12-10-22,Kelantan,8
+12-10-22,Melaka,4
+12-10-22,Negeri Sembilan,3
+12-10-22,Pahang,12
+12-10-22,Perak,26
+12-10-22,Perlis,4
+12-10-22,Pulau Pinang,16
+12-10-22,Sabah,9
+12-10-22,Sarawak,9
+12-10-22,Selangor,61
+12-10-22,Terengganu,6
+12-10-22,W.P. Kuala Lumpur,15
+12-10-22,W.P. Labuan,0
+12-10-22,W.P. Putrajaya,5
+13-10-22,Johor,33
+13-10-22,Kedah,19
+13-10-22,Kelantan,5
+13-10-22,Melaka,11
+13-10-22,Negeri Sembilan,3
+13-10-22,Pahang,14
+13-10-22,Perak,25
+13-10-22,Perlis,3
+13-10-22,Pulau Pinang,9
+13-10-22,Sabah,16
+13-10-22,Sarawak,10
+13-10-22,Selangor,48
+13-10-22,Terengganu,5
+13-10-22,W.P. Kuala Lumpur,10
+13-10-22,W.P. Labuan,0
+13-10-22,W.P. Putrajaya,6
+14-10-22,Johor,35
+14-10-22,Kedah,14
+14-10-22,Kelantan,12
+14-10-22,Melaka,12
+14-10-22,Negeri Sembilan,6
+14-10-22,Pahang,7
+14-10-22,Perak,28
+14-10-22,Perlis,1
+14-10-22,Pulau Pinang,15
+14-10-22,Sabah,19
+14-10-22,Sarawak,10
+14-10-22,Selangor,56
+14-10-22,Terengganu,7
+14-10-22,W.P. Kuala Lumpur,13
+14-10-22,W.P. Labuan,1
+14-10-22,W.P. Putrajaya,3
+15-10-22,Johor,26
+15-10-22,Kedah,14
+15-10-22,Kelantan,2
+15-10-22,Melaka,5
+15-10-22,Negeri Sembilan,10
+15-10-22,Pahang,5
+15-10-22,Perak,14
+15-10-22,Perlis,3
+15-10-22,Pulau Pinang,6
+15-10-22,Sabah,24
+15-10-22,Sarawak,15
+15-10-22,Selangor,52
+15-10-22,Terengganu,0
+15-10-22,W.P. Kuala Lumpur,19
+15-10-22,W.P. Labuan,0
+15-10-22,W.P. Putrajaya,3
+16-10-22,Johor,29
+16-10-22,Kedah,15
+16-10-22,Kelantan,22
+16-10-22,Melaka,7
+16-10-22,Negeri Sembilan,4
+16-10-22,Pahang,10
+16-10-22,Perak,23
+16-10-22,Perlis,1
+16-10-22,Pulau Pinang,15
+16-10-22,Sabah,26
+16-10-22,Sarawak,6
+16-10-22,Selangor,36
+16-10-22,Terengganu,7
+16-10-22,W.P. Kuala Lumpur,13
+16-10-22,W.P. Labuan,0
+16-10-22,W.P. Putrajaya,2
+17-10-22,Johor,26
+17-10-22,Kedah,9
+17-10-22,Kelantan,9
+17-10-22,Melaka,7
+17-10-22,Negeri Sembilan,5
+17-10-22,Pahang,8
+17-10-22,Perak,22
+17-10-22,Perlis,4
+17-10-22,Pulau Pinang,7
+17-10-22,Sabah,12
+17-10-22,Sarawak,8
+17-10-22,Selangor,48
+17-10-22,Terengganu,7
+17-10-22,W.P. Kuala Lumpur,12
+17-10-22,W.P. Labuan,0
+17-10-22,W.P. Putrajaya,6
+18-10-22,Johor,23
+18-10-22,Kedah,22
+18-10-22,Kelantan,13
+18-10-22,Melaka,6
+18-10-22,Negeri Sembilan,7
+18-10-22,Pahang,13
+18-10-22,Perak,30
+18-10-22,Perlis,3
+18-10-22,Pulau Pinang,11
+18-10-22,Sabah,14
+18-10-22,Sarawak,7
+18-10-22,Selangor,53
+18-10-22,Terengganu,5
+18-10-22,W.P. Kuala Lumpur,18
+18-10-22,W.P. Labuan,0
+18-10-22,W.P. Putrajaya,4
+19-10-22,Johor,34
+19-10-22,Kedah,14
+19-10-22,Kelantan,12
+19-10-22,Melaka,8
+19-10-22,Negeri Sembilan,8
+19-10-22,Pahang,13
+19-10-22,Perak,28
+19-10-22,Perlis,1
+19-10-22,Pulau Pinang,17
+19-10-22,Sabah,16
+19-10-22,Sarawak,6
+19-10-22,Selangor,63
+19-10-22,Terengganu,12
+19-10-22,W.P. Kuala Lumpur,20
+19-10-22,W.P. Labuan,0
+19-10-22,W.P. Putrajaya,7
+20-10-22,Johor,31
+20-10-22,Kedah,25
+20-10-22,Kelantan,13
+20-10-22,Melaka,7
+20-10-22,Negeri Sembilan,17
+20-10-22,Pahang,9
+20-10-22,Perak,27
+20-10-22,Perlis,4
+20-10-22,Pulau Pinang,17
+20-10-22,Sabah,15
+20-10-22,Sarawak,4
+20-10-22,Selangor,67
+20-10-22,Terengganu,3
+20-10-22,W.P. Kuala Lumpur,8
+20-10-22,W.P. Labuan,0
+20-10-22,W.P. Putrajaya,6
+21-10-22,Johor,44
+21-10-22,Kedah,22
+21-10-22,Kelantan,16
+21-10-22,Melaka,9
+21-10-22,Negeri Sembilan,8
+21-10-22,Pahang,5
+21-10-22,Perak,23
+21-10-22,Perlis,3
+21-10-22,Pulau Pinang,13
+21-10-22,Sabah,23
+21-10-22,Sarawak,7
+21-10-22,Selangor,54
+21-10-22,Terengganu,4
+21-10-22,W.P. Kuala Lumpur,10
+21-10-22,W.P. Labuan,0
+21-10-22,W.P. Putrajaya,4
+22-10-22,Johor,30
+22-10-22,Kedah,10
+22-10-22,Kelantan,10
+22-10-22,Melaka,10
+22-10-22,Negeri Sembilan,13
+22-10-22,Pahang,2
+22-10-22,Perak,18
+22-10-22,Perlis,2
+22-10-22,Pulau Pinang,14
+22-10-22,Sabah,13
+22-10-22,Sarawak,15
+22-10-22,Selangor,59
+22-10-22,Terengganu,3
+22-10-22,W.P. Kuala Lumpur,18
+22-10-22,W.P. Labuan,0
+22-10-22,W.P. Putrajaya,2
+23-10-22,Johor,21
+23-10-22,Kedah,19
+23-10-22,Kelantan,8
+23-10-22,Melaka,4
+23-10-22,Negeri Sembilan,5
+23-10-22,Pahang,7
+23-10-22,Perak,20
+23-10-22,Perlis,7
+23-10-22,Pulau Pinang,14
+23-10-22,Sabah,9
+23-10-22,Sarawak,7
+23-10-22,Selangor,70
+23-10-22,Terengganu,5
+23-10-22,W.P. Kuala Lumpur,11
+23-10-22,W.P. Labuan,0
+23-10-22,W.P. Putrajaya,2
+24-10-22,Johor,29
+24-10-22,Kedah,23
+24-10-22,Kelantan,11
+24-10-22,Melaka,4
+24-10-22,Negeri Sembilan,6
+24-10-22,Pahang,6
+24-10-22,Perak,13
+24-10-22,Perlis,3
+24-10-22,Pulau Pinang,10
+24-10-22,Sabah,13
+24-10-22,Sarawak,8
+24-10-22,Selangor,64
+24-10-22,Terengganu,2
+24-10-22,W.P. Kuala Lumpur,17
+24-10-22,W.P. Labuan,0
+24-10-22,W.P. Putrajaya,5
+25-10-22,Johor,44
+25-10-22,Kedah,14
+25-10-22,Kelantan,11
+25-10-22,Melaka,9
+25-10-22,Negeri Sembilan,16
+25-10-22,Pahang,10
+25-10-22,Perak,23
+25-10-22,Perlis,4
+25-10-22,Pulau Pinang,8
+25-10-22,Sabah,19
+25-10-22,Sarawak,11
+25-10-22,Selangor,76
+25-10-22,Terengganu,8
+25-10-22,W.P. Kuala Lumpur,22
+25-10-22,W.P. Labuan,0
+25-10-22,W.P. Putrajaya,5
+26-10-22,Johor,38
+26-10-22,Kedah,20
+26-10-22,Kelantan,21
+26-10-22,Melaka,5
+26-10-22,Negeri Sembilan,11
+26-10-22,Pahang,9
+26-10-22,Perak,27
+26-10-22,Perlis,4
+26-10-22,Pulau Pinang,13
+26-10-22,Sabah,11
+26-10-22,Sarawak,6
+26-10-22,Selangor,66
+26-10-22,Terengganu,10
+26-10-22,W.P. Kuala Lumpur,18
+26-10-22,W.P. Labuan,0
+26-10-22,W.P. Putrajaya,2
+27-10-22,Johor,42
+27-10-22,Kedah,22
+27-10-22,Kelantan,14
+27-10-22,Melaka,6
+27-10-22,Negeri Sembilan,8
+27-10-22,Pahang,13
+27-10-22,Perak,37
+27-10-22,Perlis,2
+27-10-22,Pulau Pinang,18
+27-10-22,Sabah,24
+27-10-22,Sarawak,11
+27-10-22,Selangor,73
+27-10-22,Terengganu,5
+27-10-22,W.P. Kuala Lumpur,27
+27-10-22,W.P. Labuan,0
+27-10-22,W.P. Putrajaya,10
+28-10-22,Johor,40
+28-10-22,Kedah,18
+28-10-22,Kelantan,15
+28-10-22,Melaka,7
+28-10-22,Negeri Sembilan,21
+28-10-22,Pahang,13
+28-10-22,Perak,58
+28-10-22,Perlis,0
+28-10-22,Pulau Pinang,29
+28-10-22,Sabah,22
+28-10-22,Sarawak,10
+28-10-22,Selangor,90
+28-10-22,Terengganu,7
+28-10-22,W.P. Kuala Lumpur,12
+28-10-22,W.P. Labuan,2
+28-10-22,W.P. Putrajaya,5
+29-10-22,Johor,41
+29-10-22,Kedah,15
+29-10-22,Kelantan,16
+29-10-22,Melaka,3
+29-10-22,Negeri Sembilan,17
+29-10-22,Pahang,14
+29-10-22,Perak,31
+29-10-22,Perlis,3
+29-10-22,Pulau Pinang,26
+29-10-22,Sabah,23
+29-10-22,Sarawak,14
+29-10-22,Selangor,84
+29-10-22,Terengganu,10
+29-10-22,W.P. Kuala Lumpur,27
+29-10-22,W.P. Labuan,1
+29-10-22,W.P. Putrajaya,9
+30-10-22,Johor,55
+30-10-22,Kedah,22
+30-10-22,Kelantan,21
+30-10-22,Melaka,6
+30-10-22,Negeri Sembilan,4
+30-10-22,Pahang,12
+30-10-22,Perak,53
+30-10-22,Perlis,2
+30-10-22,Pulau Pinang,12
+30-10-22,Sabah,23
+30-10-22,Sarawak,9
+30-10-22,Selangor,76
+30-10-22,Terengganu,9
+30-10-22,W.P. Kuala Lumpur,23
+30-10-22,W.P. Labuan,0
+30-10-22,W.P. Putrajaya,7
+31-10-22,Johor,62
+31-10-22,Kedah,23
+31-10-22,Kelantan,20
+31-10-22,Melaka,5
+31-10-22,Negeri Sembilan,7
+31-10-22,Pahang,7
+31-10-22,Perak,26
+31-10-22,Perlis,2
+31-10-22,Pulau Pinang,18
+31-10-22,Sabah,25
+31-10-22,Sarawak,2
+31-10-22,Selangor,84
+31-10-22,Terengganu,5
+31-10-22,W.P. Kuala Lumpur,27
+31-10-22,W.P. Labuan,0
+31-10-22,W.P. Putrajaya,11
+01-11-22,Johor,39
+01-11-22,Kedah,23
+01-11-22,Kelantan,17
+01-11-22,Melaka,10
+01-11-22,Negeri Sembilan,21
+01-11-22,Pahang,20
+01-11-22,Perak,46
+01-11-22,Perlis,3
+01-11-22,Pulau Pinang,16
+01-11-22,Sabah,31
+01-11-22,Sarawak,9
+01-11-22,Selangor,79
+01-11-22,Terengganu,8
+01-11-22,W.P. Kuala Lumpur,30
+01-11-22,W.P. Labuan,0
+01-11-22,W.P. Putrajaya,11
+02-11-22,Johor,44
+02-11-22,Kedah,27
+02-11-22,Kelantan,22
+02-11-22,Melaka,10
+02-11-22,Negeri Sembilan,24
+02-11-22,Pahang,14
+02-11-22,Perak,63
+02-11-22,Perlis,3
+02-11-22,Pulau Pinang,17
+02-11-22,Sabah,33
+02-11-22,Sarawak,9
+02-11-22,Selangor,88
+02-11-22,Terengganu,12
+02-11-22,W.P. Kuala Lumpur,34
+02-11-22,W.P. Labuan,1
+02-11-22,W.P. Putrajaya,13
+03-11-22,Johor,60
+03-11-22,Kedah,23
+03-11-22,Kelantan,23
+03-11-22,Melaka,11
+03-11-22,Negeri Sembilan,18
+03-11-22,Pahang,20
+03-11-22,Perak,56
+03-11-22,Perlis,2
+03-11-22,Pulau Pinang,28
+03-11-22,Sabah,28
+03-11-22,Sarawak,12
+03-11-22,Selangor,111
+03-11-22,Terengganu,8
+03-11-22,W.P. Kuala Lumpur,32
+03-11-22,W.P. Labuan,0
+03-11-22,W.P. Putrajaya,11
+04-11-22,Johor,38
+04-11-22,Kedah,20
+04-11-22,Kelantan,17
+04-11-22,Melaka,10
+04-11-22,Negeri Sembilan,19
+04-11-22,Pahang,15
+04-11-22,Perak,59
+04-11-22,Perlis,5
+04-11-22,Pulau Pinang,25
+04-11-22,Sabah,35
+04-11-22,Sarawak,13
+04-11-22,Selangor,110
+04-11-22,Terengganu,13
+04-11-22,W.P. Kuala Lumpur,30
+04-11-22,W.P. Labuan,0
+04-11-22,W.P. Putrajaya,16
+05-11-22,Johor,41
+05-11-22,Kedah,25
+05-11-22,Kelantan,14
+05-11-22,Melaka,13
+05-11-22,Negeri Sembilan,15
+05-11-22,Pahang,14
+05-11-22,Perak,34
+05-11-22,Perlis,2
+05-11-22,Pulau Pinang,20
+05-11-22,Sabah,41
+05-11-22,Sarawak,11
+05-11-22,Selangor,113
+05-11-22,Terengganu,15
+05-11-22,W.P. Kuala Lumpur,35
+05-11-22,W.P. Labuan,0
+05-11-22,W.P. Putrajaya,22
+06-11-22,Johor,40
+06-11-22,Kedah,19
+06-11-22,Kelantan,18
+06-11-22,Melaka,9
+06-11-22,Negeri Sembilan,15
+06-11-22,Pahang,9
+06-11-22,Perak,51
+06-11-22,Perlis,4
+06-11-22,Pulau Pinang,10
+06-11-22,Sabah,28
+06-11-22,Sarawak,11
+06-11-22,Selangor,112
+06-11-22,Terengganu,9
+06-11-22,W.P. Kuala Lumpur,24
+06-11-22,W.P. Labuan,0
+06-11-22,W.P. Putrajaya,13
+07-11-22,Johor,44
+07-11-22,Kedah,21
+07-11-22,Kelantan,25
+07-11-22,Melaka,13
+07-11-22,Negeri Sembilan,11
+07-11-22,Pahang,18
+07-11-22,Perak,36
+07-11-22,Perlis,2
+07-11-22,Pulau Pinang,27
+07-11-22,Sabah,41
+07-11-22,Sarawak,15
+07-11-22,Selangor,91
+07-11-22,Terengganu,19
+07-11-22,W.P. Kuala Lumpur,43
+07-11-22,W.P. Labuan,0
+07-11-22,W.P. Putrajaya,16
+08-11-22,Johor,50
+08-11-22,Kedah,29
+08-11-22,Kelantan,29
+08-11-22,Melaka,12
+08-11-22,Negeri Sembilan,23
+08-11-22,Pahang,21
+08-11-22,Perak,49
+08-11-22,Perlis,3
+08-11-22,Pulau Pinang,13
+08-11-22,Sabah,43
+08-11-22,Sarawak,10
+08-11-22,Selangor,102
+08-11-22,Terengganu,17
+08-11-22,W.P. Kuala Lumpur,27
+08-11-22,W.P. Labuan,0
+08-11-22,W.P. Putrajaya,13
+09-11-22,Johor,67
+09-11-22,Kedah,30
+09-11-22,Kelantan,24
+09-11-22,Melaka,15
+09-11-22,Negeri Sembilan,13
+09-11-22,Pahang,25
+09-11-22,Perak,57
+09-11-22,Perlis,5
+09-11-22,Pulau Pinang,25
+09-11-22,Sabah,58
+09-11-22,Sarawak,12
+09-11-22,Selangor,106
+09-11-22,Terengganu,12
+09-11-22,W.P. Kuala Lumpur,33
+09-11-22,W.P. Labuan,0
+09-11-22,W.P. Putrajaya,13
+10-11-22,Johor,41
+10-11-22,Kedah,31
+10-11-22,Kelantan,25
+10-11-22,Melaka,16
+10-11-22,Negeri Sembilan,12
+10-11-22,Pahang,15
+10-11-22,Perak,92
+10-11-22,Perlis,8
+10-11-22,Pulau Pinang,13
+10-11-22,Sabah,46
+10-11-22,Sarawak,16
+10-11-22,Selangor,130
+10-11-22,Terengganu,13
+10-11-22,W.P. Kuala Lumpur,32
+10-11-22,W.P. Labuan,1
+10-11-22,W.P. Putrajaya,13
+11-11-22,Johor,56
+11-11-22,Kedah,19
+11-11-22,Kelantan,36
+11-11-22,Melaka,23
+11-11-22,Negeri Sembilan,18
+11-11-22,Pahang,25
+11-11-22,Perak,44
+11-11-22,Perlis,4
+11-11-22,Pulau Pinang,15
+11-11-22,Sabah,60
+11-11-22,Sarawak,17
+11-11-22,Selangor,127
+11-11-22,Terengganu,12
+11-11-22,W.P. Kuala Lumpur,51
+11-11-22,W.P. Labuan,0
+11-11-22,W.P. Putrajaya,14
+12-11-22,Johor,45
+12-11-22,Kedah,26
+12-11-22,Kelantan,22
+12-11-22,Melaka,9
+12-11-22,Negeri Sembilan,12
+12-11-22,Pahang,26
+12-11-22,Perak,53
+12-11-22,Perlis,1
+12-11-22,Pulau Pinang,22
+12-11-22,Sabah,45
+12-11-22,Sarawak,19
+12-11-22,Selangor,97
+12-11-22,Terengganu,15
+12-11-22,W.P. Kuala Lumpur,27
+12-11-22,W.P. Labuan,3
+12-11-22,W.P. Putrajaya,6
+13-11-22,Johor,47
+13-11-22,Kedah,24
+13-11-22,Kelantan,19
+13-11-22,Melaka,21
+13-11-22,Negeri Sembilan,10
+13-11-22,Pahang,22
+13-11-22,Perak,56
+13-11-22,Perlis,4
+13-11-22,Pulau Pinang,25
+13-11-22,Sabah,54
+13-11-22,Sarawak,17
+13-11-22,Selangor,103
+13-11-22,Terengganu,12
+13-11-22,W.P. Kuala Lumpur,30
+13-11-22,W.P. Labuan,0
+13-11-22,W.P. Putrajaya,6
+14-11-22,Johor,37
+14-11-22,Kedah,27
+14-11-22,Kelantan,19
+14-11-22,Melaka,13
+14-11-22,Negeri Sembilan,18
+14-11-22,Pahang,24
+14-11-22,Perak,42
+14-11-22,Perlis,2
+14-11-22,Pulau Pinang,23
+14-11-22,Sabah,53
+14-11-22,Sarawak,14
+14-11-22,Selangor,107
+14-11-22,Terengganu,22
+14-11-22,W.P. Kuala Lumpur,25
+14-11-22,W.P. Labuan,1
+14-11-22,W.P. Putrajaya,6
+15-11-22,Johor,47
+15-11-22,Kedah,25
+15-11-22,Kelantan,31
+15-11-22,Melaka,15
+15-11-22,Negeri Sembilan,25
+15-11-22,Pahang,23
+15-11-22,Perak,43
+15-11-22,Perlis,4
+15-11-22,Pulau Pinang,17
+15-11-22,Sabah,65
+15-11-22,Sarawak,22
+15-11-22,Selangor,115
+15-11-22,Terengganu,20
+15-11-22,W.P. Kuala Lumpur,41
+15-11-22,W.P. Labuan,1
+15-11-22,W.P. Putrajaya,7
+16-11-22,Johor,65
+16-11-22,Kedah,32
+16-11-22,Kelantan,36
+16-11-22,Melaka,14
+16-11-22,Negeri Sembilan,28
+16-11-22,Pahang,41
+16-11-22,Perak,73
+16-11-22,Perlis,2
+16-11-22,Pulau Pinang,27
+16-11-22,Sabah,74
+16-11-22,Sarawak,14
+16-11-22,Selangor,121
+16-11-22,Terengganu,26
+16-11-22,W.P. Kuala Lumpur,34
+16-11-22,W.P. Labuan,3
+16-11-22,W.P. Putrajaya,11
+17-11-22,Johor,60
+17-11-22,Kedah,31
+17-11-22,Kelantan,30
+17-11-22,Melaka,12
+17-11-22,Negeri Sembilan,23
+17-11-22,Pahang,23
+17-11-22,Perak,48
+17-11-22,Perlis,9
+17-11-22,Pulau Pinang,20
+17-11-22,Sabah,48
+17-11-22,Sarawak,21
+17-11-22,Selangor,134
+17-11-22,Terengganu,16
+17-11-22,W.P. Kuala Lumpur,47
+17-11-22,W.P. Labuan,3
+17-11-22,W.P. Putrajaya,7
+18-11-22,Johor,33
+18-11-22,Kedah,31
+18-11-22,Kelantan,33
+18-11-22,Melaka,22
+18-11-22,Negeri Sembilan,22
+18-11-22,Pahang,19
+18-11-22,Perak,77
+18-11-22,Perlis,4
+18-11-22,Pulau Pinang,26
+18-11-22,Sabah,64
+18-11-22,Sarawak,28
+18-11-22,Selangor,128
+18-11-22,Terengganu,22
+18-11-22,W.P. Kuala Lumpur,29
+18-11-22,W.P. Labuan,1
+18-11-22,W.P. Putrajaya,19
+19-11-22,Johor,40
+19-11-22,Kedah,22
+19-11-22,Kelantan,27
+19-11-22,Melaka,19
+19-11-22,Negeri Sembilan,13
+19-11-22,Pahang,22
+19-11-22,Perak,38
+19-11-22,Perlis,3
+19-11-22,Pulau Pinang,26
+19-11-22,Sabah,44
+19-11-22,Sarawak,21
+19-11-22,Selangor,114
+19-11-22,Terengganu,9
+19-11-22,W.P. Kuala Lumpur,38
+19-11-22,W.P. Labuan,0
+19-11-22,W.P. Putrajaya,12
+20-11-22,Johor,28
+20-11-22,Kedah,32
+20-11-22,Kelantan,13
+20-11-22,Melaka,18
+20-11-22,Negeri Sembilan,22
+20-11-22,Pahang,27
+20-11-22,Perak,44
+20-11-22,Perlis,4
+20-11-22,Pulau Pinang,18
+20-11-22,Sabah,40
+20-11-22,Sarawak,29
+20-11-22,Selangor,103
+20-11-22,Terengganu,16
+20-11-22,W.P. Kuala Lumpur,22
+20-11-22,W.P. Labuan,4
+20-11-22,W.P. Putrajaya,11
+21-11-22,Johor,41
+21-11-22,Kedah,34
+21-11-22,Kelantan,34
+21-11-22,Melaka,13
+21-11-22,Negeri Sembilan,12
+21-11-22,Pahang,24
+21-11-22,Perak,49
+21-11-22,Perlis,3
+21-11-22,Pulau Pinang,26
+21-11-22,Sabah,51
+21-11-22,Sarawak,38
+21-11-22,Selangor,119
+21-11-22,Terengganu,21
+21-11-22,W.P. Kuala Lumpur,35
+21-11-22,W.P. Labuan,1
+21-11-22,W.P. Putrajaya,10
+22-11-22,Johor,43
+22-11-22,Kedah,25
+22-11-22,Kelantan,28
+22-11-22,Melaka,17
+22-11-22,Negeri Sembilan,10
+22-11-22,Pahang,31
+22-11-22,Perak,59
+22-11-22,Perlis,2
+22-11-22,Pulau Pinang,17
+22-11-22,Sabah,68
+22-11-22,Sarawak,31
+22-11-22,Selangor,114
+22-11-22,Terengganu,22
+22-11-22,W.P. Kuala Lumpur,33
+22-11-22,W.P. Labuan,2
+22-11-22,W.P. Putrajaya,17
+23-11-22,Johor,59
+23-11-22,Kedah,41
+23-11-22,Kelantan,43
+23-11-22,Melaka,22
+23-11-22,Negeri Sembilan,17
+23-11-22,Pahang,32
+23-11-22,Perak,63
+23-11-22,Perlis,2
+23-11-22,Pulau Pinang,20
+23-11-22,Sabah,58
+23-11-22,Sarawak,28
+23-11-22,Selangor,134
+23-11-22,Terengganu,24
+23-11-22,W.P. Kuala Lumpur,23
+23-11-22,W.P. Labuan,2
+23-11-22,W.P. Putrajaya,11
+24-11-22,Johor,39
+24-11-22,Kedah,52
+24-11-22,Kelantan,31
+24-11-22,Melaka,28
+24-11-22,Negeri Sembilan,19
+24-11-22,Pahang,35
+24-11-22,Perak,80
+24-11-22,Perlis,4
+24-11-22,Pulau Pinang,20
+24-11-22,Sabah,58
+24-11-22,Sarawak,29
+24-11-22,Selangor,113
+24-11-22,Terengganu,35
+24-11-22,W.P. Kuala Lumpur,33
+24-11-22,W.P. Labuan,1
+24-11-22,W.P. Putrajaya,10
+25-11-22,Johor,44
+25-11-22,Kedah,33
+25-11-22,Kelantan,34
+25-11-22,Melaka,21
+25-11-22,Negeri Sembilan,28
+25-11-22,Pahang,21
+25-11-22,Perak,61
+25-11-22,Perlis,3
+25-11-22,Pulau Pinang,19
+25-11-22,Sabah,61
+25-11-22,Sarawak,29
+25-11-22,Selangor,129
+25-11-22,Terengganu,17
+25-11-22,W.P. Kuala Lumpur,28
+25-11-22,W.P. Labuan,1
+25-11-22,W.P. Putrajaya,10
+26-11-22,Johor,50
+26-11-22,Kedah,21
+26-11-22,Kelantan,25
+26-11-22,Melaka,18
+26-11-22,Negeri Sembilan,18
+26-11-22,Pahang,23
+26-11-22,Perak,57
+26-11-22,Perlis,3
+26-11-22,Pulau Pinang,11
+26-11-22,Sabah,50
+26-11-22,Sarawak,36
+26-11-22,Selangor,105
+26-11-22,Terengganu,28
+26-11-22,W.P. Kuala Lumpur,26
+26-11-22,W.P. Labuan,3
+26-11-22,W.P. Putrajaya,5
+27-11-22,Johor,43
+27-11-22,Kedah,29
+27-11-22,Kelantan,14
+27-11-22,Melaka,10
+27-11-22,Negeri Sembilan,19
+27-11-22,Pahang,24
+27-11-22,Perak,47
+27-11-22,Perlis,0
+27-11-22,Pulau Pinang,20
+27-11-22,Sabah,36
+27-11-22,Sarawak,23
+27-11-22,Selangor,85
+27-11-22,Terengganu,17
+27-11-22,W.P. Kuala Lumpur,28
+27-11-22,W.P. Labuan,1
+27-11-22,W.P. Putrajaya,9
+28-11-22,Johor,39
+28-11-22,Kedah,46
+28-11-22,Kelantan,36
+28-11-22,Melaka,12
+28-11-22,Negeri Sembilan,15
+28-11-22,Pahang,24
+28-11-22,Perak,29
+28-11-22,Perlis,1
+28-11-22,Pulau Pinang,25
+28-11-22,Sabah,45
+28-11-22,Sarawak,21
+28-11-22,Selangor,87
+28-11-22,Terengganu,19
+28-11-22,W.P. Kuala Lumpur,26
+28-11-22,W.P. Labuan,0
+28-11-22,W.P. Putrajaya,9
+29-11-22,Johor,30
+29-11-22,Kedah,37
+29-11-22,Kelantan,19
+29-11-22,Melaka,12
+29-11-22,Negeri Sembilan,21
+29-11-22,Pahang,26
+29-11-22,Perak,46
+29-11-22,Perlis,4
+29-11-22,Pulau Pinang,24
+29-11-22,Sabah,35
+29-11-22,Sarawak,34
+29-11-22,Selangor,80
+29-11-22,Terengganu,19
+29-11-22,W.P. Kuala Lumpur,25
+29-11-22,W.P. Labuan,2
+29-11-22,W.P. Putrajaya,4
+30-11-22,Johor,25
+30-11-22,Kedah,38
+30-11-22,Kelantan,31
+30-11-22,Melaka,11
+30-11-22,Negeri Sembilan,5
+30-11-22,Pahang,25
+30-11-22,Perak,62
+30-11-22,Perlis,2
+30-11-22,Pulau Pinang,17
+30-11-22,Sabah,45
+30-11-22,Sarawak,31
+30-11-22,Selangor,100
+30-11-22,Terengganu,19
+30-11-22,W.P. Kuala Lumpur,25
+30-11-22,W.P. Labuan,2
+30-11-22,W.P. Putrajaya,9
