@@ -43,17 +43,10 @@ Based on each specific objective;
 •	github - MOH Malaysia
 https://github.com/MoH-Malaysia/covid19-public
 
-a)	Specific Objective 1: 
-Cases_malaysia.csv (cases_new)
-
-b)	Specific Objective 2: 
-Combine 2 datasets: Hosp.csv (admitted_x ) / cases_malaysia.csv (cases_new)
-
-c)	Specific Objective 3: 
-Combine 2 datasets: icu.csv (icu_x) / cases_malaysia.csv (cases_new)
-
-d)	Specific Objective 4: 
-cases_state.csv
+a)	Specific Objective 1: Cases_malaysia.csv (cases_new)
+b)	Specific Objective 2: Combine 2 datasets: Hosp.csv (admitted_x ) / cases_malaysia.csv (cases_new)
+c)	Specific Objective 3: Combine 2 datasets: icu.csv (icu_x) / cases_malaysia.csv (cases_new)
+d)	Specific Objective 4: cases_state.csv
 
 
 Data cleaning = 4 months (1st Aug until 30th Nov ) using Python
