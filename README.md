@@ -23,26 +23,12 @@ Daily Covid-19 cases admitted to Hospital
 Daily Covid-19 cases admitted to ICU
 Daily Covid-19 cases by each state
 
+Data Collection ;
 Source of data
 github - MOH Malaysia
 https://github.com/MoH-Malaysia/covid19-public
 
-
-
-Data Collection ;
-Source - GitHub KKM, endemic folder
 Based on each specific objective;
-1. Cases_malaysia.csv (cases_new)
-2. cases_state.csv
-3. Combine 2 datasets : Hosp.csv (admitted_x ) / cases_malaysia.csv (cases_new) 
-4. Combine 2 datasets : icu.csv (icu_x) / cases_malaysia.csv (cases_new)
-
-
-
-2.	Source of data
-•	github - MOH Malaysia
-https://github.com/MoH-Malaysia/covid19-public
-
 a)	Specific Objective 1: Cases_malaysia.csv (cases_new)
 b)	Specific Objective 2: Combine 2 datasets: Hosp.csv (admitted_x ) / cases_malaysia.csv (cases_new)
 c)	Specific Objective 3: Combine 2 datasets: icu.csv (icu_x) / cases_malaysia.csv (cases_new)
