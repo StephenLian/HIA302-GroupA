@@ -41,3 +41,12 @@ Data cleaning = 4 months (1st Aug until 30th Nov ) using Python
 3. hospital.csv = Dr Lian
 4. icu.csv = Dr Dura
 
+For ICU cases, there are 2 data frames which are df_icu_daily1 and df_month
+1. df_icu_daily1 = consist of 4 columns and 121 rows
+2. The 4 columns are : date (as index), daily cases, icu cases and % ((no. of icu cases/no. of daily cases)*100)
+3. The 121 rows is representing the date and there are 121 days included in the desriptive analysis. 
+4. df_month is referred to total covid 19 cases reported and admitted to ICU per month (August, September,October and Novmeber 2022)
+5. df_month consist of 4 columns and 5 rows.
+6. df_month columns are : month (index), ICU cases, Monthly cases and % ((total ICU cases per month/ total reported monthly cases)*100)
+7. The 5 rows represent the month which are August, September, October, November and December
+  
